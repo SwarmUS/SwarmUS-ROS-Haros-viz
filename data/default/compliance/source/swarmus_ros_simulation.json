@@ -264,7 +264,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"communicationBroker.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_COMMUNICATIONBROKER_H_  [build/header_guard] [5]",
+    "comment":"communicationBroker.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_COMMUNICATIONBROKER_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -288,7 +288,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"communicationBroker.h:39:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_COMMUNICATIONBROKER_H_\"  [build/header_guard] [5]",
+    "comment":"communicationBroker.h:39:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_COMMUNICATIONBROKER_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -492,7 +492,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"interLocalization.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_INTERLOCALIZATION_H_  [build/header_guard] [5]",
+    "comment":"interLocalization.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_INTERLOCALIZATION_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -516,7 +516,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"interLocalization.h:42:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_INTERLOCALIZATION_H_\"  [build/header_guard] [5]",
+    "comment":"interLocalization.h:42:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_INTERLOCALIZATION_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -648,7 +648,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"interCommunication.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_INTERCOMMUNICATION_H_  [build/header_guard] [5]",
+    "comment":"interCommunication.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_INTERCOMMUNICATION_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -672,7 +672,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"interCommunication.h:30:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_INTERCOMMUNICATION_H_\"  [build/header_guard] [5]",
+    "comment":"interCommunication.h:30:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_INTERCOMMUNICATION_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,

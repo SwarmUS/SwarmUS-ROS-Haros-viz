@@ -12,7 +12,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"DummyUtils.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_DUMMYUTILS_H_  [build/header_guard] [5]",
+    "comment":"DummyUtils.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_DUMMYUTILS_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -36,7 +36,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"DummyUtils.h:18:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_DUMMYUTILS_H_\"  [build/header_guard] [5]",
+    "comment":"DummyUtils.h:18:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_DUMMYUTILS_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,

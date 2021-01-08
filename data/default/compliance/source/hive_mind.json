@@ -120,7 +120,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"BittyBuzzUserFunctions.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_BITTYBUZZUSERFUNCTIONS_H_  [build/header_guard] [5]",
+    "comment":"BittyBuzzUserFunctions.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_BITTYBUZZUSERFUNCTIONS_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -144,7 +144,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"BittyBuzzUserFunctions.h:21:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_BITTYBUZZUSERFUNCTIONS_H_\"  [build/header_guard] [5]",
+    "comment":"BittyBuzzUserFunctions.h:21:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_BITTYBUZZUSERFUNCTIONS_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -216,7 +216,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"BittyBuzzSystem.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_BITTYBUZZSYSTEM_H_  [build/header_guard] [5]",
+    "comment":"BittyBuzzSystem.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_BITTYBUZZSYSTEM_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -240,7 +240,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"BittyBuzzSystem.h:34:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_BITTYBUZZSYSTEM_H_\"  [build/header_guard] [5]",
+    "comment":"BittyBuzzSystem.h:34:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_BITTYBUZZSYSTEM_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -312,7 +312,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"IBittyBuzzVm.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_IBITTYBUZZVM_H_  [build/header_guard] [5]",
+    "comment":"IBittyBuzzVm.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_IBITTYBUZZVM_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -336,7 +336,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"IBittyBuzzVm.h:33:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_IBITTYBUZZVM_H_\"  [build/header_guard] [5]",
+    "comment":"IBittyBuzzVm.h:33:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_IBITTYBUZZVM_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -396,7 +396,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"IBittyBuzzBytecode.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_IBITTYBUZZBYTECODE_H_  [build/header_guard] [5]",
+    "comment":"IBittyBuzzBytecode.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_IBITTYBUZZBYTECODE_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -420,7 +420,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"IBittyBuzzBytecode.h:25:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_IBITTYBUZZBYTECODE_H_\"  [build/header_guard] [5]",
+    "comment":"IBittyBuzzBytecode.h:25:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_IBITTYBUZZBYTECODE_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -480,7 +480,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"BittyBuzzBytecode.h:2:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_BITTYBUZZBYTECODE_H_  [build/header_guard] [5]",
+    "comment":"BittyBuzzBytecode.h:2:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_BITTYBUZZBYTECODE_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -504,7 +504,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"BittyBuzzBytecode.h:26:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_BITTYBUZZBYTECODE_H_\"  [build/header_guard] [5]",
+    "comment":"BittyBuzzBytecode.h:26:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_BITTYBUZZBYTECODE_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -720,7 +720,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"BittyBuzzFactory.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_BITTYBUZZFACTORY_H_  [build/header_guard] [5]",
+    "comment":"BittyBuzzFactory.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_BITTYBUZZFACTORY_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -744,7 +744,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"BittyBuzzFactory.h:21:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_BITTYBUZZFACTORY_H_\"  [build/header_guard] [5]",
+    "comment":"BittyBuzzFactory.h:21:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_BITTYBUZZFACTORY_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -828,7 +828,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"BittyBuzzVm.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_BITTYBUZZVM_H_  [build/header_guard] [5]",
+    "comment":"BittyBuzzVm.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_BITTYBUZZVM_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -852,7 +852,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"BittyBuzzVm.h:53:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_BITTYBUZZVM_H_\"  [build/header_guard] [5]",
+    "comment":"BittyBuzzVm.h:53:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_BITTYBUZZVM_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -1560,7 +1560,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"LoggerInterfaceMock.h:2:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_LOGGERINTERFACEMOCK_H_  [build/header_guard] [5]",
+    "comment":"LoggerInterfaceMock.h:2:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_LOGGERINTERFACEMOCK_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -1584,7 +1584,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"LoggerInterfaceMock.h:24:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_LOGGERINTERFACEMOCK_H_\"  [build/header_guard] [5]",
+    "comment":"LoggerInterfaceMock.h:24:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_LOGGERINTERFACEMOCK_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -1680,7 +1680,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"BSPInterfaceMock.h:2:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_BSPINTERFACEMOCK_H_  [build/header_guard] [5]",
+    "comment":"BSPInterfaceMock.h:2:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_BSPINTERFACEMOCK_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -1704,7 +1704,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"BSPInterfaceMock.h:19:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_BSPINTERFACEMOCK_H_\"  [build/header_guard] [5]",
+    "comment":"BSPInterfaceMock.h:19:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_BSPINTERFACEMOCK_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -1920,7 +1920,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"BittyBuzzVmFixture.h:2:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_BITTYBUZZVMFIXTURE_H_  [build/header_guard] [5]",
+    "comment":"BittyBuzzVmFixture.h:2:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_BITTYBUZZVMFIXTURE_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -1944,7 +1944,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"BittyBuzzVmFixture.h:42:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_BITTYBUZZVMFIXTURE_H_\"  [build/header_guard] [5]",
+    "comment":"BittyBuzzVmFixture.h:42:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_BITTYBUZZVMFIXTURE_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -2124,7 +2124,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"ILogger.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_ILOGGER_H_  [build/header_guard] [5]",
+    "comment":"ILogger.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_ILOGGER_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -2148,7 +2148,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"ILogger.h:51:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_ILOGGER_H_\"  [build/header_guard] [5]",
+    "comment":"ILogger.h:51:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_ILOGGER_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -2244,7 +2244,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"Logger.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_LOGGER_H_  [build/header_guard] [5]",
+    "comment":"Logger.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_LOGGER_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -2268,7 +2268,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"Logger.h:23:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_LOGGER_H_\"  [build/header_guard] [5]",
+    "comment":"Logger.h:23:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_LOGGER_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -2544,7 +2544,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"UserInterfaceMock.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_USERINTERFACEMOCK_H_  [build/header_guard] [5]",
+    "comment":"UserInterfaceMock.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_USERINTERFACEMOCK_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -2568,7 +2568,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"UserInterfaceMock.h:32:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_USERINTERFACEMOCK_H_\"  [build/header_guard] [5]",
+    "comment":"UserInterfaceMock.h:32:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_USERINTERFACEMOCK_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -2784,7 +2784,7 @@
     "rule":"haros_plugin_cpplint:whitespace_before_comments"
   },
   {
-    "comment":"FreeRTOSConfig.h:28:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_FREERTOSCONFIG_H_  [build/header_guard] [5]",
+    "comment":"FreeRTOSConfig.h:28:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_FREERTOSCONFIG_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -2808,7 +2808,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"FreeRTOSConfig.h:122:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_FREERTOSCONFIG_H_\"  [build/header_guard] [5]",
+    "comment":"FreeRTOSConfig.h:122:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_FREERTOSCONFIG_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -3060,7 +3060,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"freertos_platform_config.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_FREERTOS_PLATFORM_CONFIG_H_  [build/header_guard] [5]",
+    "comment":"freertos_platform_config.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_FREERTOS_PLATFORM_CONFIG_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -3084,7 +3084,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"freertos_platform_config.h:8:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_FREERTOS_PLATFORM_CONFIG_H_\"  [build/header_guard] [5]",
+    "comment":"freertos_platform_config.h:8:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_FREERTOS_PLATFORM_CONFIG_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -3120,7 +3120,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"freertos_platform_config.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_FREERTOS_PLATFORM_CONFIG_H_  [build/header_guard] [5]",
+    "comment":"freertos_platform_config.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_FREERTOS_PLATFORM_CONFIG_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -3144,7 +3144,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"freertos_platform_config.h:17:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_FREERTOS_PLATFORM_CONFIG_H_\"  [build/header_guard] [5]",
+    "comment":"freertos_platform_config.h:17:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_FREERTOS_PLATFORM_CONFIG_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -3192,7 +3192,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"UserInterface.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_USERINTERFACE_H_  [build/header_guard] [5]",
+    "comment":"UserInterface.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_USERINTERFACE_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -3216,7 +3216,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"UserInterface.h:15:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_USERINTERFACE_H_\"  [build/header_guard] [5]",
+    "comment":"UserInterface.h:15:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_USERINTERFACE_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -3276,7 +3276,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"BSPContainer.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_BSPCONTAINER_H_  [build/header_guard] [5]",
+    "comment":"BSPContainer.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_BSPCONTAINER_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -3300,7 +3300,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"BSPContainer.h:14:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_BSPCONTAINER_H_\"  [build/header_guard] [5]",
+    "comment":"BSPContainer.h:14:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_BSPCONTAINER_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -3360,7 +3360,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"IBSP.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_IBSP_H_  [build/header_guard] [5]",
+    "comment":"IBSP.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_IBSP_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -3384,7 +3384,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"IBSP.h:29:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_IBSP_H_\"  [build/header_guard] [5]",
+    "comment":"IBSP.h:29:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_IBSP_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -3468,7 +3468,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"IUserInterface.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_IUSERINTERFACE_H_  [build/header_guard] [5]",
+    "comment":"IUserInterface.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_IUSERINTERFACE_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -3492,7 +3492,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"IUserInterface.h:46:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_IUSERINTERFACE_H_\"  [build/header_guard] [5]",
+    "comment":"IUserInterface.h:46:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_IUSERINTERFACE_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -3552,7 +3552,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"circular_buff.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_CIRCULAR_BUFF_H_  [build/header_guard] [5]",
+    "comment":"circular_buff.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_CIRCULAR_BUFF_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -3576,7 +3576,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"circular_buff.h:196:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_CIRCULAR_BUFF_H_\"  [build/header_guard] [5]",
+    "comment":"circular_buff.h:196:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_CIRCULAR_BUFF_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -4992,7 +4992,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"BSP.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_BSP_H_  [build/header_guard] [5]",
+    "comment":"BSP.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_BSP_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -5016,7 +5016,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"BSP.h:20:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_BSP_H_\"  [build/header_guard] [5]",
+    "comment":"BSP.h:20:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_BSP_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -5472,7 +5472,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"BSP.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_BSP_H_  [build/header_guard] [5]",
+    "comment":"BSP.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_BSP_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -5496,7 +5496,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"BSP.h:15:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_BSP_H_\"  [build/header_guard] [5]",
+    "comment":"BSP.h:15:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_BSP_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -5556,7 +5556,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"uart_print.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_UART_PRINT_H_  [build/header_guard] [5]",
+    "comment":"uart_print.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_UART_PRINT_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -5580,7 +5580,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"uart_print.h:25:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_UART_PRINT_H_\"  [build/header_guard] [5]",
+    "comment":"uart_print.h:25:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_UART_PRINT_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -5652,7 +5652,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"hal.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_HAL_H_  [build/header_guard] [5]",
+    "comment":"hal.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_HAL_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -5676,7 +5676,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"hal.h:17:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_HAL_H_\"  [build/header_guard] [5]",
+    "comment":"hal.h:17:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_HAL_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -6300,7 +6300,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"hivemind_hal.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_HIVEMIND_HAL_H_  [build/header_guard] [5]",
+    "comment":"hivemind_hal.h:1:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_HIVEMIND_HAL_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -6324,7 +6324,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"hivemind_hal.h:21:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_HIVEMIND_HAL_H_\"  [build/header_guard] [5]",
+    "comment":"hivemind_hal.h:21:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_HIVEMIND_HAL_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -6408,7 +6408,7 @@
     "rule":"haros_plugin_cpplint:no_copyright"
   },
   {
-    "comment":"stm32f4xx_hal_conf.h:23:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_STM32F4XX_HAL_CONF_H_  [build/header_guard] [5]",
+    "comment":"stm32f4xx_hal_conf.h:23:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_STM32F4XX_HAL_CONF_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -6432,7 +6432,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"stm32f4xx_hal_conf.h:486:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_STM32F4XX_HAL_CONF_H_\"  [build/header_guard] [5]",
+    "comment":"stm32f4xx_hal_conf.h:486:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_STM32F4XX_HAL_CONF_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -7800,7 +7800,7 @@
     "rule":"haros_plugin_cpplint:deprecated_casting"
   },
   {
-    "comment":"main.h:23:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_MAIN_H_  [build/header_guard] [5]",
+    "comment":"main.h:23:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_MAIN_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -7824,7 +7824,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"main.h:119:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_MAIN_H_\"  [build/header_guard] [5]",
+    "comment":"main.h:119:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_MAIN_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -7860,7 +7860,7 @@
     "rule":"haros_plugin_cpplint:dir_in_header"
   },
   {
-    "comment":"gpio.h:20:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_GPIO_H_  [build/header_guard] [5]",
+    "comment":"gpio.h:20:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_GPIO_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -7884,7 +7884,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"gpio.h:47:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_GPIO_H_\"  [build/header_guard] [5]",
+    "comment":"gpio.h:47:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_GPIO_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -7920,7 +7920,7 @@
     "rule":"haros_plugin_cpplint:dir_in_header"
   },
   {
-    "comment":"stm32f4xx_it.h:22:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_STM32F4XX_IT_H_  [build/header_guard] [5]",
+    "comment":"stm32f4xx_it.h:22:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_STM32F4XX_IT_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -7944,7 +7944,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"stm32f4xx_it.h:66:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_STM32F4XX_IT_H_\"  [build/header_guard] [5]",
+    "comment":"stm32f4xx_it.h:66:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_STM32F4XX_IT_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -7968,7 +7968,7 @@
     "rule":"haros_plugin_cpplint:opening_brace_line"
   },
   {
-    "comment":"usart.h:20:  #ifndef header guard has wrong style, please use: _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_USART_H_  [build/header_guard] [5]",
+    "comment":"usart.h:20:  #ifndef header guard has wrong style, please use: _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_USART_H_  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
@@ -7992,7 +7992,7 @@
     "rule":"haros_plugin_cpplint:header_guard_format"
   },
   {
-    "comment":"usart.h:50:  #endif line should be \"#endif  // _TMP_TMPLDFEWW_HAROS_PLUGIN_CPPLINT_USART_H_\"  [build/header_guard] [5]",
+    "comment":"usart.h:50:  #endif line should be \"#endif  // _TMP_TMPXVGQH__HAROS_PLUGIN_CPPLINT_USART_H_\"  [build/header_guard] [5]",
     "resources":[],
     "location":{
       "function":null,
