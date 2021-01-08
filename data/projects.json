@@ -1,0 +1,12 @@
+[
+  {
+    "packages":[
+      "hive_mind",
+      "swarmus_ros_description",
+      "swarmus_ros_simulation",
+      "swarmus_example_pkg"
+    ],
+    "repositories":[],
+    "id":"default"
+  }
+]
