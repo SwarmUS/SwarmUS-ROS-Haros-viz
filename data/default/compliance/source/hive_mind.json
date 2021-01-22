@@ -1,5 +1,17 @@
 [
   {
+    "comment":"Function length of 63",
+    "resources":[],
+    "location":{
+      "function":"MX_GPIO_Init",
+      "line":55,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/gpio.c",
+      "package":"hive_mind"
+    },
+    "rule":"max_function_length_40"
+  },
+  {
     "comment":"function with cyclomatic complexity 12",
     "resources":[],
     "location":{
@@ -55,18 +67,6 @@
       "line":419,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/system_stm32f4xx.c",
-      "package":"hive_mind"
-    },
-    "rule":"max_function_length_40"
-  },
-  {
-    "comment":"Function length of 63",
-    "resources":[],
-    "location":{
-      "function":"MX_GPIO_Init",
-      "line":55,
-      "class":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/gpio.c",
       "package":"hive_mind"
     },
     "rule":"max_function_length_40"
