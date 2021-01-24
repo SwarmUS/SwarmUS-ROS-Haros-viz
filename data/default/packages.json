@@ -14,16 +14,18 @@
       "message_runtime",
       "std_msgs",
       "tf",
+      "swarmus_ros_description",
       "geometry_msgs",
       "joint_state_controller",
-      "message_generation",
-      "rospy"
+      "swarmus_ros_navigation",
+      "rospy",
+      "message_generation"
     ],
     "authors":[],
     "bugTracker":null,
     "id":"swarmus_ros_simulation",
-    "size":"44.41",
-    "lines":1407,
+    "size":"37.07",
+    "lines":1063,
     "analysis":{
       "metrics":{},
       "violations":{
@@ -31,7 +33,7 @@
       }
     },
     "version":"0.0.0",
-    "sloc":1117
+    "sloc":800
   },
   {
     "wiki":null,
@@ -83,14 +85,14 @@
     "authors":[],
     "bugTracker":null,
     "id":"swarmus_ros_description",
-    "size":"1266.27",
-    "lines":1703,
+    "size":"1269.61",
+    "lines":1710,
     "analysis":{
       "metrics":{},
       "violations":{}
     },
     "version":"0.0.0",
-    "sloc":1629
+    "sloc":1636
   },
   {
     "wiki":null,
