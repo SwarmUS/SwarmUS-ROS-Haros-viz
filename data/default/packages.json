@@ -8,7 +8,6 @@
       "SwarmUS"
     ],
     "dependencies":[
-      "xacro",
       "roscpp",
       "controller_manager",
       "robot_state_publisher",
@@ -23,8 +22,8 @@
     "authors":[],
     "bugTracker":null,
     "id":"swarmus_ros_simulation",
-    "size":"44.59",
-    "lines":1411,
+    "size":"44.41",
+    "lines":1407,
     "analysis":{
       "metrics":{},
       "violations":{
@@ -32,7 +31,7 @@
       }
     },
     "version":"0.0.0",
-    "sloc":1118
+    "sloc":1117
   },
   {
     "wiki":null,
