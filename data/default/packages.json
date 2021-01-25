@@ -8,24 +8,23 @@
       "SwarmUS"
     ],
     "dependencies":[
+      "xacro",
       "roscpp",
       "controller_manager",
       "robot_state_publisher",
       "message_runtime",
       "std_msgs",
       "tf",
-      "swarmus_ros_description",
       "geometry_msgs",
       "joint_state_controller",
-      "swarmus_ros_navigation",
-      "rospy",
-      "message_generation"
+      "message_generation",
+      "rospy"
     ],
     "authors":[],
     "bugTracker":null,
     "id":"swarmus_ros_simulation",
-    "size":"37.07",
-    "lines":1063,
+    "size":"44.59",
+    "lines":1411,
     "analysis":{
       "metrics":{},
       "violations":{
@@ -33,7 +32,7 @@
       }
     },
     "version":"0.0.0",
-    "sloc":800
+    "sloc":1118
   },
   {
     "wiki":null,
@@ -85,14 +84,14 @@
     "authors":[],
     "bugTracker":null,
     "id":"swarmus_ros_description",
-    "size":"1269.61",
-    "lines":1710,
+    "size":"1266.27",
+    "lines":1703,
     "analysis":{
       "metrics":{},
       "violations":{}
     },
     "version":"0.0.0",
-    "sloc":1636
+    "sloc":1629
   },
   {
     "wiki":null,
