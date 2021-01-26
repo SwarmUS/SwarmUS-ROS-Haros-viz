@@ -8,24 +8,24 @@
       "file":"src/Main.cpp",
       "package":"hive_mind"
     },
-    "value":37
+    "value":45
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"printThreadExample",
-      "line":15,
+      "line":16,
       "class":null,
       "file":"src/Main.cpp",
       "package":"hive_mind"
     },
-    "value":2
+    "value":3
   },
   {
     "metric":"function_parameters",
     "location":{
       "function":"printThreadExample",
-      "line":15,
+      "line":16,
       "class":null,
       "file":"src/Main.cpp",
       "package":"hive_mind"
@@ -36,18 +36,18 @@
     "metric":"ploc",
     "location":{
       "function":"printThreadExample",
-      "line":15,
+      "line":16,
       "class":null,
       "file":"src/Main.cpp",
       "package":"hive_mind"
     },
-    "value":17
+    "value":24
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"main",
-      "line":36,
+      "line":49,
       "class":null,
       "file":"src/Main.cpp",
       "package":"hive_mind"
@@ -58,7 +58,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"main",
-      "line":36,
+      "line":49,
       "class":null,
       "file":"src/Main.cpp",
       "package":"hive_mind"
@@ -69,7 +69,7 @@
     "metric":"ploc",
     "location":{
       "function":"main",
-      "line":36,
+      "line":49,
       "class":null,
       "file":"src/Main.cpp",
       "package":"hive_mind"
@@ -82,10 +82,21 @@
       "function":null,
       "line":null,
       "class":null,
+      "file":"src/bittybuzz/include/bittybuzz/IBittyBuzzStringResolver.h",
+      "package":"hive_mind"
+    },
+    "value":7
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
       "file":"src/bittybuzz/include/bittybuzz/BittyBuzzUserFunctions.h",
       "package":"hive_mind"
     },
-    "value":3
+    "value":4
   },
   {
     "metric":"ploc",
@@ -96,7 +107,7 @@
       "file":"src/bittybuzz/include/bittybuzz/BittyBuzzSystem.h",
       "package":"hive_mind"
     },
-    "value":7
+    "value":9
   },
   {
     "metric":"ploc",
@@ -140,7 +151,7 @@
       "file":"src/bittybuzz/include/bittybuzz/BittyBuzzVm.tpp",
       "package":"hive_mind"
     },
-    "value":21
+    "value":23
   },
   {
     "metric":"cyclomatic_complexity",
@@ -162,7 +173,7 @@
       "file":"src/bittybuzz/include/bittybuzz/BittyBuzzVm.tpp",
       "package":"hive_mind"
     },
-    "value":4
+    "value":5
   },
   {
     "metric":"ploc",
@@ -173,7 +184,7 @@
       "file":"src/bittybuzz/include/bittybuzz/BittyBuzzVm.tpp",
       "package":"hive_mind"
     },
-    "value":17
+    "value":19
   },
   {
     "metric":"ploc",
@@ -184,7 +195,18 @@
       "file":"src/bittybuzz/include/bittybuzz/BittyBuzzFactory.h",
       "package":"hive_mind"
     },
-    "value":8
+    "value":10
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bittybuzz/include/bittybuzz/BittyBuzzStringResolver.h",
+      "package":"hive_mind"
+    },
+    "value":17
   },
   {
     "metric":"ploc",
@@ -195,7 +217,7 @@
       "file":"src/bittybuzz/include/bittybuzz/BittyBuzzVm.h",
       "package":"hive_mind"
     },
-    "value":29
+    "value":31
   },
   {
     "metric":"ploc",
@@ -203,194 +225,7 @@
       "function":null,
       "line":null,
       "class":null,
-      "file":"src/bittybuzz/src/BittyBuzzBytecode.cpp",
-      "package":"hive_mind"
-    },
-    "value":33
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"bbz_bcodeFetcher",
-      "line":10,
-      "class":null,
-      "file":"src/bittybuzz/src/BittyBuzzBytecode.cpp",
-      "package":"hive_mind"
-    },
-    "value":4
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"bbz_bcodeFetcher",
-      "line":10,
-      "class":null,
-      "file":"src/bittybuzz/src/BittyBuzzBytecode.cpp",
-      "package":"hive_mind"
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"bbz_bcodeFetcher",
-      "line":10,
-      "class":null,
-      "file":"src/bittybuzz/src/BittyBuzzBytecode.cpp",
-      "package":"hive_mind"
-    },
-    "value":13
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"BittyBuzzBytecode::BittyBuzzBytecode",
-      "line":25,
-      "class":null,
-      "file":"src/bittybuzz/src/BittyBuzzBytecode.cpp",
-      "package":"hive_mind"
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"BittyBuzzBytecode::BittyBuzzBytecode",
-      "line":25,
-      "class":null,
-      "file":"src/bittybuzz/src/BittyBuzzBytecode.cpp",
-      "package":"hive_mind"
-    },
-    "value":3
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"BittyBuzzBytecode::BittyBuzzBytecode",
-      "line":25,
-      "class":null,
-      "file":"src/bittybuzz/src/BittyBuzzBytecode.cpp",
-      "package":"hive_mind"
-    },
-    "value":10
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"BittyBuzzBytecode::getBytecodeFetchFunction",
-      "line":37,
-      "class":null,
-      "file":"src/bittybuzz/src/BittyBuzzBytecode.cpp",
-      "package":"hive_mind"
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"BittyBuzzBytecode::getBytecodeFetchFunction",
-      "line":37,
-      "class":null,
-      "file":"src/bittybuzz/src/BittyBuzzBytecode.cpp",
-      "package":"hive_mind"
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"BittyBuzzBytecode::getBytecodeFetchFunction",
-      "line":37,
-      "class":null,
-      "file":"src/bittybuzz/src/BittyBuzzBytecode.cpp",
-      "package":"hive_mind"
-    },
-    "value":3
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"BittyBuzzBytecode::getBytecodeLength",
-      "line":41,
-      "class":null,
-      "file":"src/bittybuzz/src/BittyBuzzBytecode.cpp",
-      "package":"hive_mind"
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"BittyBuzzBytecode::getBytecodeLength",
-      "line":41,
-      "class":null,
-      "file":"src/bittybuzz/src/BittyBuzzBytecode.cpp",
-      "package":"hive_mind"
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"BittyBuzzBytecode::getBytecodeLength",
-      "line":41,
-      "class":null,
-      "file":"src/bittybuzz/src/BittyBuzzBytecode.cpp",
-      "package":"hive_mind"
-    },
-    "value":1
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "line":null,
-      "class":null,
-      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
-      "package":"hive_mind"
-    },
-    "value":8
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"BittyBuzzUserFunctions::logInt",
-      "line":4,
-      "class":null,
-      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
-      "package":"hive_mind"
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"BittyBuzzUserFunctions::logInt",
-      "line":4,
-      "class":null,
-      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
-      "package":"hive_mind"
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"BittyBuzzUserFunctions::logInt",
-      "line":4,
-      "class":null,
-      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
-      "package":"hive_mind"
-    },
-    "value":6
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "line":null,
-      "class":null,
-      "file":"src/bittybuzz/src/BittyBuzzSystem.cpp",
+      "file":"src/bittybuzz/src/BittyBuzzStringResolver.cpp",
       "package":"hive_mind"
     },
     "value":21
@@ -398,8 +233,305 @@
   {
     "metric":"cyclomatic_complexity",
     "location":{
+      "function":"BittyBuzzStringResolver::BittyBuzzStringResolver",
+      "line":3,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzStringResolver.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"BittyBuzzStringResolver::BittyBuzzStringResolver",
+      "line":3,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzStringResolver.cpp",
+      "package":"hive_mind"
+    },
+    "value":4
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"BittyBuzzStringResolver::BittyBuzzStringResolver",
+      "line":3,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzStringResolver.cpp",
+      "package":"hive_mind"
+    },
+    "value":9
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"BittyBuzzStringResolver::getString",
+      "line":13,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzStringResolver.cpp",
+      "package":"hive_mind"
+    },
+    "value":4
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"BittyBuzzStringResolver::getString",
+      "line":13,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzStringResolver.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"BittyBuzzStringResolver::getString",
+      "line":13,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzStringResolver.cpp",
+      "package":"hive_mind"
+    },
+    "value":11
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzBytecode.cpp",
+      "package":"hive_mind"
+    },
+    "value":31
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"bbz_bcodeFetcher",
+      "line":10,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzBytecode.cpp",
+      "package":"hive_mind"
+    },
+    "value":4
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"bbz_bcodeFetcher",
+      "line":10,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzBytecode.cpp",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"bbz_bcodeFetcher",
+      "line":10,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzBytecode.cpp",
+      "package":"hive_mind"
+    },
+    "value":13
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"BittyBuzzBytecode::BittyBuzzBytecode",
+      "line":25,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzBytecode.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"BittyBuzzBytecode::BittyBuzzBytecode",
+      "line":25,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzBytecode.cpp",
+      "package":"hive_mind"
+    },
+    "value":3
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"BittyBuzzBytecode::BittyBuzzBytecode",
+      "line":25,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzBytecode.cpp",
+      "package":"hive_mind"
+    },
+    "value":8
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"BittyBuzzBytecode::getBytecodeFetchFunction",
+      "line":34,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzBytecode.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"BittyBuzzBytecode::getBytecodeFetchFunction",
+      "line":34,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzBytecode.cpp",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"BittyBuzzBytecode::getBytecodeFetchFunction",
+      "line":34,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzBytecode.cpp",
+      "package":"hive_mind"
+    },
+    "value":3
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"BittyBuzzBytecode::getBytecodeLength",
+      "line":38,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzBytecode.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"BittyBuzzBytecode::getBytecodeLength",
+      "line":38,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzBytecode.cpp",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"BittyBuzzBytecode::getBytecodeLength",
+      "line":38,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzBytecode.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
+      "package":"hive_mind"
+    },
+    "value":23
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"BittyBuzzUserFunctions::logInt",
+      "line":4,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"BittyBuzzUserFunctions::logInt",
+      "line":4,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"BittyBuzzUserFunctions::logInt",
+      "line":4,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
+      "package":"hive_mind"
+    },
+    "value":6
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"BittyBuzzUserFunctions::logString",
+      "line":12,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
+      "package":"hive_mind"
+    },
+    "value":3
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"BittyBuzzUserFunctions::logString",
+      "line":12,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"BittyBuzzUserFunctions::logString",
+      "line":12,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
+      "package":"hive_mind"
+    },
+    "value":15
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzSystem.cpp",
+      "package":"hive_mind"
+    },
+    "value":22
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
       "function":"BittyBuzzSystem::functionCall",
-      "line":5,
+      "line":6,
       "class":null,
       "file":"src/bittybuzz/src/BittyBuzzSystem.cpp",
       "package":"hive_mind"
@@ -410,7 +542,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"BittyBuzzSystem::functionCall",
-      "line":5,
+      "line":6,
       "class":null,
       "file":"src/bittybuzz/src/BittyBuzzSystem.cpp",
       "package":"hive_mind"
@@ -421,7 +553,7 @@
     "metric":"ploc",
     "location":{
       "function":"BittyBuzzSystem::functionCall",
-      "line":5,
+      "line":6,
       "class":null,
       "file":"src/bittybuzz/src/BittyBuzzSystem.cpp",
       "package":"hive_mind"
@@ -432,7 +564,7 @@
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"BittyBuzzSystem::errorReceiver",
-      "line":17,
+      "line":18,
       "class":null,
       "file":"src/bittybuzz/src/BittyBuzzSystem.cpp",
       "package":"hive_mind"
@@ -443,7 +575,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"BittyBuzzSystem::errorReceiver",
-      "line":17,
+      "line":18,
       "class":null,
       "file":"src/bittybuzz/src/BittyBuzzSystem.cpp",
       "package":"hive_mind"
@@ -454,7 +586,7 @@
     "metric":"ploc",
     "location":{
       "function":"BittyBuzzSystem::errorReceiver",
-      "line":17,
+      "line":18,
       "class":null,
       "file":"src/bittybuzz/src/BittyBuzzSystem.cpp",
       "package":"hive_mind"
@@ -580,7 +712,7 @@
       "file":"src/bittybuzz/src/BittyBuzzFactory.cpp",
       "package":"hive_mind"
     },
-    "value":12
+    "value":17
   },
   {
     "metric":"cyclomatic_complexity",
@@ -618,7 +750,7 @@
   {
     "metric":"cyclomatic_complexity",
     "location":{
-      "function":"BittyBuzzFactory::createBittyBuzzFunctionRegisters",
+      "function":"BittyBuzzFactory::createBittyBuzzStringResolver",
       "line":13,
       "class":null,
       "file":"src/bittybuzz/src/BittyBuzzFactory.cpp",
@@ -629,8 +761,41 @@
   {
     "metric":"function_parameters",
     "location":{
-      "function":"BittyBuzzFactory::createBittyBuzzFunctionRegisters",
+      "function":"BittyBuzzFactory::createBittyBuzzStringResolver",
       "line":13,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzFactory.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"BittyBuzzFactory::createBittyBuzzStringResolver",
+      "line":13,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzFactory.cpp",
+      "package":"hive_mind"
+    },
+    "value":4
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"BittyBuzzFactory::createBittyBuzzFunctionRegisters",
+      "line":18,
+      "class":null,
+      "file":"src/bittybuzz/src/BittyBuzzFactory.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"BittyBuzzFactory::createBittyBuzzFunctionRegisters",
+      "line":18,
       "class":null,
       "file":"src/bittybuzz/src/BittyBuzzFactory.cpp",
       "package":"hive_mind"
@@ -641,12 +806,12 @@
     "metric":"ploc",
     "location":{
       "function":"BittyBuzzFactory::createBittyBuzzFunctionRegisters",
-      "line":13,
+      "line":18,
       "class":null,
       "file":"src/bittybuzz/src/BittyBuzzFactory.cpp",
       "package":"hive_mind"
     },
-    "value":3
+    "value":4
   },
   {
     "metric":"ploc",
@@ -657,13 +822,13 @@
       "file":"src/bittybuzz/tests/BittyBuzzBytecodeUnitTests.cpp",
       "package":"hive_mind"
     },
-    "value":55
+    "value":59
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"BittyBuzzBytecodeTestFixture::SetUp",
-      "line":14,
+      "line":16,
       "class":null,
       "file":"src/bittybuzz/tests/BittyBuzzBytecodeUnitTests.cpp",
       "package":"hive_mind"
@@ -674,7 +839,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"BittyBuzzBytecodeTestFixture::SetUp",
-      "line":14,
+      "line":16,
       "class":null,
       "file":"src/bittybuzz/tests/BittyBuzzBytecodeUnitTests.cpp",
       "package":"hive_mind"
@@ -685,7 +850,7 @@
     "metric":"ploc",
     "location":{
       "function":"BittyBuzzBytecodeTestFixture::SetUp",
-      "line":14,
+      "line":16,
       "class":null,
       "file":"src/bittybuzz/tests/BittyBuzzBytecodeUnitTests.cpp",
       "package":"hive_mind"
@@ -696,7 +861,7 @@
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"BittyBuzzBytecodeTestFixture::TearDown",
-      "line":23,
+      "line":25,
       "class":null,
       "file":"src/bittybuzz/tests/BittyBuzzBytecodeUnitTests.cpp",
       "package":"hive_mind"
@@ -707,7 +872,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"BittyBuzzBytecodeTestFixture::TearDown",
-      "line":23,
+      "line":25,
       "class":null,
       "file":"src/bittybuzz/tests/BittyBuzzBytecodeUnitTests.cpp",
       "package":"hive_mind"
@@ -718,18 +883,18 @@
     "metric":"ploc",
     "location":{
       "function":"BittyBuzzBytecodeTestFixture::TearDown",
-      "line":23,
+      "line":25,
       "class":null,
       "file":"src/bittybuzz/tests/BittyBuzzBytecodeUnitTests.cpp",
       "package":"hive_mind"
     },
-    "value":1
+    "value":4
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"TEST_F",
-      "line":26,
+      "line":31,
       "class":null,
       "file":"src/bittybuzz/tests/BittyBuzzBytecodeUnitTests.cpp",
       "package":"hive_mind"
@@ -740,7 +905,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"TEST_F",
-      "line":26,
+      "line":31,
       "class":null,
       "file":"src/bittybuzz/tests/BittyBuzzBytecodeUnitTests.cpp",
       "package":"hive_mind"
@@ -751,7 +916,7 @@
     "metric":"ploc",
     "location":{
       "function":"TEST_F",
-      "line":26,
+      "line":31,
       "class":null,
       "file":"src/bittybuzz/tests/BittyBuzzBytecodeUnitTests.cpp",
       "package":"hive_mind"
@@ -762,7 +927,7 @@
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"TEST_F",
-      "line":39,
+      "line":44,
       "class":null,
       "file":"src/bittybuzz/tests/BittyBuzzBytecodeUnitTests.cpp",
       "package":"hive_mind"
@@ -773,7 +938,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"TEST_F",
-      "line":39,
+      "line":44,
       "class":null,
       "file":"src/bittybuzz/tests/BittyBuzzBytecodeUnitTests.cpp",
       "package":"hive_mind"
@@ -784,7 +949,7 @@
     "metric":"ploc",
     "location":{
       "function":"TEST_F",
-      "line":39,
+      "line":44,
       "class":null,
       "file":"src/bittybuzz/tests/BittyBuzzBytecodeUnitTests.cpp",
       "package":"hive_mind"
@@ -795,7 +960,7 @@
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"TEST_F",
-      "line":53,
+      "line":58,
       "class":null,
       "file":"src/bittybuzz/tests/BittyBuzzBytecodeUnitTests.cpp",
       "package":"hive_mind"
@@ -806,7 +971,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"TEST_F",
-      "line":53,
+      "line":58,
       "class":null,
       "file":"src/bittybuzz/tests/BittyBuzzBytecodeUnitTests.cpp",
       "package":"hive_mind"
@@ -817,7 +982,7 @@
     "metric":"ploc",
     "location":{
       "function":"TEST_F",
-      "line":53,
+      "line":58,
       "class":null,
       "file":"src/bittybuzz/tests/BittyBuzzBytecodeUnitTests.cpp",
       "package":"hive_mind"
@@ -828,7 +993,7 @@
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"TEST_F",
-      "line":64,
+      "line":69,
       "class":null,
       "file":"src/bittybuzz/tests/BittyBuzzBytecodeUnitTests.cpp",
       "package":"hive_mind"
@@ -839,7 +1004,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"TEST_F",
-      "line":64,
+      "line":69,
       "class":null,
       "file":"src/bittybuzz/tests/BittyBuzzBytecodeUnitTests.cpp",
       "package":"hive_mind"
@@ -850,7 +1015,7 @@
     "metric":"ploc",
     "location":{
       "function":"TEST_F",
-      "line":64,
+      "line":69,
       "class":null,
       "file":"src/bittybuzz/tests/BittyBuzzBytecodeUnitTests.cpp",
       "package":"hive_mind"
@@ -861,7 +1026,7 @@
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"TEST_F",
-      "line":75,
+      "line":80,
       "class":null,
       "file":"src/bittybuzz/tests/BittyBuzzBytecodeUnitTests.cpp",
       "package":"hive_mind"
@@ -872,7 +1037,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"TEST_F",
-      "line":75,
+      "line":80,
       "class":null,
       "file":"src/bittybuzz/tests/BittyBuzzBytecodeUnitTests.cpp",
       "package":"hive_mind"
@@ -883,7 +1048,7 @@
     "metric":"ploc",
     "location":{
       "function":"TEST_F",
-      "line":75,
+      "line":80,
       "class":null,
       "file":"src/bittybuzz/tests/BittyBuzzBytecodeUnitTests.cpp",
       "package":"hive_mind"
@@ -896,16 +1061,302 @@
       "function":null,
       "line":null,
       "class":null,
+      "file":"src/bittybuzz/tests/BittyBuzzStringResolverUnitTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":66
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"BittyBuzzStringResolverTestFixture::SetUp",
+      "line":16,
+      "class":null,
+      "file":"src/bittybuzz/tests/BittyBuzzStringResolverUnitTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"BittyBuzzStringResolverTestFixture::SetUp",
+      "line":16,
+      "class":null,
+      "file":"src/bittybuzz/tests/BittyBuzzStringResolverUnitTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"BittyBuzzStringResolverTestFixture::SetUp",
+      "line":16,
+      "class":null,
+      "file":"src/bittybuzz/tests/BittyBuzzStringResolverUnitTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":5
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"BittyBuzzStringResolverTestFixture::TearDown",
+      "line":22,
+      "class":null,
+      "file":"src/bittybuzz/tests/BittyBuzzStringResolverUnitTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"BittyBuzzStringResolverTestFixture::TearDown",
+      "line":22,
+      "class":null,
+      "file":"src/bittybuzz/tests/BittyBuzzStringResolverUnitTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"BittyBuzzStringResolverTestFixture::TearDown",
+      "line":22,
+      "class":null,
+      "file":"src/bittybuzz/tests/BittyBuzzStringResolverUnitTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":4
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "line":28,
+      "class":null,
+      "file":"src/bittybuzz/tests/BittyBuzzStringResolverUnitTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "line":28,
+      "class":null,
+      "file":"src/bittybuzz/tests/BittyBuzzStringResolverUnitTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "line":28,
+      "class":null,
+      "file":"src/bittybuzz/tests/BittyBuzzStringResolverUnitTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":7
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "line":40,
+      "class":null,
+      "file":"src/bittybuzz/tests/BittyBuzzStringResolverUnitTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "line":40,
+      "class":null,
+      "file":"src/bittybuzz/tests/BittyBuzzStringResolverUnitTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "line":40,
+      "class":null,
+      "file":"src/bittybuzz/tests/BittyBuzzStringResolverUnitTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":7
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "line":52,
+      "class":null,
+      "file":"src/bittybuzz/tests/BittyBuzzStringResolverUnitTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "line":52,
+      "class":null,
+      "file":"src/bittybuzz/tests/BittyBuzzStringResolverUnitTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "line":52,
+      "class":null,
+      "file":"src/bittybuzz/tests/BittyBuzzStringResolverUnitTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":7
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "line":64,
+      "class":null,
+      "file":"src/bittybuzz/tests/BittyBuzzStringResolverUnitTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "line":64,
+      "class":null,
+      "file":"src/bittybuzz/tests/BittyBuzzStringResolverUnitTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "line":64,
+      "class":null,
+      "file":"src/bittybuzz/tests/BittyBuzzStringResolverUnitTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":7
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "line":76,
+      "class":null,
+      "file":"src/bittybuzz/tests/BittyBuzzStringResolverUnitTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "line":76,
+      "class":null,
+      "file":"src/bittybuzz/tests/BittyBuzzStringResolverUnitTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "line":76,
+      "class":null,
+      "file":"src/bittybuzz/tests/BittyBuzzStringResolverUnitTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":6
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "line":87,
+      "class":null,
+      "file":"src/bittybuzz/tests/BittyBuzzStringResolverUnitTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "line":87,
+      "class":null,
+      "file":"src/bittybuzz/tests/BittyBuzzStringResolverUnitTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "line":87,
+      "class":null,
+      "file":"src/bittybuzz/tests/BittyBuzzStringResolverUnitTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":10
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bittybuzz/tests/mocks/BittyBuzzStringResolverInterfaceMock.h",
+      "package":"hive_mind"
+    },
+    "value":7
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
       "file":"src/bittybuzz/tests/mocks/LoggerInterfaceMock.h",
       "package":"hive_mind"
     },
-    "value":14
+    "value":24
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"LoggerInterfaceMock::LoggerInterfaceMock",
-      "line":12,
+      "line":15,
       "class":null,
       "file":"src/bittybuzz/tests/mocks/LoggerInterfaceMock.h",
       "package":"hive_mind"
@@ -916,29 +1367,29 @@
     "metric":"function_parameters",
     "location":{
       "function":"LoggerInterfaceMock::LoggerInterfaceMock",
-      "line":12,
+      "line":15,
       "class":null,
       "file":"src/bittybuzz/tests/mocks/LoggerInterfaceMock.h",
       "package":"hive_mind"
     },
-    "value":1
+    "value":2
   },
   {
     "metric":"ploc",
     "location":{
       "function":"LoggerInterfaceMock::LoggerInterfaceMock",
-      "line":12,
+      "line":15,
       "class":null,
       "file":"src/bittybuzz/tests/mocks/LoggerInterfaceMock.h",
       "package":"hive_mind"
     },
-    "value":1
+    "value":2
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"LoggerInterfaceMock::log",
-      "line":15,
+      "line":19,
       "class":null,
       "file":"src/bittybuzz/tests/mocks/LoggerInterfaceMock.h",
       "package":"hive_mind"
@@ -949,7 +1400,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"LoggerInterfaceMock::log",
-      "line":15,
+      "line":19,
       "class":null,
       "file":"src/bittybuzz/tests/mocks/LoggerInterfaceMock.h",
       "package":"hive_mind"
@@ -960,12 +1411,12 @@
     "metric":"ploc",
     "location":{
       "function":"LoggerInterfaceMock::log",
-      "line":15,
+      "line":19,
       "class":null,
       "file":"src/bittybuzz/tests/mocks/LoggerInterfaceMock.h",
       "package":"hive_mind"
     },
-    "value":6
+    "value":12
   },
   {
     "metric":"ploc",
@@ -1284,13 +1735,13 @@
       "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmFixture.h",
       "package":"hive_mind"
     },
-    "value":30
+    "value":33
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"BittyBuzzVmTestFixture::SetUp",
-      "line":23,
+      "line":26,
       "class":null,
       "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmFixture.h",
       "package":"hive_mind"
@@ -1301,7 +1752,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"BittyBuzzVmTestFixture::SetUp",
-      "line":23,
+      "line":26,
       "class":null,
       "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmFixture.h",
       "package":"hive_mind"
@@ -1312,7 +1763,7 @@
     "metric":"ploc",
     "location":{
       "function":"BittyBuzzVmTestFixture::SetUp",
-      "line":23,
+      "line":26,
       "class":null,
       "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmFixture.h",
       "package":"hive_mind"
@@ -1323,7 +1774,7 @@
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"BittyBuzzVmTestFixture::TearDown",
-      "line":34,
+      "line":39,
       "class":null,
       "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmFixture.h",
       "package":"hive_mind"
@@ -1334,7 +1785,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"BittyBuzzVmTestFixture::TearDown",
-      "line":34,
+      "line":39,
       "class":null,
       "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmFixture.h",
       "package":"hive_mind"
@@ -1345,7 +1796,7 @@
     "metric":"ploc",
     "location":{
       "function":"BittyBuzzVmTestFixture::TearDown",
-      "line":34,
+      "line":39,
       "class":null,
       "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmFixture.h",
       "package":"hive_mind"
@@ -1439,6 +1890,61 @@
       "package":"hive_mind"
     },
     "value":8
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmLogTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":20
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "line":6,
+      "class":null,
+      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmLogTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "line":6,
+      "class":null,
+      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmLogTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "line":6,
+      "class":null,
+      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmLogTests.cpp",
+      "package":"hive_mind"
+    },
+    "value":16
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/logger/include/logger/LoggerContainer.h",
+      "package":"hive_mind"
+    },
+    "value":4
   },
   {
     "metric":"ploc",
@@ -1461,6 +1967,50 @@
       "package":"hive_mind"
     },
     "value":14
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/logger/src/LoggerContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":6
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"LoggerContainer::getLogger",
+      "line":4,
+      "class":null,
+      "file":"src/logger/src/LoggerContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"LoggerContainer::getLogger",
+      "line":4,
+      "class":null,
+      "file":"src/logger/src/LoggerContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"LoggerContainer::getLogger",
+      "line":4,
+      "class":null,
+      "file":"src/logger/src/LoggerContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":4
   },
   {
     "metric":"ploc",
@@ -2084,7 +2634,29 @@
       "function":null,
       "line":null,
       "class":null,
-      "file":"src/bsp/include/bsp/UserInterface.h",
+      "file":"src/bsp/include/bsp/IHostUart.h",
+      "package":"hive_mind"
+    },
+    "value":7
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bsp/include/bsp/SocketContainer.h",
+      "package":"hive_mind"
+    },
+    "value":7
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bsp/include/bsp/ITCPClient.h",
       "package":"hive_mind"
     },
     "value":8
@@ -2095,10 +2667,186 @@
       "function":null,
       "line":null,
       "class":null,
+      "file":"src/bsp/include/bsp/TCPClientWrapper.h",
+      "package":"hive_mind"
+    },
+    "value":16
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TCPClientWrapper::TCPClientWrapper",
+      "line":12,
+      "class":null,
+      "file":"src/bsp/include/bsp/TCPClientWrapper.h",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TCPClientWrapper::TCPClientWrapper",
+      "line":12,
+      "class":null,
+      "file":"src/bsp/include/bsp/TCPClientWrapper.h",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TCPClientWrapper::TCPClientWrapper",
+      "line":12,
+      "class":null,
+      "file":"src/bsp/include/bsp/TCPClientWrapper.h",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TCPClientWrapper::~TCPClientWrapper",
+      "line":14,
+      "class":null,
+      "file":"src/bsp/include/bsp/TCPClientWrapper.h",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TCPClientWrapper::~TCPClientWrapper",
+      "line":14,
+      "class":null,
+      "file":"src/bsp/include/bsp/TCPClientWrapper.h",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TCPClientWrapper::~TCPClientWrapper",
+      "line":14,
+      "class":null,
+      "file":"src/bsp/include/bsp/TCPClientWrapper.h",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TCPClientWrapper::receive",
+      "line":16,
+      "class":null,
+      "file":"src/bsp/include/bsp/TCPClientWrapper.h",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TCPClientWrapper::receive",
+      "line":16,
+      "class":null,
+      "file":"src/bsp/include/bsp/TCPClientWrapper.h",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TCPClientWrapper::receive",
+      "line":16,
+      "class":null,
+      "file":"src/bsp/include/bsp/TCPClientWrapper.h",
+      "package":"hive_mind"
+    },
+    "value":3
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TCPClientWrapper::send",
+      "line":20,
+      "class":null,
+      "file":"src/bsp/include/bsp/TCPClientWrapper.h",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TCPClientWrapper::send",
+      "line":20,
+      "class":null,
+      "file":"src/bsp/include/bsp/TCPClientWrapper.h",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TCPClientWrapper::send",
+      "line":20,
+      "class":null,
+      "file":"src/bsp/include/bsp/TCPClientWrapper.h",
+      "package":"hive_mind"
+    },
+    "value":3
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TCPClientWrapper::close",
+      "line":24,
+      "class":null,
+      "file":"src/bsp/include/bsp/TCPClientWrapper.h",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TCPClientWrapper::close",
+      "line":24,
+      "class":null,
+      "file":"src/bsp/include/bsp/TCPClientWrapper.h",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TCPClientWrapper::close",
+      "line":24,
+      "class":null,
+      "file":"src/bsp/include/bsp/TCPClientWrapper.h",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
       "file":"src/bsp/include/bsp/BSPContainer.h",
       "package":"hive_mind"
     },
-    "value":5
+    "value":10
   },
   {
     "metric":"ploc",
@@ -2121,6 +2869,17 @@
       "package":"hive_mind"
     },
     "value":7
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bsp/include/bsp/ICRC.h",
+      "package":"hive_mind"
+    },
+    "value":6
   },
   {
     "metric":"ploc",
@@ -3778,10 +4537,131 @@
       "function":null,
       "line":null,
       "class":null,
+      "file":"src/bsp/src/posix/include/HostUart.h",
+      "package":"hive_mind"
+    },
+    "value":8
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bsp/src/posix/include/TCPClient.h",
+      "package":"hive_mind"
+    },
+    "value":15
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bsp/src/posix/include/SocketFactory.h",
+      "package":"hive_mind"
+    },
+    "value":8
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bsp/src/posix/include/UserInterface.h",
+      "package":"hive_mind"
+    },
+    "value":8
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
       "file":"src/bsp/src/posix/include/BSP.h",
       "package":"hive_mind"
     },
     "value":12
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bsp/src/posix/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":7
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"HostUart::send",
+      "line":3,
+      "class":null,
+      "file":"src/bsp/src/posix/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"HostUart::send",
+      "line":3,
+      "class":null,
+      "file":"src/bsp/src/posix/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"HostUart::send",
+      "line":3,
+      "class":null,
+      "file":"src/bsp/src/posix/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":5
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"HostUart::isBusy",
+      "line":10,
+      "class":null,
+      "file":"src/bsp/src/posix/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"HostUart::isBusy",
+      "line":10,
+      "class":null,
+      "file":"src/bsp/src/posix/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"HostUart::isBusy",
+      "line":10,
+      "class":null,
+      "file":"src/bsp/src/posix/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
   },
   {
     "metric":"ploc",
@@ -3968,13 +4848,13 @@
       "file":"src/bsp/src/posix/src/BSPContainer.cpp",
       "package":"hive_mind"
     },
-    "value":6
+    "value":16
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"BSPContainer::getBSP",
-      "line":4,
+      "line":6,
       "class":null,
       "file":"src/bsp/src/posix/src/BSPContainer.cpp",
       "package":"hive_mind"
@@ -3985,7 +4865,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"BSPContainer::getBSP",
-      "line":4,
+      "line":6,
       "class":null,
       "file":"src/bsp/src/posix/src/BSPContainer.cpp",
       "package":"hive_mind"
@@ -3996,12 +4876,254 @@
     "metric":"ploc",
     "location":{
       "function":"BSPContainer::getBSP",
-      "line":4,
+      "line":6,
       "class":null,
       "file":"src/bsp/src/posix/src/BSPContainer.cpp",
       "package":"hive_mind"
     },
     "value":4
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"BSPContainer::getUserInterface",
+      "line":12,
+      "class":null,
+      "file":"src/bsp/src/posix/src/BSPContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"BSPContainer::getUserInterface",
+      "line":12,
+      "class":null,
+      "file":"src/bsp/src/posix/src/BSPContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"BSPContainer::getUserInterface",
+      "line":12,
+      "class":null,
+      "file":"src/bsp/src/posix/src/BSPContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":4
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"BSPContainer::getHostUart",
+      "line":17,
+      "class":null,
+      "file":"src/bsp/src/posix/src/BSPContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"BSPContainer::getHostUart",
+      "line":17,
+      "class":null,
+      "file":"src/bsp/src/posix/src/BSPContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"BSPContainer::getHostUart",
+      "line":17,
+      "class":null,
+      "file":"src/bsp/src/posix/src/BSPContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":4
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "package":"hive_mind"
+    },
+    "value":25
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TCPClient::TCPClient",
+      "line":10,
+      "class":null,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TCPClient::TCPClient",
+      "line":10,
+      "class":null,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "package":"hive_mind"
+    },
+    "value":3
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TCPClient::TCPClient",
+      "line":10,
+      "class":null,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TCPClient::~TCPClient",
+      "line":13,
+      "class":null,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TCPClient::~TCPClient",
+      "line":13,
+      "class":null,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TCPClient::~TCPClient",
+      "line":13,
+      "class":null,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TCPClient::receive",
+      "line":15,
+      "class":null,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TCPClient::receive",
+      "line":15,
+      "class":null,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TCPClient::receive",
+      "line":15,
+      "class":null,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "package":"hive_mind"
+    },
+    "value":3
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TCPClient::send",
+      "line":19,
+      "class":null,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TCPClient::send",
+      "line":19,
+      "class":null,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TCPClient::send",
+      "line":19,
+      "class":null,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "package":"hive_mind"
+    },
+    "value":3
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TCPClient::close",
+      "line":23,
+      "class":null,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TCPClient::close",
+      "line":23,
+      "class":null,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TCPClient::close",
+      "line":23,
+      "class":null,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "package":"hive_mind"
+    },
+    "value":8
   },
   {
     "metric":"ploc",
@@ -4086,10 +5208,153 @@
       "function":null,
       "line":null,
       "class":null,
+      "file":"src/bsp/src/posix/src/SocketContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":24
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"SocketContainer::getHostClientSocket",
+      "line":8,
+      "class":null,
+      "file":"src/bsp/src/posix/src/SocketContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":3
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"SocketContainer::getHostClientSocket",
+      "line":8,
+      "class":null,
+      "file":"src/bsp/src/posix/src/SocketContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"SocketContainer::getHostClientSocket",
+      "line":8,
+      "class":null,
+      "file":"src/bsp/src/posix/src/SocketContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":18
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bsp/src/posix/src/SocketFactory.cpp",
+      "package":"hive_mind"
+    },
+    "value":25
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"SocketFactory::createTCPClient",
+      "line":9,
+      "class":null,
+      "file":"src/bsp/src/posix/src/SocketFactory.cpp",
+      "package":"hive_mind"
+    },
+    "value":3
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"SocketFactory::createTCPClient",
+      "line":9,
+      "class":null,
+      "file":"src/bsp/src/posix/src/SocketFactory.cpp",
+      "package":"hive_mind"
+    },
+    "value":3
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"SocketFactory::createTCPClient",
+      "line":9,
+      "class":null,
+      "file":"src/bsp/src/posix/src/SocketFactory.cpp",
+      "package":"hive_mind"
+    },
+    "value":18
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bsp/src/stm32/include/HostUart.h",
+      "package":"hive_mind"
+    },
+    "value":35
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bsp/src/stm32/include/UserInterface.h",
+      "package":"hive_mind"
+    },
+    "value":8
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bsp/src/stm32/include/CRC.h",
+      "package":"hive_mind"
+    },
+    "value":11
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
       "file":"src/bsp/src/stm32/include/BSP.h",
       "package":"hive_mind"
     },
     "value":8
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/include/hal/uart.h",
+      "package":"hive_mind"
+    },
+    "value":3
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/include/hal/uart_host.h",
+      "package":"hive_mind"
+    },
+    "value":14
   },
   {
     "metric":"ploc",
@@ -4111,7 +5376,7 @@
       "file":"src/bsp/src/stm32/hal/include/hal/hal.h",
       "package":"hive_mind"
     },
-    "value":3
+    "value":5
   },
   {
     "metric":"ploc",
@@ -4265,7 +5530,7 @@
       "file":"src/bsp/src/stm32/hal/src/hal.c",
       "package":"hive_mind"
     },
-    "value":10
+    "value":16
   },
   {
     "metric":"cyclomatic_complexity",
@@ -4298,7 +5563,183 @@
       "file":"src/bsp/src/stm32/hal/src/hal.c",
       "package":"hive_mind"
     },
-    "value":7
+    "value":10
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"Hal_calculateCRC32",
+      "line":26,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/src/hal.c",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"Hal_calculateCRC32",
+      "line":26,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/src/hal.c",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"Hal_calculateCRC32",
+      "line":26,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/src/hal.c",
+      "package":"hive_mind"
+    },
+    "value":3
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/src/uart_host.c",
+      "package":"hive_mind"
+    },
+    "value":43
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"UartHost_transmitBuffer",
+      "line":8,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/src/uart_host.c",
+      "package":"hive_mind"
+    },
+    "value":3
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"UartHost_transmitBuffer",
+      "line":8,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/src/uart_host.c",
+      "package":"hive_mind"
+    },
+    "value":4
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"UartHost_transmitBuffer",
+      "line":8,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/src/uart_host.c",
+      "package":"hive_mind"
+    },
+    "value":15
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"UartHost_receiveDMA",
+      "line":25,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/src/uart_host.c",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"UartHost_receiveDMA",
+      "line":25,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/src/uart_host.c",
+      "package":"hive_mind"
+    },
+    "value":4
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"UartHost_receiveDMA",
+      "line":25,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/src/uart_host.c",
+      "package":"hive_mind"
+    },
+    "value":13
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"UartHost_rxCallback",
+      "line":40,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/src/uart_host.c",
+      "package":"hive_mind"
+    },
+    "value":3
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"UartHost_rxCallback",
+      "line":40,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/src/uart_host.c",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"UartHost_rxCallback",
+      "line":40,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/src/uart_host.c",
+      "package":"hive_mind"
+    },
+    "value":5
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"UartHost_txCallback",
+      "line":46,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/src/uart_host.c",
+      "package":"hive_mind"
+    },
+    "value":3
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"UartHost_txCallback",
+      "line":46,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/src/uart_host.c",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"UartHost_txCallback",
+      "line":46,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/src/uart_host.c",
+      "package":"hive_mind"
+    },
+    "value":5
   },
   {
     "metric":"ploc",
@@ -4947,24 +6388,24 @@
       "file":"src/bsp/src/stm32/hal/src/uart.c",
       "package":"hive_mind"
     },
-    "value":6
+    "value":14
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"HAL_UART_TxCpltCallback",
-      "line":4,
+      "line":5,
       "class":null,
       "file":"src/bsp/src/stm32/hal/src/uart.c",
       "package":"hive_mind"
     },
-    "value":2
+    "value":3
   },
   {
     "metric":"function_parameters",
     "location":{
       "function":"HAL_UART_TxCpltCallback",
-      "line":4,
+      "line":5,
       "class":null,
       "file":"src/bsp/src/stm32/hal/src/uart.c",
       "package":"hive_mind"
@@ -4975,7 +6416,40 @@
     "metric":"ploc",
     "location":{
       "function":"HAL_UART_TxCpltCallback",
-      "line":4,
+      "line":5,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/src/uart.c",
+      "package":"hive_mind"
+    },
+    "value":7
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"HAL_UART_RxCpltCallback",
+      "line":14,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/src/uart.c",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"HAL_UART_RxCpltCallback",
+      "line":14,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/src/uart.c",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"HAL_UART_RxCpltCallback",
+      "line":14,
       "class":null,
       "file":"src/bsp/src/stm32/hal/src/uart.c",
       "package":"hive_mind"
@@ -4991,7 +6465,18 @@
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Inc/hivemind_hal.h",
       "package":"hive_mind"
     },
-    "value":7
+    "value":9
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Inc/dma.h",
+      "package":"hive_mind"
+    },
+    "value":4
   },
   {
     "metric":"ploc",
@@ -5035,7 +6520,7 @@
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Inc/stm32f4xx_it.h",
       "package":"hive_mind"
     },
-    "value":10
+    "value":13
   },
   {
     "metric":"ploc",
@@ -5046,7 +6531,18 @@
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Inc/usart.h",
       "package":"hive_mind"
     },
-    "value":6
+    "value":8
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Inc/crc.h",
+      "package":"hive_mind"
+    },
+    "value":5
   },
   {
     "metric":"ploc",
@@ -5101,13 +6597,13 @@
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/main.c",
       "package":"hive_mind"
     },
-    "value":42
+    "value":44
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"SystemClock_Config",
-      "line":71,
+      "line":73,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/main.c",
       "package":"hive_mind"
@@ -5118,7 +6614,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"SystemClock_Config",
-      "line":71,
+      "line":73,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/main.c",
       "package":"hive_mind"
@@ -5129,7 +6625,7 @@
     "metric":"ploc",
     "location":{
       "function":"SystemClock_Config",
-      "line":71,
+      "line":73,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/main.c",
       "package":"hive_mind"
@@ -5140,7 +6636,7 @@
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"HAL_TIM_PeriodElapsedCallback",
-      "line":119,
+      "line":121,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/main.c",
       "package":"hive_mind"
@@ -5151,7 +6647,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"HAL_TIM_PeriodElapsedCallback",
-      "line":119,
+      "line":121,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/main.c",
       "package":"hive_mind"
@@ -5162,7 +6658,7 @@
     "metric":"ploc",
     "location":{
       "function":"HAL_TIM_PeriodElapsedCallback",
-      "line":119,
+      "line":121,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/main.c",
       "package":"hive_mind"
@@ -5173,7 +6669,7 @@
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"Error_Handler",
-      "line":135,
+      "line":137,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/main.c",
       "package":"hive_mind"
@@ -5184,7 +6680,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"Error_Handler",
-      "line":135,
+      "line":137,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/main.c",
       "package":"hive_mind"
@@ -5195,7 +6691,7 @@
     "metric":"ploc",
     "location":{
       "function":"Error_Handler",
-      "line":135,
+      "line":137,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/main.c",
       "package":"hive_mind"
@@ -5206,7 +6702,7 @@
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"assert_failed",
-      "line":152,
+      "line":154,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/main.c",
       "package":"hive_mind"
@@ -5217,7 +6713,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"assert_failed",
-      "line":152,
+      "line":154,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/main.c",
       "package":"hive_mind"
@@ -5228,7 +6724,7 @@
     "metric":"ploc",
     "location":{
       "function":"assert_failed",
-      "line":152,
+      "line":154,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/main.c",
       "package":"hive_mind"
@@ -5384,6 +6880,160 @@
       "function":null,
       "line":null,
       "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/crc.c",
+      "package":"hive_mind"
+    },
+    "value":18
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"MX_CRC_Init",
+      "line":30,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/crc.c",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"MX_CRC_Init",
+      "line":30,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/crc.c",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"MX_CRC_Init",
+      "line":30,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/crc.c",
+      "package":"hive_mind"
+    },
+    "value":6
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"HAL_CRC_MspInit",
+      "line":38,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/crc.c",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"HAL_CRC_MspInit",
+      "line":38,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/crc.c",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"HAL_CRC_MspInit",
+      "line":38,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/crc.c",
+      "package":"hive_mind"
+    },
+    "value":5
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"HAL_CRC_MspDeInit",
+      "line":52,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/crc.c",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"HAL_CRC_MspDeInit",
+      "line":52,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/crc.c",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"HAL_CRC_MspDeInit",
+      "line":52,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/crc.c",
+      "package":"hive_mind"
+    },
+    "value":5
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/dma.c",
+      "package":"hive_mind"
+    },
+    "value":8
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"MX_DMA_Init",
+      "line":38,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/dma.c",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"MX_DMA_Init",
+      "line":38,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/dma.c",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"MX_DMA_Init",
+      "line":38,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/dma.c",
+      "package":"hive_mind"
+    },
+    "value":7
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_hal_msp.c",
       "package":"hive_mind"
     },
@@ -5431,13 +7081,13 @@
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
       "package":"hive_mind"
     },
-    "value":34
+    "value":46
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"NMI_Handler",
-      "line":74,
+      "line":77,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
       "package":"hive_mind"
@@ -5448,7 +7098,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"NMI_Handler",
-      "line":74,
+      "line":77,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
       "package":"hive_mind"
@@ -5459,7 +7109,7 @@
     "metric":"ploc",
     "location":{
       "function":"NMI_Handler",
-      "line":74,
+      "line":77,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
       "package":"hive_mind"
@@ -5470,7 +7120,7 @@
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"HardFault_Handler",
-      "line":87,
+      "line":90,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
       "package":"hive_mind"
@@ -5481,7 +7131,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"HardFault_Handler",
-      "line":87,
+      "line":90,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
       "package":"hive_mind"
@@ -5492,7 +7142,7 @@
     "metric":"ploc",
     "location":{
       "function":"HardFault_Handler",
-      "line":87,
+      "line":90,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
       "package":"hive_mind"
@@ -5503,7 +7153,7 @@
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"MemManage_Handler",
-      "line":100,
+      "line":103,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
       "package":"hive_mind"
@@ -5514,7 +7164,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"MemManage_Handler",
-      "line":100,
+      "line":103,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
       "package":"hive_mind"
@@ -5525,7 +7175,7 @@
     "metric":"ploc",
     "location":{
       "function":"MemManage_Handler",
-      "line":100,
+      "line":103,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
       "package":"hive_mind"
@@ -5536,7 +7186,7 @@
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"BusFault_Handler",
-      "line":113,
+      "line":116,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
       "package":"hive_mind"
@@ -5547,7 +7197,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"BusFault_Handler",
-      "line":113,
+      "line":116,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
       "package":"hive_mind"
@@ -5558,7 +7208,7 @@
     "metric":"ploc",
     "location":{
       "function":"BusFault_Handler",
-      "line":113,
+      "line":116,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
       "package":"hive_mind"
@@ -5569,7 +7219,7 @@
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"UsageFault_Handler",
-      "line":126,
+      "line":129,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
       "package":"hive_mind"
@@ -5580,7 +7230,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"UsageFault_Handler",
-      "line":126,
+      "line":129,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
       "package":"hive_mind"
@@ -5591,7 +7241,7 @@
     "metric":"ploc",
     "location":{
       "function":"UsageFault_Handler",
-      "line":126,
+      "line":129,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
       "package":"hive_mind"
@@ -5602,7 +7252,7 @@
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"DebugMon_Handler",
-      "line":139,
+      "line":142,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
       "package":"hive_mind"
@@ -5613,7 +7263,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"DebugMon_Handler",
-      "line":139,
+      "line":142,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
       "package":"hive_mind"
@@ -5624,7 +7274,7 @@
     "metric":"ploc",
     "location":{
       "function":"DebugMon_Handler",
-      "line":139,
+      "line":142,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
       "package":"hive_mind"
@@ -5634,8 +7284,74 @@
   {
     "metric":"cyclomatic_complexity",
     "location":{
+      "function":"DMA1_Stream5_IRQHandler",
+      "line":161,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"DMA1_Stream5_IRQHandler",
+      "line":161,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"DMA1_Stream5_IRQHandler",
+      "line":161,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
+      "package":"hive_mind"
+    },
+    "value":3
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"DMA1_Stream6_IRQHandler",
+      "line":174,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"DMA1_Stream6_IRQHandler",
+      "line":174,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"DMA1_Stream6_IRQHandler",
+      "line":174,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
+      "package":"hive_mind"
+    },
+    "value":3
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
       "function":"TIM1_UP_TIM10_IRQHandler",
-      "line":158,
+      "line":187,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
       "package":"hive_mind"
@@ -5646,7 +7362,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"TIM1_UP_TIM10_IRQHandler",
-      "line":158,
+      "line":187,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
       "package":"hive_mind"
@@ -5657,7 +7373,40 @@
     "metric":"ploc",
     "location":{
       "function":"TIM1_UP_TIM10_IRQHandler",
-      "line":158,
+      "line":187,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
+      "package":"hive_mind"
+    },
+    "value":3
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"USART2_IRQHandler",
+      "line":200,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"USART2_IRQHandler",
+      "line":200,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"USART2_IRQHandler",
+      "line":200,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
       "package":"hive_mind"
@@ -5668,7 +7417,7 @@
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"USART3_IRQHandler",
-      "line":171,
+      "line":213,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
       "package":"hive_mind"
@@ -5679,7 +7428,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"USART3_IRQHandler",
-      "line":171,
+      "line":213,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
       "package":"hive_mind"
@@ -5690,7 +7439,7 @@
     "metric":"ploc",
     "location":{
       "function":"USART3_IRQHandler",
-      "line":171,
+      "line":213,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
       "package":"hive_mind"
@@ -5816,13 +7565,46 @@
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
       "package":"hive_mind"
     },
-    "value":37
+    "value":98
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"MX_USART2_UART_Init",
+      "line":33,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"MX_USART2_UART_Init",
+      "line":33,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"MX_USART2_UART_Init",
+      "line":33,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
+      "package":"hive_mind"
+    },
+    "value":13
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"MX_USART3_UART_Init",
-      "line":30,
+      "line":49,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
       "package":"hive_mind"
@@ -5833,7 +7615,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"MX_USART3_UART_Init",
-      "line":30,
+      "line":49,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
       "package":"hive_mind"
@@ -5844,7 +7626,7 @@
     "metric":"ploc",
     "location":{
       "function":"MX_USART3_UART_Init",
-      "line":30,
+      "line":49,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
       "package":"hive_mind"
@@ -5855,18 +7637,18 @@
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"HAL_UART_MspInit",
-      "line":45,
+      "line":64,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
       "package":"hive_mind"
     },
-    "value":2
+    "value":5
   },
   {
     "metric":"function_parameters",
     "location":{
       "function":"HAL_UART_MspInit",
-      "line":45,
+      "line":64,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
       "package":"hive_mind"
@@ -5877,9 +7659,284 @@
     "metric":"ploc",
     "location":{
       "function":"HAL_UART_MspInit",
-      "line":45,
+      "line":64,
       "class":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
+      "package":"hive_mind"
+    },
+    "value":54
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"HAL_UART_MspDeInit",
+      "line":154,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
+      "package":"hive_mind"
+    },
+    "value":3
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"HAL_UART_MspDeInit",
+      "line":154,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"HAL_UART_MspDeInit",
+      "line":154,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
+      "package":"hive_mind"
+    },
+    "value":13
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":108
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"hostUart_C_txCpltCallback",
+      "line":8,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"hostUart_C_txCpltCallback",
+      "line":8,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"hostUart_C_txCpltCallback",
+      "line":8,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":3
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"hostUart_C_rxCpltCallback",
+      "line":12,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"hostUart_C_rxCpltCallback",
+      "line":12,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"hostUart_C_rxCpltCallback",
+      "line":12,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":3
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"HostUart_processTask",
+      "line":16,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"HostUart_processTask",
+      "line":16,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"HostUart_processTask",
+      "line":16,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":7
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"HostUart::HostUart",
+      "line":25,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"HostUart::HostUart",
+      "line":25,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"HostUart::HostUart",
+      "line":25,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":11
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"HostUart::send",
+      "line":42,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":4
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"HostUart::send",
+      "line":42,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"HostUart::send",
+      "line":42,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":23
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"HostUart::startHeaderListen",
+      "line":73,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"HostUart::startHeaderListen",
+      "line":73,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"HostUart::startHeaderListen",
+      "line":73,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":10
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"HostUart::txCpltCallback",
+      "line":86,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":3
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"HostUart::txCpltCallback",
+      "line":86,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"HostUart::txCpltCallback",
+      "line":86,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
       "package":"hive_mind"
     },
     "value":15
@@ -5887,35 +7944,101 @@
   {
     "metric":"cyclomatic_complexity",
     "location":{
-      "function":"HAL_UART_MspDeInit",
-      "line":75,
+      "function":"HostUart::rxCpltCallback",
+      "line":105,
       "class":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
       "package":"hive_mind"
     },
-    "value":2
+    "value":3
   },
   {
     "metric":"function_parameters",
     "location":{
-      "function":"HAL_UART_MspDeInit",
-      "line":75,
+      "function":"HostUart::rxCpltCallback",
+      "line":105,
       "class":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"HostUart::rxCpltCallback",
+      "line":105,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":16
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"HostUart::process",
+      "line":123,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":4
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"HostUart::process",
+      "line":123,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"HostUart::process",
+      "line":123,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":13
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"HostUart::isBusy",
+      "line":138,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
       "package":"hive_mind"
     },
     "value":1
   },
   {
-    "metric":"ploc",
+    "metric":"function_parameters",
     "location":{
-      "function":"HAL_UART_MspDeInit",
-      "line":75,
+      "function":"HostUart::isBusy",
+      "line":138,
       "class":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
       "package":"hive_mind"
     },
-    "value":7
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"HostUart::isBusy",
+      "line":138,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
   },
   {
     "metric":"ploc",
@@ -6003,13 +8126,13 @@
       "file":"src/bsp/src/stm32/src/BSPContainer.cpp",
       "package":"hive_mind"
     },
-    "value":6
+    "value":22
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"BSPContainer::getBSP",
-      "line":4,
+      "line":8,
       "class":null,
       "file":"src/bsp/src/stm32/src/BSPContainer.cpp",
       "package":"hive_mind"
@@ -6020,7 +8143,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"BSPContainer::getBSP",
-      "line":4,
+      "line":8,
       "class":null,
       "file":"src/bsp/src/stm32/src/BSPContainer.cpp",
       "package":"hive_mind"
@@ -6031,12 +8154,221 @@
     "metric":"ploc",
     "location":{
       "function":"BSPContainer::getBSP",
-      "line":4,
+      "line":8,
       "class":null,
       "file":"src/bsp/src/stm32/src/BSPContainer.cpp",
       "package":"hive_mind"
     },
     "value":4
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"BSPContainer::getUserInterface",
+      "line":14,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/BSPContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"BSPContainer::getUserInterface",
+      "line":14,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/BSPContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"BSPContainer::getUserInterface",
+      "line":14,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/BSPContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":4
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"BSPContainer::getHostUart",
+      "line":19,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/BSPContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"BSPContainer::getHostUart",
+      "line":19,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/BSPContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"BSPContainer::getHostUart",
+      "line":19,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/BSPContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":4
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"BSPContainer::getCRC",
+      "line":25,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/BSPContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"BSPContainer::getCRC",
+      "line":25,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/BSPContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"BSPContainer::getCRC",
+      "line":25,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/BSPContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":4
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/CRC.cpp",
+      "package":"hive_mind"
+    },
+    "value":15
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"CRC::CRC",
+      "line":4,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/CRC.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"CRC::CRC",
+      "line":4,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/CRC.cpp",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"CRC::CRC",
+      "line":4,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/CRC.cpp",
+      "package":"hive_mind"
+    },
+    "value":4
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"CRC::~CRC",
+      "line":11,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/CRC.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"CRC::~CRC",
+      "line":11,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/CRC.cpp",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"CRC::~CRC",
+      "line":11,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/CRC.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"CRC::calculateCRC32",
+      "line":13,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/CRC.cpp",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"CRC::calculateCRC32",
+      "line":13,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/CRC.cpp",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"CRC::calculateCRC32",
+      "line":13,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/CRC.cpp",
+      "package":"hive_mind"
+    },
+    "value":8
   },
   {
     "metric":"ploc",
@@ -6114,6 +8446,50 @@
       "package":"hive_mind"
     },
     "value":5
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/SocketContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":2
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"SocketContainer::getHostClientSocket",
+      "line":3,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/SocketContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"SocketContainer::getHostClientSocket",
+      "line":3,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/SocketContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"SocketContainer::getHostClientSocket",
+      "line":3,
+      "class":null,
+      "file":"src/bsp/src/stm32/src/SocketContainer.cpp",
+      "package":"hive_mind"
+    },
+    "value":1
   },
   {
     "metric":"ploc",
