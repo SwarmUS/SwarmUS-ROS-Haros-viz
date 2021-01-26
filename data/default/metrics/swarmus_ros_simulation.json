@@ -162,12 +162,12 @@
       "file":"src/tf_publisher.cpp",
       "package":"swarmus_ros_simulation"
     },
-    "value":24
+    "value":25
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
-      "function":"poseToTransform",
+      "function":"getUnitTransform",
       "line":5,
       "class":null,
       "file":"src/tf_publisher.cpp",
@@ -178,18 +178,18 @@
   {
     "metric":"function_parameters",
     "location":{
-      "function":"poseToTransform",
+      "function":"getUnitTransform",
       "line":5,
       "class":null,
       "file":"src/tf_publisher.cpp",
       "package":"swarmus_ros_simulation"
     },
-    "value":1
+    "value":0
   },
   {
     "metric":"ploc",
     "location":{
-      "function":"poseToTransform",
+      "function":"getUnitTransform",
       "line":5,
       "class":null,
       "file":"src/tf_publisher.cpp",
@@ -228,13 +228,13 @@
       "file":"src/tf_publisher.cpp",
       "package":"swarmus_ros_simulation"
     },
-    "value":10
+    "value":11
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"main",
-      "line":31,
+      "line":32,
       "class":null,
       "file":"src/tf_publisher.cpp",
       "package":"swarmus_ros_simulation"
@@ -245,7 +245,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"main",
-      "line":31,
+      "line":32,
       "class":null,
       "file":"src/tf_publisher.cpp",
       "package":"swarmus_ros_simulation"
@@ -256,7 +256,7 @@
     "metric":"ploc",
     "location":{
       "function":"main",
-      "line":31,
+      "line":32,
       "class":null,
       "file":"src/tf_publisher.cpp",
       "package":"swarmus_ros_simulation"
@@ -272,7 +272,7 @@
       "file":"src/interCommunication.cpp",
       "package":"swarmus_ros_simulation"
     },
-    "value":34
+    "value":33
   },
   {
     "metric":"cyclomatic_complexity",
@@ -338,13 +338,13 @@
       "file":"src/interCommunication.cpp",
       "package":"swarmus_ros_simulation"
     },
-    "value":4
+    "value":3
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"InterCommunication::communicationCallback",
-      "line":20,
+      "line":18,
       "class":null,
       "file":"src/interCommunication.cpp",
       "package":"swarmus_ros_simulation"
@@ -355,7 +355,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"InterCommunication::communicationCallback",
-      "line":20,
+      "line":18,
       "class":null,
       "file":"src/interCommunication.cpp",
       "package":"swarmus_ros_simulation"
@@ -366,7 +366,7 @@
     "metric":"ploc",
     "location":{
       "function":"InterCommunication::communicationCallback",
-      "line":20,
+      "line":18,
       "class":null,
       "file":"src/interCommunication.cpp",
       "package":"swarmus_ros_simulation"
@@ -377,7 +377,7 @@
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"InterCommunication::getRobotName",
-      "line":24,
+      "line":22,
       "class":null,
       "file":"src/interCommunication.cpp",
       "package":"swarmus_ros_simulation"
@@ -388,7 +388,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"InterCommunication::getRobotName",
-      "line":24,
+      "line":22,
       "class":null,
       "file":"src/interCommunication.cpp",
       "package":"swarmus_ros_simulation"
@@ -399,7 +399,7 @@
     "metric":"ploc",
     "location":{
       "function":"InterCommunication::getRobotName",
-      "line":24,
+      "line":22,
       "class":null,
       "file":"src/interCommunication.cpp",
       "package":"swarmus_ros_simulation"
@@ -410,7 +410,7 @@
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"main",
-      "line":26,
+      "line":24,
       "class":null,
       "file":"src/interCommunication.cpp",
       "package":"swarmus_ros_simulation"
@@ -421,7 +421,7 @@
     "metric":"function_parameters",
     "location":{
       "function":"main",
-      "line":26,
+      "line":24,
       "class":null,
       "file":"src/interCommunication.cpp",
       "package":"swarmus_ros_simulation"
@@ -432,7 +432,7 @@
     "metric":"ploc",
     "location":{
       "function":"main",
-      "line":26,
+      "line":24,
       "class":null,
       "file":"src/interCommunication.cpp",
       "package":"swarmus_ros_simulation"
