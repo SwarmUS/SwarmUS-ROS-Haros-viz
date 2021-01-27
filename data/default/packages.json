@@ -8,24 +8,23 @@
       "SwarmUS"
     ],
     "dependencies":[
+      "xacro",
       "roscpp",
       "controller_manager",
       "robot_state_publisher",
       "message_runtime",
       "std_msgs",
       "tf",
-      "swarmus_ros_description",
       "geometry_msgs",
       "joint_state_controller",
-      "swarmus_ros_navigation",
-      "rospy",
-      "message_generation"
+      "message_generation",
+      "rospy"
     ],
     "authors":[],
     "bugTracker":null,
     "id":"swarmus_ros_simulation",
-    "size":"37.00",
-    "lines":1058,
+    "size":"44.59",
+    "lines":1411,
     "analysis":{
       "metrics":{},
       "violations":{
@@ -33,7 +32,7 @@
       }
     },
     "version":"0.0.0",
-    "sloc":799
+    "sloc":1118
   },
   {
     "wiki":null,
@@ -52,21 +51,21 @@
     "authors":[],
     "bugTracker":null,
     "id":"hive_mind",
-    "size":"262.13",
-    "lines":8567,
+    "size":"211.63",
+    "lines":6853,
     "analysis":{
       "metrics":{},
       "violations":{
         "haros_plugin_pylint:convention":36,
         "max_cyclomatic_complexity_15":2,
         "haros_plugin_pylint:refactor":4,
-        "max_function_length_40":6,
+        "max_function_length_40":5,
         "max_cyclomatic_complexity_10":4,
         "haros_plugin_pylint:warning":5
       }
     },
     "version":"0.0.0",
-    "sloc":7033
+    "sloc":5661
   },
   {
     "wiki":null,
@@ -85,14 +84,14 @@
     "authors":[],
     "bugTracker":null,
     "id":"swarmus_ros_description",
-    "size":"1269.61",
-    "lines":1710,
+    "size":"1266.27",
+    "lines":1703,
     "analysis":{
       "metrics":{},
       "violations":{}
     },
     "version":"0.0.0",
-    "sloc":1636
+    "sloc":1629
   },
   {
     "wiki":null,
