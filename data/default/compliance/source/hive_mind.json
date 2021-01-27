@@ -72,6 +72,18 @@
     "rule":"max_function_length_40"
   },
   {
+    "comment":"Function length of 54",
+    "resources":[],
+    "location":{
+      "function":"HAL_UART_MspInit",
+      "line":64,
+      "class":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
+      "package":"hive_mind"
+    },
+    "rule":"max_function_length_40"
+  },
+  {
     "comment":"function with cyclomatic complexity 15",
     "resources":[],
     "location":{
