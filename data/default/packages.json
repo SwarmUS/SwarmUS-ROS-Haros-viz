@@ -53,21 +53,21 @@
     "authors":[],
     "bugTracker":null,
     "id":"hive_mind",
-    "size":"262.13",
-    "lines":8567,
+    "size":"337.75",
+    "lines":10045,
     "analysis":{
       "metrics":{},
       "violations":{
         "haros_plugin_pylint:convention":36,
         "max_cyclomatic_complexity_15":2,
         "haros_plugin_pylint:refactor":4,
-        "max_function_length_40":6,
+        "max_function_length_40":8,
         "max_cyclomatic_complexity_10":4,
         "haros_plugin_pylint:warning":5
       }
     },
     "version":"0.0.0",
-    "sloc":7033
+    "sloc":8268
   },
   {
     "wiki":null,
