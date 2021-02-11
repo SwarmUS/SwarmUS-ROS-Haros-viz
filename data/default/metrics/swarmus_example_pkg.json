@@ -93,6 +93,50 @@
       "function":null,
       "line":null,
       "class":null,
+      "file":"src/DummyUtils.cpp",
+      "package":"swarmus_example_pkg"
+    },
+    "value":2
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"DummyUtils::addTwoNumbers",
+      "line":3,
+      "class":null,
+      "file":"src/DummyUtils.cpp",
+      "package":"swarmus_example_pkg"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"DummyUtils::addTwoNumbers",
+      "line":3,
+      "class":null,
+      "file":"src/DummyUtils.cpp",
+      "package":"swarmus_example_pkg"
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"DummyUtils::addTwoNumbers",
+      "line":3,
+      "class":null,
+      "file":"src/DummyUtils.cpp",
+      "package":"swarmus_example_pkg"
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
       "file":"src/HiveMindConnectorDummy.cpp",
       "package":"swarmus_example_pkg"
     },
@@ -196,49 +240,5 @@
       "package":"swarmus_example_pkg"
     },
     "value":6
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "line":null,
-      "class":null,
-      "file":"src/DummyUtils.cpp",
-      "package":"swarmus_example_pkg"
-    },
-    "value":2
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"DummyUtils::addTwoNumbers",
-      "line":3,
-      "class":null,
-      "file":"src/DummyUtils.cpp",
-      "package":"swarmus_example_pkg"
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"DummyUtils::addTwoNumbers",
-      "line":3,
-      "class":null,
-      "file":"src/DummyUtils.cpp",
-      "package":"swarmus_example_pkg"
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"DummyUtils::addTwoNumbers",
-      "line":3,
-      "class":null,
-      "file":"src/DummyUtils.cpp",
-      "package":"swarmus_example_pkg"
-    },
-    "value":1
   }
 ]

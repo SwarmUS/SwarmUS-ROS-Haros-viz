@@ -5,21 +5,10 @@
       "function":null,
       "line":null,
       "class":null,
-      "file":"include/swarmus_ros_simulation/communicationBroker.h",
+      "file":"include/swarmus_ros_simulation/interCommunication.h",
       "package":"swarmus_ros_simulation"
     },
-    "value":19
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "line":null,
-      "class":null,
-      "file":"include/swarmus_ros_simulation/interLocalization.h",
-      "package":"swarmus_ros_simulation"
-    },
-    "value":29
+    "value":16
   },
   {
     "metric":"ploc",
@@ -137,6 +126,17 @@
       "function":null,
       "line":null,
       "class":null,
+      "file":"include/swarmus_ros_simulation/interLocalization.h",
+      "package":"swarmus_ros_simulation"
+    },
+    "value":29
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
       "file":"include/swarmus_ros_simulation/tf_publisher.h",
       "package":"swarmus_ros_simulation"
     },
@@ -148,120 +148,10 @@
       "function":null,
       "line":null,
       "class":null,
-      "file":"include/swarmus_ros_simulation/interCommunication.h",
+      "file":"include/swarmus_ros_simulation/communicationBroker.h",
       "package":"swarmus_ros_simulation"
     },
-    "value":16
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "line":null,
-      "class":null,
-      "file":"src/tf_publisher.cpp",
-      "package":"swarmus_ros_simulation"
-    },
-    "value":25
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"getUnitTransform",
-      "line":5,
-      "class":null,
-      "file":"src/tf_publisher.cpp",
-      "package":"swarmus_ros_simulation"
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"getUnitTransform",
-      "line":5,
-      "class":null,
-      "file":"src/tf_publisher.cpp",
-      "package":"swarmus_ros_simulation"
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"getUnitTransform",
-      "line":5,
-      "class":null,
-      "file":"src/tf_publisher.cpp",
-      "package":"swarmus_ros_simulation"
-    },
-    "value":5
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"tfCallback",
-      "line":13,
-      "class":null,
-      "file":"src/tf_publisher.cpp",
-      "package":"swarmus_ros_simulation"
-    },
-    "value":2
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"tfCallback",
-      "line":13,
-      "class":null,
-      "file":"src/tf_publisher.cpp",
-      "package":"swarmus_ros_simulation"
-    },
-    "value":1
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"tfCallback",
-      "line":13,
-      "class":null,
-      "file":"src/tf_publisher.cpp",
-      "package":"swarmus_ros_simulation"
-    },
-    "value":11
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"main",
-      "line":32,
-      "class":null,
-      "file":"src/tf_publisher.cpp",
-      "package":"swarmus_ros_simulation"
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"main",
-      "line":32,
-      "class":null,
-      "file":"src/tf_publisher.cpp",
-      "package":"swarmus_ros_simulation"
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"main",
-      "line":32,
-      "class":null,
-      "file":"src/tf_publisher.cpp",
-      "package":"swarmus_ros_simulation"
-    },
-    "value":7
+    "value":19
   },
   {
     "metric":"ploc",
@@ -405,6 +295,182 @@
       "package":"swarmus_ros_simulation"
     },
     "value":6
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "line":null,
+      "class":null,
+      "file":"src/interCommunication.cpp",
+      "package":"swarmus_ros_simulation"
+    },
+    "value":33
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"InterCommunication::InterCommunication",
+      "line":3,
+      "class":null,
+      "file":"src/interCommunication.cpp",
+      "package":"swarmus_ros_simulation"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"InterCommunication::InterCommunication",
+      "line":3,
+      "class":null,
+      "file":"src/interCommunication.cpp",
+      "package":"swarmus_ros_simulation"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"InterCommunication::InterCommunication",
+      "line":3,
+      "class":null,
+      "file":"src/interCommunication.cpp",
+      "package":"swarmus_ros_simulation"
+    },
+    "value":8
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"InterCommunication::publish",
+      "line":14,
+      "class":null,
+      "file":"src/interCommunication.cpp",
+      "package":"swarmus_ros_simulation"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"InterCommunication::publish",
+      "line":14,
+      "class":null,
+      "file":"src/interCommunication.cpp",
+      "package":"swarmus_ros_simulation"
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"InterCommunication::publish",
+      "line":14,
+      "class":null,
+      "file":"src/interCommunication.cpp",
+      "package":"swarmus_ros_simulation"
+    },
+    "value":3
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"InterCommunication::communicationCallback",
+      "line":18,
+      "class":null,
+      "file":"src/interCommunication.cpp",
+      "package":"swarmus_ros_simulation"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"InterCommunication::communicationCallback",
+      "line":18,
+      "class":null,
+      "file":"src/interCommunication.cpp",
+      "package":"swarmus_ros_simulation"
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"InterCommunication::communicationCallback",
+      "line":18,
+      "class":null,
+      "file":"src/interCommunication.cpp",
+      "package":"swarmus_ros_simulation"
+    },
+    "value":2
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"InterCommunication::getRobotName",
+      "line":22,
+      "class":null,
+      "file":"src/interCommunication.cpp",
+      "package":"swarmus_ros_simulation"
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"InterCommunication::getRobotName",
+      "line":22,
+      "class":null,
+      "file":"src/interCommunication.cpp",
+      "package":"swarmus_ros_simulation"
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"InterCommunication::getRobotName",
+      "line":22,
+      "class":null,
+      "file":"src/interCommunication.cpp",
+      "package":"swarmus_ros_simulation"
+    },
+    "value":1
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"main",
+      "line":24,
+      "class":null,
+      "file":"src/interCommunication.cpp",
+      "package":"swarmus_ros_simulation"
+    },
+    "value":3
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"main",
+      "line":24,
+      "class":null,
+      "file":"src/interCommunication.cpp",
+      "package":"swarmus_ros_simulation"
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"main",
+      "line":24,
+      "class":null,
+      "file":"src/interCommunication.cpp",
+      "package":"swarmus_ros_simulation"
+    },
+    "value":18
   },
   {
     "metric":"ploc",
@@ -654,18 +720,18 @@
       "function":null,
       "line":null,
       "class":null,
-      "file":"src/interCommunication.cpp",
+      "file":"src/tf_publisher.cpp",
       "package":"swarmus_ros_simulation"
     },
-    "value":33
+    "value":25
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
-      "function":"InterCommunication::InterCommunication",
-      "line":3,
+      "function":"getUnitTransform",
+      "line":5,
       "class":null,
-      "file":"src/interCommunication.cpp",
+      "file":"src/tf_publisher.cpp",
       "package":"swarmus_ros_simulation"
     },
     "value":1
@@ -673,10 +739,10 @@
   {
     "metric":"function_parameters",
     "location":{
-      "function":"InterCommunication::InterCommunication",
-      "line":3,
+      "function":"getUnitTransform",
+      "line":5,
       "class":null,
-      "file":"src/interCommunication.cpp",
+      "file":"src/tf_publisher.cpp",
       "package":"swarmus_ros_simulation"
     },
     "value":0
@@ -684,131 +750,65 @@
   {
     "metric":"ploc",
     "location":{
-      "function":"InterCommunication::InterCommunication",
-      "line":3,
+      "function":"getUnitTransform",
+      "line":5,
       "class":null,
-      "file":"src/interCommunication.cpp",
+      "file":"src/tf_publisher.cpp",
       "package":"swarmus_ros_simulation"
     },
-    "value":8
+    "value":5
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
-      "function":"InterCommunication::publish",
-      "line":14,
+      "function":"tfCallback",
+      "line":13,
       "class":null,
-      "file":"src/interCommunication.cpp",
-      "package":"swarmus_ros_simulation"
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"InterCommunication::publish",
-      "line":14,
-      "class":null,
-      "file":"src/interCommunication.cpp",
-      "package":"swarmus_ros_simulation"
-    },
-    "value":1
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"InterCommunication::publish",
-      "line":14,
-      "class":null,
-      "file":"src/interCommunication.cpp",
-      "package":"swarmus_ros_simulation"
-    },
-    "value":3
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"InterCommunication::communicationCallback",
-      "line":18,
-      "class":null,
-      "file":"src/interCommunication.cpp",
-      "package":"swarmus_ros_simulation"
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"InterCommunication::communicationCallback",
-      "line":18,
-      "class":null,
-      "file":"src/interCommunication.cpp",
-      "package":"swarmus_ros_simulation"
-    },
-    "value":1
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"InterCommunication::communicationCallback",
-      "line":18,
-      "class":null,
-      "file":"src/interCommunication.cpp",
+      "file":"src/tf_publisher.cpp",
       "package":"swarmus_ros_simulation"
     },
     "value":2
   },
   {
-    "metric":"cyclomatic_complexity",
+    "metric":"function_parameters",
     "location":{
-      "function":"InterCommunication::getRobotName",
-      "line":22,
+      "function":"tfCallback",
+      "line":13,
       "class":null,
-      "file":"src/interCommunication.cpp",
+      "file":"src/tf_publisher.cpp",
       "package":"swarmus_ros_simulation"
     },
     "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"InterCommunication::getRobotName",
-      "line":22,
-      "class":null,
-      "file":"src/interCommunication.cpp",
-      "package":"swarmus_ros_simulation"
-    },
-    "value":0
   },
   {
     "metric":"ploc",
     "location":{
-      "function":"InterCommunication::getRobotName",
-      "line":22,
+      "function":"tfCallback",
+      "line":13,
       "class":null,
-      "file":"src/interCommunication.cpp",
+      "file":"src/tf_publisher.cpp",
       "package":"swarmus_ros_simulation"
     },
-    "value":1
+    "value":11
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
       "function":"main",
-      "line":24,
+      "line":32,
       "class":null,
-      "file":"src/interCommunication.cpp",
+      "file":"src/tf_publisher.cpp",
       "package":"swarmus_ros_simulation"
     },
-    "value":3
+    "value":1
   },
   {
     "metric":"function_parameters",
     "location":{
       "function":"main",
-      "line":24,
+      "line":32,
       "class":null,
-      "file":"src/interCommunication.cpp",
+      "file":"src/tf_publisher.cpp",
       "package":"swarmus_ros_simulation"
     },
     "value":2
@@ -817,11 +817,11 @@
     "metric":"ploc",
     "location":{
       "function":"main",
-      "line":24,
+      "line":32,
       "class":null,
-      "file":"src/interCommunication.cpp",
+      "file":"src/tf_publisher.cpp",
       "package":"swarmus_ros_simulation"
     },
-    "value":18
+    "value":7
   }
 ]
