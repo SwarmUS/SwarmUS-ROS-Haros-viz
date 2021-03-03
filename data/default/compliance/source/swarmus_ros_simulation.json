@@ -4,10 +4,11 @@
     "resources":[],
     "location":{
       "function":"main",
-      "line":59,
-      "class":null,
+      "package":"swarmus_ros_simulation",
+      "column":null,
       "file":"src/interLocalization.cpp",
-      "package":"swarmus_ros_simulation"
+      "line":59,
+      "class":null
     },
     "rule":"max_function_length_40"
   }

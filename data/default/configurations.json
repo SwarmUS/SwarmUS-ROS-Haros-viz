@@ -12,6 +12,7 @@
     "conditional":0,
     "dependencies":[],
     "services":[],
+    "queries":[],
     "id":"example",
     "remaps":0,
     "unresolved":0,
@@ -22,7 +23,7 @@
         "language":"launch",
         "package":"swarmus_ros_simulation",
         "directory":"launch",
-        "timestamp":1613428017.7401533,
+        "timestamp":1614801101.4031725,
         "sloc":5,
         "lines":7,
         "size":245
@@ -30,21 +31,26 @@
     ],
     "environment":[],
     "collisions":0,
-    "queries":[],
+    "hpl":{
+      "assumptions":[],
+      "properties":[]
+    },
     "nodes":[
       {
         "publishers":[],
         "traceability":[
           {
             "function":null,
-            "line":null,
-            "class":null,
+            "package":"swarmus_ros_simulation",
+            "column":null,
             "file":"launch/hive_mind_connector_dummy.launch",
-            "package":"swarmus_ros_simulation"
+            "line":null,
+            "class":null
           }
         ],
-        "uid":"140418780541648",
-        "args":[],
+        "uid":"140021056048272",
+        "variables":[],
+        "args":"",
         "servers":[],
         "reads":[],
         "subscribers":[],
@@ -59,14 +65,16 @@
         "traceability":[
           {
             "function":null,
-            "line":null,
-            "class":null,
+            "package":"swarmus_ros_simulation",
+            "column":null,
             "file":"launch/hive_mind_connector_dummy.launch",
-            "package":"swarmus_ros_simulation"
+            "line":null,
+            "class":null
           }
         ],
-        "uid":"140418788359056",
-        "args":[],
+        "uid":"140021056421776",
+        "variables":[],
+        "args":"",
         "servers":[],
         "reads":[],
         "subscribers":[],
