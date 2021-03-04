@@ -26,7 +26,7 @@
     "authors":[],
     "bugTracker":null,
     "id":"swarmus_ros_simulation",
-    "size":"38.92",
+    "size":"38.91",
     "lines":1117,
     "analysis":{
       "metrics":{},
@@ -54,8 +54,8 @@
     "authors":[],
     "bugTracker":null,
     "id":"hive_mind",
-    "size":"372.65",
-    "lines":11096,
+    "size":"337.75",
+    "lines":10045,
     "analysis":{
       "metrics":{},
       "violations":{
@@ -68,7 +68,7 @@
       }
     },
     "version":"0.0.0",
-    "sloc":9106
+    "sloc":8268
   },
   {
     "wiki":null,

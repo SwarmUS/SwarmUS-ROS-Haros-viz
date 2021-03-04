@@ -597,52 +597,16 @@
       "line":null,
       "class":null
     },
-    "value":162
+    "value":44
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
-      "function":"BittyBuzzTask::BittyBuzzTask",
+      "function":"printThreadExample",
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":19,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"BittyBuzzTask::BittyBuzzTask",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":19,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"BittyBuzzTask::BittyBuzzTask",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":19,
-      "class":null
-    },
-    "value":10
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"BittyBuzzTask::task",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":38,
+      "line":16,
       "class":null
     },
     "value":3
@@ -650,350 +614,62 @@
   {
     "metric":"function_parameters",
     "location":{
-      "function":"BittyBuzzTask::task",
+      "function":"printThreadExample",
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":38,
+      "line":16,
       "class":null
     },
-    "value":0
+    "value":1
   },
   {
     "metric":"ploc",
     "location":{
-      "function":"BittyBuzzTask::task",
+      "function":"printThreadExample",
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":38,
+      "line":16,
+      "class":null
+    },
+    "value":23
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"main",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/Main.cpp",
+      "line":48,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"main",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/Main.cpp",
+      "line":48,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"main",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/Main.cpp",
+      "line":48,
       "class":null
     },
     "value":9
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"UartMessageDispatcher::UartMessageDispatcher",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":53,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"UartMessageDispatcher::UartMessageDispatcher",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":53,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"UartMessageDispatcher::UartMessageDispatcher",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":53,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"UartMessageDispatcher::task",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":58,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"UartMessageDispatcher::task",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":58,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"UartMessageDispatcher::task",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":58,
-      "class":null
-    },
-    "value":19
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TCPMessageDispatcher::TCPMessageDispatcher",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":87,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TCPMessageDispatcher::TCPMessageDispatcher",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":87,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TCPMessageDispatcher::TCPMessageDispatcher",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":87,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TCPMessageDispatcher::task",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":95,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TCPMessageDispatcher::task",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":95,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TCPMessageDispatcher::task",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":95,
-      "class":null
-    },
-    "value":19
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"UartMessageSender::UartMessageSender",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":119,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"UartMessageSender::UartMessageSender",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":119,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"UartMessageSender::UartMessageSender",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":119,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"UartMessageSender::task",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":127,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"UartMessageSender::task",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":127,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"UartMessageSender::task",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":127,
-      "class":null
-    },
-    "value":16
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TCPMessageSender::TCPMessageSender",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":152,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TCPMessageSender::TCPMessageSender",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":152,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TCPMessageSender::TCPMessageSender",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":152,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TCPMessageSender::task",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":160,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TCPMessageSender::task",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":160,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TCPMessageSender::task",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":160,
-      "class":null
-    },
-    "value":16
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"main",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":179,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"main",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":179,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"main",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":179,
-      "class":null
-    },
-    "value":17
   },
   {
     "metric":"ploc",
@@ -1005,43 +681,7 @@
       "line":null,
       "class":null
     },
-    "value":16
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"FunctionRegister::FunctionRegister",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/src/BittyBuzzVm.cpp",
-      "line":5,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"FunctionRegister::FunctionRegister",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/src/BittyBuzzVm.cpp",
-      "line":5,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"FunctionRegister::FunctionRegister",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/src/BittyBuzzVm.cpp",
-      "line":5,
-      "class":null
-    },
-    "value":2
+    "value":14
   },
   {
     "metric":"cyclomatic_complexity",
@@ -1050,7 +690,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/src/BittyBuzzVm.cpp",
-      "line":8,
+      "line":5,
       "class":null
     },
     "value":2
@@ -1062,7 +702,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/src/BittyBuzzVm.cpp",
-      "line":8,
+      "line":5,
       "class":null
     },
     "value":0
@@ -1074,7 +714,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/src/BittyBuzzVm.cpp",
-      "line":8,
+      "line":5,
       "class":null
     },
     "value":9
@@ -1086,7 +726,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/src/BittyBuzzVm.cpp",
-      "line":20,
+      "line":17,
       "class":null
     },
     "value":1
@@ -1098,7 +738,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/src/BittyBuzzVm.cpp",
-      "line":20,
+      "line":17,
       "class":null
     },
     "value":0
@@ -1110,7 +750,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/src/BittyBuzzVm.cpp",
-      "line":20,
+      "line":17,
       "class":null
     },
     "value":1
@@ -1122,7 +762,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/src/BittyBuzzVm.cpp",
-      "line":21,
+      "line":18,
       "class":null
     },
     "value":1
@@ -1134,7 +774,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/src/BittyBuzzVm.cpp",
-      "line":21,
+      "line":18,
       "class":null
     },
     "value":0
@@ -1146,7 +786,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/src/BittyBuzzVm.cpp",
-      "line":21,
+      "line":18,
       "class":null
     },
     "value":1
@@ -1161,7 +801,7 @@
       "line":null,
       "class":null
     },
-    "value":66
+    "value":23
   },
   {
     "metric":"cyclomatic_complexity",
@@ -1233,259 +873,7 @@
       "line":12,
       "class":null
     },
-    "value":16
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"BittyBuzzUserFunctions::isNil",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
-      "line":33,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"BittyBuzzUserFunctions::isNil",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
-      "line":33,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"BittyBuzzUserFunctions::isNil",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
-      "line":33,
-      "class":null
-    },
-    "value":6
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"BittyBuzzUserFunctions::isInt",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
-      "line":42,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"BittyBuzzUserFunctions::isInt",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
-      "line":42,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"BittyBuzzUserFunctions::isInt",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
-      "line":42,
-      "class":null
-    },
-    "value":6
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"BittyBuzzUserFunctions::isFloat",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
-      "line":51,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"BittyBuzzUserFunctions::isFloat",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
-      "line":51,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"BittyBuzzUserFunctions::isFloat",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
-      "line":51,
-      "class":null
-    },
-    "value":6
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"BittyBuzzUserFunctions::isString",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
-      "line":60,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"BittyBuzzUserFunctions::isString",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
-      "line":60,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"BittyBuzzUserFunctions::isString",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
-      "line":60,
-      "class":null
-    },
-    "value":6
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"BittyBuzzUserFunctions::isTable",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
-      "line":69,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"BittyBuzzUserFunctions::isTable",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
-      "line":69,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"BittyBuzzUserFunctions::isTable",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
-      "line":69,
-      "class":null
-    },
-    "value":6
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"BittyBuzzUserFunctions::isClosure",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
-      "line":78,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"BittyBuzzUserFunctions::isClosure",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
-      "line":78,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"BittyBuzzUserFunctions::isClosure",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
-      "line":78,
-      "class":null
-    },
-    "value":6
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"BittyBuzzUserFunctions::isLambdaClosure",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
-      "line":87,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"BittyBuzzUserFunctions::isLambdaClosure",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
-      "line":87,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"BittyBuzzUserFunctions::isLambdaClosure",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/src/BittyBuzzUserFunctions.cpp",
-      "line":87,
-      "class":null
-    },
-    "value":6
+    "value":15
   },
   {
     "metric":"ploc",
@@ -1497,7 +885,7 @@
       "line":null,
       "class":null
     },
-    "value":26
+    "value":17
   },
   {
     "metric":"cyclomatic_complexity",
@@ -1605,7 +993,7 @@
       "line":18,
       "class":null
     },
-    "value":13
+    "value":4
   },
   {
     "metric":"ploc",
@@ -1953,7 +1341,7 @@
       "line":null,
       "class":null
     },
-    "value":35
+    "value":31
   },
   {
     "metric":"ploc",
@@ -1989,7 +1377,7 @@
       "line":null,
       "class":null
     },
-    "value":11
+    "value":4
   },
   {
     "metric":"ploc",
@@ -2657,54 +2045,6 @@
       "function":null,
       "package":"hive_mind",
       "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsClosureTests.cpp",
-      "line":null,
-      "class":null
-    },
-    "value":18
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsClosureTests.cpp",
-      "line":7,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsClosureTests.cpp",
-      "line":7,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsClosureTests.cpp",
-      "line":7,
-      "class":null
-    },
-    "value":13
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
       "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmUndefinedFunctionTests.cpp",
       "line":null,
       "class":null
@@ -2753,54 +2093,6 @@
       "function":null,
       "package":"hive_mind",
       "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsIntTests.cpp",
-      "line":null,
-      "class":null
-    },
-    "value":18
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsIntTests.cpp",
-      "line":7,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsIntTests.cpp",
-      "line":7,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsIntTests.cpp",
-      "line":7,
-      "class":null
-    },
-    "value":13
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
       "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmLogIntTests.cpp",
       "line":null,
       "class":null
@@ -2842,282 +2134,6 @@
       "class":null
     },
     "value":10
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsTableTests.cpp",
-      "line":null,
-      "class":null
-    },
-    "value":18
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsTableTests.cpp",
-      "line":7,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsTableTests.cpp",
-      "line":7,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsTableTests.cpp",
-      "line":7,
-      "class":null
-    },
-    "value":13
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsLambdaClosureTests.cpp",
-      "line":null,
-      "class":null
-    },
-    "value":18
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsLambdaClosureTests.cpp",
-      "line":7,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsLambdaClosureTests.cpp",
-      "line":7,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsLambdaClosureTests.cpp",
-      "line":7,
-      "class":null
-    },
-    "value":13
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmTestsUtils.cpp",
-      "line":null,
-      "class":null
-    },
-    "value":19
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"buzzAssertTrue",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmTestsUtils.cpp",
-      "line":8,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"buzzAssertTrue",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmTestsUtils.cpp",
-      "line":8,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"buzzAssertTrue",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmTestsUtils.cpp",
-      "line":8,
-      "class":null
-    },
-    "value":7
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"buzzAssertFalse",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmTestsUtils.cpp",
-      "line":19,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"buzzAssertFalse",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmTestsUtils.cpp",
-      "line":19,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"buzzAssertFalse",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmTestsUtils.cpp",
-      "line":19,
-      "class":null
-    },
-    "value":7
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsStringTests.cpp",
-      "line":null,
-      "class":null
-    },
-    "value":18
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsStringTests.cpp",
-      "line":7,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsStringTests.cpp",
-      "line":7,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsStringTests.cpp",
-      "line":7,
-      "class":null
-    },
-    "value":13
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsNilTests.cpp",
-      "line":null,
-      "class":null
-    },
-    "value":18
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsNilTests.cpp",
-      "line":7,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsNilTests.cpp",
-      "line":7,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsNilTests.cpp",
-      "line":7,
-      "class":null
-    },
-    "value":13
   },
   {
     "metric":"ploc",
@@ -3245,54 +2261,6 @@
       "function":null,
       "package":"hive_mind",
       "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsFloatTests.cpp",
-      "line":null,
-      "class":null
-    },
-    "value":18
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsFloatTests.cpp",
-      "line":7,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsFloatTests.cpp",
-      "line":7,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmIsFloatTests.cpp",
-      "line":7,
-      "class":null
-    },
-    "value":13
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
       "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmInitAddTests.cpp",
       "line":null,
       "class":null
@@ -3345,7 +2313,7 @@
       "line":null,
       "class":null
     },
-    "value":36
+    "value":33
   },
   {
     "metric":"cyclomatic_complexity",
@@ -3381,7 +2349,7 @@
       "line":26,
       "class":null
     },
-    "value":12
+    "value":10
   },
   {
     "metric":"cyclomatic_complexity",
@@ -3390,7 +2358,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmFixture.h",
-      "line":42,
+      "line":39,
       "class":null
     },
     "value":1
@@ -3402,7 +2370,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmFixture.h",
-      "line":42,
+      "line":39,
       "class":null
     },
     "value":0
@@ -3414,22 +2382,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmFixture.h",
-      "line":42,
+      "line":39,
       "class":null
     },
     "value":6
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmTestsUtils.h",
-      "line":null,
-      "class":null
-    },
-    "value":5
   },
   {
     "metric":"ploc",
@@ -3749,1914 +2705,6 @@
       "function":null,
       "package":"hive_mind",
       "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":null,
-      "class":null
-    },
-    "value":78
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"MessageDispatcher::MessageDispatcher",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":4,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"MessageDispatcher::MessageDispatcher",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":4,
-      "class":null
-    },
-    "value":6
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"MessageDispatcher::MessageDispatcher",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":4,
-      "class":null
-    },
-    "value":12
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"MessageDispatcher::deserializeAndDispatch",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":17,
-      "class":null
-    },
-    "value":3
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"MessageDispatcher::deserializeAndDispatch",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":17,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"MessageDispatcher::deserializeAndDispatch",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":17,
-      "class":null
-    },
-    "value":14
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"MessageDispatcher::dispatchUserCall",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":37,
-      "class":null
-    },
-    "value":4
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"MessageDispatcher::dispatchUserCall",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":37,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"MessageDispatcher::dispatchUserCall",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":37,
-      "class":null
-    },
-    "value":16
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"MessageDispatcher::dispatchUserCallRequest",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":57,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"MessageDispatcher::dispatchUserCallRequest",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":57,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"MessageDispatcher::dispatchUserCallRequest",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":57,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"MessageDispatcher::dispatchUserCallResponse",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":63,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"MessageDispatcher::dispatchUserCallResponse",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":63,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"MessageDispatcher::dispatchUserCallResponse",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":63,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"MessageDispatcher::dispatchRequest",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":69,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"MessageDispatcher::dispatchRequest",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":69,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"MessageDispatcher::dispatchRequest",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":69,
-      "class":null
-    },
-    "value":7
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"MessageDispatcher::dispatchResponse",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":79,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"MessageDispatcher::dispatchResponse",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":79,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"MessageDispatcher::dispatchResponse",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":79,
-      "class":null
-    },
-    "value":7
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"MessageDispatcher::dispatchMessage",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":88,
-      "class":null
-    },
-    "value":3
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"MessageDispatcher::dispatchMessage",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":88,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"MessageDispatcher::dispatchMessage",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":88,
-      "class":null
-    },
-    "value":10
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageHandlerContainer.cpp",
-      "line":null,
-      "class":null
-    },
-    "value":18
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"MessageHandlerContainer::getBuzzMsgQueue",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageHandlerContainer.cpp",
-      "line":6,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"MessageHandlerContainer::getBuzzMsgQueue",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageHandlerContainer.cpp",
-      "line":6,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"MessageHandlerContainer::getBuzzMsgQueue",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageHandlerContainer.cpp",
-      "line":6,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"MessageHandlerContainer::getHostMsgQueue",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageHandlerContainer.cpp",
-      "line":13,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"MessageHandlerContainer::getHostMsgQueue",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageHandlerContainer.cpp",
-      "line":13,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"MessageHandlerContainer::getHostMsgQueue",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageHandlerContainer.cpp",
-      "line":13,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"MessageHandlerContainer::getRemoteMsgQueue",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageHandlerContainer.cpp",
-      "line":20,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"MessageHandlerContainer::getRemoteMsgQueue",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageHandlerContainer.cpp",
-      "line":20,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"MessageHandlerContainer::getRemoteMsgQueue",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageHandlerContainer.cpp",
-      "line":20,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageSender.cpp",
-      "line":null,
-      "class":null
-    },
-    "value":14
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"MessageSender::MessageSender",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageSender.cpp",
-      "line":3,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"MessageSender::MessageSender",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageSender.cpp",
-      "line":3,
-      "class":null
-    },
-    "value":3
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"MessageSender::MessageSender",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageSender.cpp",
-      "line":3,
-      "class":null
-    },
-    "value":4
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"MessageSender::processAndSerialize",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageSender.cpp",
-      "line":8,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"MessageSender::processAndSerialize",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageSender.cpp",
-      "line":8,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"MessageSender::processAndSerialize",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageSender.cpp",
-      "line":8,
-      "class":null
-    },
-    "value":9
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":null,
-      "class":null
-    },
-    "value":56
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"ThreadSafeQueue::ThreadSafeQueue",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":13,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"ThreadSafeQueue::ThreadSafeQueue",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":13,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"ThreadSafeQueue::ThreadSafeQueue",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":13,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"ThreadSafeQueue::push",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":17,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"ThreadSafeQueue::push",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":17,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"ThreadSafeQueue::push",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":17,
-      "class":null
-    },
-    "value":4
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"ThreadSafeQueue::peek",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":22,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"ThreadSafeQueue::peek",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":22,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"ThreadSafeQueue::peek",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":22,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"ThreadSafeQueue::pop",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":28,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"ThreadSafeQueue::pop",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":28,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"ThreadSafeQueue::pop",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":28,
-      "class":null
-    },
-    "value":4
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"ThreadSafeQueue::clear",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":33,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"ThreadSafeQueue::clear",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":33,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"ThreadSafeQueue::clear",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":33,
-      "class":null
-    },
-    "value":4
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"ThreadSafeQueue::isFull",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":38,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"ThreadSafeQueue::isFull",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":38,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"ThreadSafeQueue::isFull",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":38,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"ThreadSafeQueue::isEmpty",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":44,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"ThreadSafeQueue::isEmpty",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":44,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"ThreadSafeQueue::isEmpty",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":44,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"ThreadSafeQueue::getLength",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":50,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"ThreadSafeQueue::getLength",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":50,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"ThreadSafeQueue::getLength",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":50,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"ThreadSafeQueue::getFreeSize",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":56,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"ThreadSafeQueue::getFreeSize",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":56,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"ThreadSafeQueue::getFreeSize",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":56,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"ThreadSafeQueue::getNextAllocation",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":62,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"ThreadSafeQueue::getNextAllocation",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":62,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"ThreadSafeQueue::getNextAllocation",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":62,
-      "class":null
-    },
-    "value":4
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"ThreadSafeQueue::advance",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":67,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"ThreadSafeQueue::advance",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":67,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"ThreadSafeQueue::advance",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/ThreadSafeQueue.h",
-      "line":67,
-      "class":null
-    },
-    "value":4
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/MessageHandlerContainer.h",
-      "line":null,
-      "class":null
-    },
-    "value":7
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/IMessageDispatcher.h",
-      "line":null,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/MessageDispatcher.h",
-      "line":null,
-      "class":null
-    },
-    "value":29
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/IMessageSender.h",
-      "line":null,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/MessageSender.h",
-      "line":null,
-      "class":null
-    },
-    "value":16
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageSenderUnitTests.cpp",
-      "line":null,
-      "class":null
-    },
-    "value":42
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"MessageSenderFixture::SetUp",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageSenderUnitTests.cpp",
-      "line":15,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"MessageSenderFixture::SetUp",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageSenderUnitTests.cpp",
-      "line":15,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"MessageSenderFixture::SetUp",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageSenderUnitTests.cpp",
-      "line":15,
-      "class":null
-    },
-    "value":3
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"MessageSenderFixture::TearDown",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageSenderUnitTests.cpp",
-      "line":18,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"MessageSenderFixture::TearDown",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageSenderUnitTests.cpp",
-      "line":18,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"MessageSenderFixture::TearDown",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageSenderUnitTests.cpp",
-      "line":18,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageSenderUnitTests.cpp",
-      "line":21,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageSenderUnitTests.cpp",
-      "line":21,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageSenderUnitTests.cpp",
-      "line":21,
-      "class":null
-    },
-    "value":9
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageSenderUnitTests.cpp",
-      "line":36,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageSenderUnitTests.cpp",
-      "line":36,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageSenderUnitTests.cpp",
-      "line":36,
-      "class":null
-    },
-    "value":8
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageSenderUnitTests.cpp",
-      "line":50,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageSenderUnitTests.cpp",
-      "line":50,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageSenderUnitTests.cpp",
-      "line":50,
-      "class":null
-    },
-    "value":9
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":null,
-      "class":null
-    },
-    "value":244
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"MessageDispatcherFixture::SetUp",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":28,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"MessageDispatcherFixture::SetUp",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":28,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"MessageDispatcherFixture::SetUp",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":28,
-      "class":null
-    },
-    "value":12
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"MessageDispatcherFixture::TearDown",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":42,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"MessageDispatcherFixture::TearDown",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":42,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"MessageDispatcherFixture::TearDown",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":42,
-      "class":null
-    },
-    "value":9
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":54,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":54,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":54,
-      "class":null
-    },
-    "value":11
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":71,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":71,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":71,
-      "class":null
-    },
-    "value":11
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":88,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":88,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":88,
-      "class":null
-    },
-    "value":13
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":107,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":107,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":107,
-      "class":null
-    },
-    "value":13
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":126,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":126,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":126,
-      "class":null
-    },
-    "value":13
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":146,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":146,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":146,
-      "class":null
-    },
-    "value":14
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":167,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":167,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":167,
-      "class":null
-    },
-    "value":11
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":184,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":184,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":184,
-      "class":null
-    },
-    "value":12
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":202,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":202,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":202,
-      "class":null
-    },
-    "value":11
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":219,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":219,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":219,
-      "class":null
-    },
-    "value":12
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":237,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":237,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":237,
-      "class":null
-    },
-    "value":13
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":256,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":256,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":256,
-      "class":null
-    },
-    "value":14
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":276,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":276,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":276,
-      "class":null
-    },
-    "value":14
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":297,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":297,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":297,
-      "class":null
-    },
-    "value":15
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":319,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":319,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":319,
-      "class":null
-    },
-    "value":12
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":337,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":337,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":337,
-      "class":null
-    },
-    "value":12
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/mocks/HiveMindHostDeserializerInterfaceMock.h",
-      "line":null,
-      "class":null
-    },
-    "value":7
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/mocks/LoggerInterfaceMock.h",
-      "line":null,
-      "class":null
-    },
-    "value":14
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"LoggerInterfaceMock::log",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/mocks/LoggerInterfaceMock.h",
-      "line":15,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"LoggerInterfaceMock::log",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/mocks/LoggerInterfaceMock.h",
-      "line":15,
-      "class":null
-    },
-    "value":3
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"LoggerInterfaceMock::log",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/mocks/LoggerInterfaceMock.h",
-      "line":15,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/mocks/HiveMindHostSerializerInterfaceMock.h",
-      "line":null,
-      "class":null
-    },
-    "value":7
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/mocks/CircularQueueInterfaceMock.h",
-      "line":null,
-      "class":null
-    },
-    "value":18
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
       "file":"src/bsp/src/posix/src/BSPContainer.cpp",
       "line":null,
       "class":null
@@ -5781,7 +2829,7 @@
       "line":null,
       "class":null
     },
-    "value":79
+    "value":75
   },
   {
     "metric":"cyclomatic_complexity",
@@ -5790,7 +2838,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":7,
+      "line":9,
       "class":null
     },
     "value":1
@@ -5802,7 +2850,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":7,
+      "line":9,
       "class":null
     },
     "value":1
@@ -5814,10 +2862,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":7,
+      "line":9,
       "class":null
     },
-    "value":4
+    "value":1
   },
   {
     "metric":"cyclomatic_complexity",
@@ -5826,7 +2874,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":12,
+      "line":11,
       "class":null
     },
     "value":1
@@ -5838,7 +2886,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":12,
+      "line":11,
       "class":null
     },
     "value":1
@@ -5850,10 +2898,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":12,
+      "line":11,
       "class":null
     },
-    "value":4
+    "value":1
   },
   {
     "metric":"cyclomatic_complexity",
@@ -5862,7 +2910,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":17,
+      "line":13,
       "class":null
     },
     "value":1
@@ -5874,7 +2922,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":17,
+      "line":13,
       "class":null
     },
     "value":0
@@ -5886,7 +2934,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":17,
+      "line":13,
       "class":null
     },
     "value":1
@@ -5898,10 +2946,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":19,
+      "line":15,
       "class":null
     },
-    "value":5
+    "value":4
   },
   {
     "metric":"function_parameters",
@@ -5910,7 +2958,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":19,
+      "line":15,
       "class":null
     },
     "value":1
@@ -5922,10 +2970,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":19,
+      "line":15,
       "class":null
     },
-    "value":27
+    "value":25
   },
   {
     "metric":"cyclomatic_complexity",
@@ -5934,7 +2982,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":54,
+      "line":48,
       "class":null
     },
     "value":2
@@ -5946,7 +2994,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":54,
+      "line":48,
       "class":null
     },
     "value":2
@@ -5958,7 +3006,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":54,
+      "line":48,
       "class":null
     },
     "value":6
@@ -5970,7 +3018,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":62,
+      "line":56,
       "class":null
     },
     "value":3
@@ -5982,7 +3030,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":62,
+      "line":56,
       "class":null
     },
     "value":2
@@ -5994,7 +3042,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":62,
+      "line":56,
       "class":null
     },
     "value":11
@@ -6006,7 +3054,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":78,
+      "line":71,
       "class":null
     },
     "value":1
@@ -6018,7 +3066,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":78,
+      "line":71,
       "class":null
     },
     "value":0
@@ -6030,7 +3078,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":78,
+      "line":71,
       "class":null
     },
     "value":1
@@ -6042,7 +3090,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":80,
+      "line":73,
       "class":null
     },
     "value":3
@@ -6054,7 +3102,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":80,
+      "line":73,
       "class":null
     },
     "value":0
@@ -6066,7 +3114,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":80,
+      "line":73,
       "class":null
     },
     "value":8
@@ -6078,7 +3126,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":90,
+      "line":83,
       "class":null
     },
     "value":3
@@ -6090,7 +3138,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":90,
+      "line":83,
       "class":null
     },
     "value":0
@@ -6102,31 +3150,355 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/TCPUartMock.cpp",
-      "line":90,
+      "line":83,
+      "class":null
+    },
+    "value":14
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/UserInterface.cpp",
+      "line":null,
+      "class":null
+    },
+    "value":17
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"UserInterface::print",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/UserInterface.cpp",
+      "line":5,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"UserInterface::print",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/UserInterface.cpp",
+      "line":5,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"UserInterface::print",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/UserInterface.cpp",
+      "line":5,
+      "class":null
+    },
+    "value":7
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"UserInterface::print",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/UserInterface.cpp",
+      "line":14,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"UserInterface::print",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/UserInterface.cpp",
+      "line":14,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"UserInterface::print",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/UserInterface.cpp",
+      "line":14,
+      "class":null
+    },
+    "value":7
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/SocketContainer.cpp",
+      "line":null,
+      "class":null
+    },
+    "value":24
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"SocketContainer::getHostClientSocket",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/SocketContainer.cpp",
+      "line":8,
+      "class":null
+    },
+    "value":3
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"SocketContainer::getHostClientSocket",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/SocketContainer.cpp",
+      "line":8,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"SocketContainer::getHostClientSocket",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/SocketContainer.cpp",
+      "line":8,
+      "class":null
+    },
+    "value":18
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/BSP.cpp",
+      "line":null,
+      "class":null
+    },
+    "value":51
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"rosWatcher",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/BSP.cpp",
+      "line":18,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"rosWatcher",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/BSP.cpp",
+      "line":18,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"rosWatcher",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/BSP.cpp",
+      "line":18,
+      "class":null
+    },
+    "value":9
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"exampleTopicPublish",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/BSP.cpp",
+      "line":30,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"exampleTopicPublish",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/BSP.cpp",
+      "line":30,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"exampleTopicPublish",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/BSP.cpp",
+      "line":30,
+      "class":null
+    },
+    "value":14
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"BSP::initChip",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/BSP.cpp",
+      "line":48,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"BSP::initChip",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/BSP.cpp",
+      "line":48,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"BSP::initChip",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/BSP.cpp",
+      "line":48,
       "class":null
     },
     "value":12
   },
   {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"BSP::getRosNodeHandle",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/BSP.cpp",
+      "line":65,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"BSP::getRosNodeHandle",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/BSP.cpp",
+      "line":65,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"BSP::getRosNodeHandle",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/BSP.cpp",
+      "line":65,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"BSP::getUUId",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/BSP.cpp",
+      "line":67,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"BSP::getUUId",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/BSP.cpp",
+      "line":67,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"BSP::getUUId",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/BSP.cpp",
+      "line":67,
+      "class":null
+    },
+    "value":3
+  },
+  {
     "metric":"ploc",
     "location":{
       "function":null,
       "package":"hive_mind",
       "column":null,
-      "file":"src/bsp/src/posix/src/SettingsContainer.cpp",
+      "file":"src/bsp/src/posix/src/BSPUtils.cpp",
       "line":null,
       "class":null
     },
-    "value":40
+    "value":12
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
-      "function":"getRosNodeHandle",
+      "function":"BSPUtils::blockSignals",
       "package":"hive_mind",
       "column":null,
-      "file":"src/bsp/src/posix/src/SettingsContainer.cpp",
-      "line":5,
+      "file":"src/bsp/src/posix/src/BSPUtils.cpp",
+      "line":4,
       "class":null
     },
     "value":1
@@ -6134,11 +3506,11 @@
   {
     "metric":"function_parameters",
     "location":{
-      "function":"getRosNodeHandle",
+      "function":"BSPUtils::blockSignals",
       "package":"hive_mind",
       "column":null,
-      "file":"src/bsp/src/posix/src/SettingsContainer.cpp",
-      "line":5,
+      "file":"src/bsp/src/posix/src/BSPUtils.cpp",
+      "line":4,
       "class":null
     },
     "value":0
@@ -6146,11 +3518,11 @@
   {
     "metric":"ploc",
     "location":{
-      "function":"getRosNodeHandle",
+      "function":"BSPUtils::blockSignals",
       "package":"hive_mind",
       "column":null,
-      "file":"src/bsp/src/posix/src/SettingsContainer.cpp",
-      "line":5,
+      "file":"src/bsp/src/posix/src/BSPUtils.cpp",
+      "line":4,
       "class":null
     },
     "value":5
@@ -6158,11 +3530,11 @@
   {
     "metric":"cyclomatic_complexity",
     "location":{
-      "function":"SettingsContainer::getUUID",
+      "function":"BSPUtils::unblockSignals",
       "package":"hive_mind",
       "column":null,
-      "file":"src/bsp/src/posix/src/SettingsContainer.cpp",
-      "line":12,
+      "file":"src/bsp/src/posix/src/BSPUtils.cpp",
+      "line":10,
       "class":null
     },
     "value":1
@@ -6170,11 +3542,11 @@
   {
     "metric":"function_parameters",
     "location":{
-      "function":"SettingsContainer::getUUID",
+      "function":"BSPUtils::unblockSignals",
       "package":"hive_mind",
       "column":null,
-      "file":"src/bsp/src/posix/src/SettingsContainer.cpp",
-      "line":12,
+      "file":"src/bsp/src/posix/src/BSPUtils.cpp",
+      "line":10,
       "class":null
     },
     "value":0
@@ -6182,22 +3554,142 @@
   {
     "metric":"ploc",
     "location":{
-      "function":"SettingsContainer::getUUID",
+      "function":"BSPUtils::unblockSignals",
       "package":"hive_mind",
       "column":null,
-      "file":"src/bsp/src/posix/src/SettingsContainer.cpp",
-      "line":12,
+      "file":"src/bsp/src/posix/src/BSPUtils.cpp",
+      "line":10,
       "class":null
     },
     "value":5
   },
   {
-    "metric":"cyclomatic_complexity",
+    "metric":"ploc",
     "location":{
-      "function":"SettingsContainer::getHostPort",
+      "function":null,
       "package":"hive_mind",
       "column":null,
-      "file":"src/bsp/src/posix/src/SettingsContainer.cpp",
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "line":null,
+      "class":null
+    },
+    "value":25
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TCPClient::TCPClient",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "line":10,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TCPClient::TCPClient",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "line":10,
+      "class":null
+    },
+    "value":3
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TCPClient::TCPClient",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "line":10,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TCPClient::~TCPClient",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "line":13,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TCPClient::~TCPClient",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "line":13,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TCPClient::~TCPClient",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "line":13,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TCPClient::receive",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "line":15,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TCPClient::receive",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "line":15,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TCPClient::receive",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "line":15,
+      "class":null
+    },
+    "value":3
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TCPClient::send",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
       "line":19,
       "class":null
     },
@@ -6206,83 +3698,47 @@
   {
     "metric":"function_parameters",
     "location":{
-      "function":"SettingsContainer::getHostPort",
+      "function":"TCPClient::send",
       "package":"hive_mind",
       "column":null,
-      "file":"src/bsp/src/posix/src/SettingsContainer.cpp",
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
       "line":19,
       "class":null
     },
-    "value":0
+    "value":2
   },
   {
     "metric":"ploc",
     "location":{
-      "function":"SettingsContainer::getHostPort",
+      "function":"TCPClient::send",
       "package":"hive_mind",
       "column":null,
-      "file":"src/bsp/src/posix/src/SettingsContainer.cpp",
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
       "line":19,
       "class":null
     },
-    "value":5
+    "value":3
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
-      "function":"SettingsContainer::getHostIP",
+      "function":"TCPClient::close",
       "package":"hive_mind",
       "column":null,
-      "file":"src/bsp/src/posix/src/SettingsContainer.cpp",
-      "line":26,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"SettingsContainer::getHostIP",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/SettingsContainer.cpp",
-      "line":26,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "line":23,
       "class":null
     },
     "value":2
   },
   {
-    "metric":"ploc",
-    "location":{
-      "function":"SettingsContainer::getHostIP",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/SettingsContainer.cpp",
-      "line":26,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"SettingsContainer::getLogLevel",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/SettingsContainer.cpp",
-      "line":33,
-      "class":null
-    },
-    "value":5
-  },
-  {
     "metric":"function_parameters",
     "location":{
-      "function":"SettingsContainer::getLogLevel",
+      "function":"TCPClient::close",
       "package":"hive_mind",
       "column":null,
-      "file":"src/bsp/src/posix/src/SettingsContainer.cpp",
-      "line":33,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "line":23,
       "class":null
     },
     "value":0
@@ -6290,530 +3746,14 @@
   {
     "metric":"ploc",
     "location":{
-      "function":"SettingsContainer::getLogLevel",
+      "function":"TCPClient::close",
       "package":"hive_mind",
       "column":null,
-      "file":"src/bsp/src/posix/src/SettingsContainer.cpp",
-      "line":33,
-      "class":null
-    },
-    "value":17
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/UserInterface.cpp",
-      "line":null,
-      "class":null
-    },
-    "value":17
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"UserInterface::print",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/UserInterface.cpp",
-      "line":5,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"UserInterface::print",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/UserInterface.cpp",
-      "line":5,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"UserInterface::print",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/UserInterface.cpp",
-      "line":5,
-      "class":null
-    },
-    "value":7
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"UserInterface::print",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/UserInterface.cpp",
-      "line":14,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"UserInterface::print",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/UserInterface.cpp",
-      "line":14,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"UserInterface::print",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/UserInterface.cpp",
-      "line":14,
-      "class":null
-    },
-    "value":7
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/SocketContainer.cpp",
-      "line":null,
-      "class":null
-    },
-    "value":27
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"SocketContainer::getHostClientSocket",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/SocketContainer.cpp",
-      "line":8,
-      "class":null
-    },
-    "value":4
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"SocketContainer::getHostClientSocket",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/SocketContainer.cpp",
-      "line":8,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"SocketContainer::getHostClientSocket",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/SocketContainer.cpp",
-      "line":8,
-      "class":null
-    },
-    "value":21
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/BSP.cpp",
-      "line":null,
-      "class":null
-    },
-    "value":47
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"rosWatcher",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/BSP.cpp",
-      "line":12,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"rosWatcher",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/BSP.cpp",
-      "line":12,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"rosWatcher",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/BSP.cpp",
-      "line":12,
+      "file":"src/bsp/src/posix/src/TCPClient.cpp",
+      "line":23,
       "class":null
     },
     "value":8
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"exampleTopicPublish",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/BSP.cpp",
-      "line":22,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"exampleTopicPublish",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/BSP.cpp",
-      "line":22,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"exampleTopicPublish",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/BSP.cpp",
-      "line":22,
-      "class":null
-    },
-    "value":15
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"BSP::BSP",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/BSP.cpp",
-      "line":41,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"BSP::BSP",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/BSP.cpp",
-      "line":41,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"BSP::BSP",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/BSP.cpp",
-      "line":41,
-      "class":null
-    },
-    "value":4
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"BSP::initChip",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/BSP.cpp",
-      "line":48,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"BSP::initChip",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/BSP.cpp",
-      "line":48,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"BSP::initChip",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/BSP.cpp",
-      "line":48,
-      "class":null
-    },
-    "value":10
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"BSP::getRosNodeHandle",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/BSP.cpp",
-      "line":62,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"BSP::getRosNodeHandle",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/BSP.cpp",
-      "line":62,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"BSP::getRosNodeHandle",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/BSP.cpp",
-      "line":62,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"BSP::getUUId",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/BSP.cpp",
-      "line":64,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"BSP::getUUId",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/BSP.cpp",
-      "line":64,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"BSP::getUUId",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/BSP.cpp",
-      "line":64,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/TCPClient.cpp",
-      "line":null,
-      "class":null
-    },
-    "value":17
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TCPClient::TCPClient",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/TCPClient.cpp",
-      "line":6,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TCPClient::TCPClient",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/TCPClient.cpp",
-      "line":6,
-      "class":null
-    },
-    "value":3
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TCPClient::TCPClient",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/TCPClient.cpp",
-      "line":6,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TCPClient::receive",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/TCPClient.cpp",
-      "line":9,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TCPClient::receive",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/TCPClient.cpp",
-      "line":9,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TCPClient::receive",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/TCPClient.cpp",
-      "line":9,
-      "class":null
-    },
-    "value":3
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TCPClient::send",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/TCPClient.cpp",
-      "line":13,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TCPClient::send",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/TCPClient.cpp",
-      "line":13,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TCPClient::send",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/TCPClient.cpp",
-      "line":13,
-      "class":null
-    },
-    "value":3
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TCPClient::close",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/TCPClient.cpp",
-      "line":17,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TCPClient::close",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/TCPClient.cpp",
-      "line":17,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TCPClient::close",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/src/TCPClient.cpp",
-      "line":17,
-      "class":null
-    },
-    "value":5
   },
   {
     "metric":"ploc",
@@ -6834,7 +3774,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/SocketFactory.cpp",
-      "line":8,
+      "line":9,
       "class":null
     },
     "value":3
@@ -6846,7 +3786,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/SocketFactory.cpp",
-      "line":8,
+      "line":9,
       "class":null
     },
     "value":3
@@ -6858,10 +3798,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/SocketFactory.cpp",
-      "line":8,
+      "line":9,
       "class":null
     },
-    "value":19
+    "value":18
   },
   {
     "metric":"ploc",
@@ -6873,43 +3813,7 @@
       "line":null,
       "class":null
     },
-    "value":27
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TCPUartMock::isConnected",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/include/TCPUartMock.h",
-      "line":24,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TCPUartMock::isConnected",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/include/TCPUartMock.h",
-      "line":24,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TCPUartMock::isConnected",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/include/TCPUartMock.h",
-      "line":24,
-      "class":null
-    },
-    "value":1
+    "value":23
   },
   {
     "metric":"ploc",
@@ -6921,7 +3825,19 @@
       "line":null,
       "class":null
     },
-    "value":15
+    "value":12
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/include/BSPUtils.h",
+      "line":null,
+      "class":null
+    },
+    "value":4
   },
   {
     "metric":"ploc",
@@ -6945,7 +3861,7 @@
       "line":null,
       "class":null
     },
-    "value":6
+    "value":8
   },
   {
     "metric":"ploc",
@@ -6957,7 +3873,7 @@
       "line":null,
       "class":null
     },
-    "value":20
+    "value":15
   },
   {
     "metric":"ploc",
@@ -7209,7 +4125,7 @@
       "line":null,
       "class":null
     },
-    "value":20
+    "value":18
   },
   {
     "metric":"cyclomatic_complexity",
@@ -7218,10 +4134,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/src/hal.c",
-      "line":10,
+      "line":6,
       "class":null
     },
-    "value":2
+    "value":1
   },
   {
     "metric":"function_parameters",
@@ -7230,7 +4146,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/src/hal.c",
-      "line":10,
+      "line":6,
       "class":null
     },
     "value":0
@@ -7242,10 +4158,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/src/hal.c",
-      "line":10,
+      "line":6,
       "class":null
     },
-    "value":12
+    "value":11
   },
   {
     "metric":"cyclomatic_complexity",
@@ -7254,7 +4170,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/src/hal.c",
-      "line":37,
+      "line":29,
       "class":null
     },
     "value":1
@@ -7266,7 +4182,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/src/hal.c",
-      "line":37,
+      "line":29,
       "class":null
     },
     "value":2
@@ -7278,7 +4194,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/src/hal.c",
-      "line":37,
+      "line":29,
       "class":null
     },
     "value":3
@@ -8157,7 +5073,7 @@
       "line":null,
       "class":null
     },
-    "value":5
+    "value":6
   },
   {
     "metric":"ploc",
@@ -8202,7 +5118,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/LWIP/App/lwip.c",
-      "line":64,
+      "line":65,
       "class":null
     },
     "value":2
@@ -8214,7 +5130,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/LWIP/App/lwip.c",
-      "line":64,
+      "line":65,
       "class":null
     },
     "value":1
@@ -8226,7 +5142,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/LWIP/App/lwip.c",
-      "line":64,
+      "line":65,
       "class":null
     },
     "value":35
@@ -8238,7 +5154,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/LWIP/App/lwip.c",
-      "line":140,
+      "line":142,
       "class":null
     },
     "value":1
@@ -8250,7 +5166,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/LWIP/App/lwip.c",
-      "line":140,
+      "line":142,
       "class":null
     },
     "value":1
@@ -8262,7 +5178,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/LWIP/App/lwip.c",
-      "line":140,
+      "line":142,
       "class":null
     },
     "value":5
@@ -8274,7 +5190,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/LWIP/App/lwip.c",
-      "line":158,
+      "line":160,
       "class":null
     },
     "value":1
@@ -8286,7 +5202,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/LWIP/App/lwip.c",
-      "line":158,
+      "line":160,
       "class":null
     },
     "value":2
@@ -8298,7 +5214,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/LWIP/App/lwip.c",
-      "line":158,
+      "line":160,
       "class":null
     },
     "value":2
@@ -8310,7 +5226,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/LWIP/App/lwip.c",
-      "line":174,
+      "line":176,
       "class":null
     },
     "value":1
@@ -8322,7 +5238,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/LWIP/App/lwip.c",
-      "line":174,
+      "line":176,
       "class":null
     },
     "value":3
@@ -8334,7 +5250,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/LWIP/App/lwip.c",
-      "line":174,
+      "line":176,
       "class":null
     },
     "value":5
@@ -8346,7 +5262,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/LWIP/App/lwip.c",
-      "line":192,
+      "line":194,
       "class":null
     },
     "value":1
@@ -8358,7 +5274,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/LWIP/App/lwip.c",
-      "line":192,
+      "line":194,
       "class":null
     },
     "value":3
@@ -8370,7 +5286,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/LWIP/App/lwip.c",
-      "line":192,
+      "line":194,
       "class":null
     },
     "value":5
@@ -8925,7 +5841,7 @@
       "line":null,
       "class":null
     },
-    "value":4
+    "value":3
   },
   {
     "metric":"ploc",
@@ -10485,7 +7401,7 @@
       "line":null,
       "class":null
     },
-    "value":135
+    "value":111
   },
   {
     "metric":"cyclomatic_complexity",
@@ -10605,7 +7521,7 @@
       "line":25,
       "class":null
     },
-    "value":1
+    "value":2
   },
   {
     "metric":"function_parameters",
@@ -10629,7 +7545,7 @@
       "line":25,
       "class":null
     },
-    "value":12
+    "value":11
   },
   {
     "metric":"cyclomatic_complexity",
@@ -10638,43 +7554,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/HostUart.cpp",
-      "line":41,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"HostUart::send",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/HostUart.cpp",
-      "line":41,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"HostUart::send",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/HostUart.cpp",
-      "line":41,
-      "class":null
-    },
-    "value":24
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"HostUart::receive",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/HostUart.cpp",
-      "line":72,
+      "line":42,
       "class":null
     },
     "value":4
@@ -10682,11 +7562,47 @@
   {
     "metric":"function_parameters",
     "location":{
+      "function":"HostUart::send",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "line":42,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"HostUart::send",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "line":42,
+      "class":null
+    },
+    "value":23
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
       "function":"HostUart::receive",
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/HostUart.cpp",
-      "line":72,
+      "line":73,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"HostUart::receive",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "line":73,
       "class":null
     },
     "value":2
@@ -10698,10 +7614,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/HostUart.cpp",
-      "line":72,
+      "line":73,
       "class":null
     },
-    "value":14
+    "value":3
   },
   {
     "metric":"cyclomatic_complexity",
@@ -10710,7 +7626,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/HostUart.cpp",
-      "line":90,
+      "line":78,
       "class":null
     },
     "value":2
@@ -10722,7 +7638,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/HostUart.cpp",
-      "line":90,
+      "line":78,
       "class":null
     },
     "value":0
@@ -10734,7 +7650,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/HostUart.cpp",
-      "line":90,
+      "line":78,
       "class":null
     },
     "value":10
@@ -10746,7 +7662,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/HostUart.cpp",
-      "line":104,
+      "line":91,
       "class":null
     },
     "value":3
@@ -10758,7 +7674,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/HostUart.cpp",
-      "line":104,
+      "line":91,
       "class":null
     },
     "value":0
@@ -10770,7 +7686,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/HostUart.cpp",
-      "line":104,
+      "line":91,
       "class":null
     },
     "value":15
@@ -10782,7 +7698,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/HostUart.cpp",
-      "line":123,
+      "line":110,
       "class":null
     },
     "value":3
@@ -10794,7 +7710,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/HostUart.cpp",
-      "line":123,
+      "line":110,
       "class":null
     },
     "value":0
@@ -10806,7 +7722,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/HostUart.cpp",
-      "line":123,
+      "line":110,
       "class":null
     },
     "value":16
@@ -10818,367 +7734,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/HostUart.cpp",
-      "line":141,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"HostUart::process",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/HostUart.cpp",
-      "line":141,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"HostUart::process",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/HostUart.cpp",
-      "line":141,
-      "class":null
-    },
-    "value":17
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"HostUart::addPacketToStream",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/HostUart.cpp",
-      "line":164,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"HostUart::addPacketToStream",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/HostUart.cpp",
-      "line":164,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"HostUart::addPacketToStream",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/HostUart.cpp",
-      "line":164,
-      "class":null
-    },
-    "value":7
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"HostUart::isBusy",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/HostUart.cpp",
-      "line":174,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"HostUart::isBusy",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/HostUart.cpp",
-      "line":174,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"HostUart::isBusy",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/HostUart.cpp",
-      "line":174,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/SettingsContainer.cpp",
-      "line":null,
-      "class":null
-    },
-    "value":9
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"SettingsContainer::getUUID",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/SettingsContainer.cpp",
-      "line":5,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"SettingsContainer::getUUID",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/SettingsContainer.cpp",
-      "line":5,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"SettingsContainer::getUUID",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/SettingsContainer.cpp",
-      "line":5,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"SettingsContainer::getHostPort",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/SettingsContainer.cpp",
-      "line":7,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"SettingsContainer::getHostPort",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/SettingsContainer.cpp",
-      "line":7,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"SettingsContainer::getHostPort",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/SettingsContainer.cpp",
-      "line":7,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"SettingsContainer::getHostIP",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/SettingsContainer.cpp",
-      "line":9,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"SettingsContainer::getHostIP",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/SettingsContainer.cpp",
-      "line":9,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"SettingsContainer::getHostIP",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/SettingsContainer.cpp",
-      "line":9,
-      "class":null
-    },
-    "value":3
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"SettingsContainer::getLogLevel",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/SettingsContainer.cpp",
-      "line":13,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"SettingsContainer::getLogLevel",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/SettingsContainer.cpp",
-      "line":13,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"SettingsContainer::getLogLevel",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/SettingsContainer.cpp",
-      "line":13,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/UserInterface.cpp",
-      "line":null,
-      "class":null
-    },
-    "value":16
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"UserInterface::print",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/UserInterface.cpp",
-      "line":6,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"UserInterface::print",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/UserInterface.cpp",
-      "line":6,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"UserInterface::print",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/UserInterface.cpp",
-      "line":6,
-      "class":null
-    },
-    "value":7
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"UserInterface::print",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/UserInterface.cpp",
-      "line":15,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"UserInterface::print",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/UserInterface.cpp",
-      "line":15,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"UserInterface::print",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/UserInterface.cpp",
-      "line":15,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/SocketContainer.cpp",
-      "line":null,
-      "class":null
-    },
-    "value":24
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"SocketContainer::getHostClientSocket",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/SocketContainer.cpp",
-      "line":7,
+      "line":128,
       "class":null
     },
     "value":4
@@ -11186,11 +7742,179 @@
   {
     "metric":"function_parameters",
     "location":{
+      "function":"HostUart::process",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "line":128,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"HostUart::process",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "line":128,
+      "class":null
+    },
+    "value":13
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"HostUart::isBusy",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "line":143,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"HostUart::isBusy",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "line":143,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"HostUart::isBusy",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/HostUart.cpp",
+      "line":143,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/UserInterface.cpp",
+      "line":null,
+      "class":null
+    },
+    "value":16
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"UserInterface::print",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/UserInterface.cpp",
+      "line":6,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"UserInterface::print",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/UserInterface.cpp",
+      "line":6,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"UserInterface::print",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/UserInterface.cpp",
+      "line":6,
+      "class":null
+    },
+    "value":7
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"UserInterface::print",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/UserInterface.cpp",
+      "line":15,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"UserInterface::print",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/UserInterface.cpp",
+      "line":15,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"UserInterface::print",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/UserInterface.cpp",
+      "line":15,
+      "class":null
+    },
+    "value":5
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/SocketContainer.cpp",
+      "line":null,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
       "function":"SocketContainer::getHostClientSocket",
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/SocketContainer.cpp",
-      "line":7,
+      "line":3,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"SocketContainer::getHostClientSocket",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/SocketContainer.cpp",
+      "line":3,
       "class":null
     },
     "value":0
@@ -11202,10 +7926,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/SocketContainer.cpp",
-      "line":7,
+      "line":3,
       "class":null
     },
-    "value":19
+    "value":1
   },
   {
     "metric":"ploc",
@@ -11226,7 +7950,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/BSP.cpp",
-      "line":9,
+      "line":7,
       "class":null
     },
     "value":1
@@ -11238,7 +7962,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/BSP.cpp",
-      "line":9,
+      "line":7,
       "class":null
     },
     "value":1
@@ -11250,7 +7974,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/BSP.cpp",
-      "line":9,
+      "line":7,
       "class":null
     },
     "value":4
@@ -11262,7 +7986,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/BSP.cpp",
-      "line":15,
+      "line":13,
       "class":null
     },
     "value":1
@@ -11274,7 +7998,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/BSP.cpp",
-      "line":15,
+      "line":13,
       "class":null
     },
     "value":0
@@ -11286,166 +8010,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/BSP.cpp",
-      "line":15,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/TCPClient.cpp",
-      "line":null,
-      "class":null
-    },
-    "value":23
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TCPClient::TCPClient",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/TCPClient.cpp",
-      "line":3,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TCPClient::TCPClient",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/TCPClient.cpp",
-      "line":3,
+      "line":13,
       "class":null
     },
     "value":3
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TCPClient::TCPClient",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/TCPClient.cpp",
-      "line":3,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TCPClient::receive",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/TCPClient.cpp",
-      "line":6,
-      "class":null
-    },
-    "value":3
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TCPClient::receive",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/TCPClient.cpp",
-      "line":6,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TCPClient::receive",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/TCPClient.cpp",
-      "line":6,
-      "class":null
-    },
-    "value":12
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TCPClient::send",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/TCPClient.cpp",
-      "line":24,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TCPClient::send",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/TCPClient.cpp",
-      "line":24,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TCPClient::send",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/TCPClient.cpp",
-      "line":24,
-      "class":null
-    },
-    "value":3
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TCPClient::close",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/TCPClient.cpp",
-      "line":28,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TCPClient::close",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/TCPClient.cpp",
-      "line":28,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TCPClient::close",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/TCPClient.cpp",
-      "line":28,
-      "class":null
-    },
-    "value":5
   },
   {
     "metric":"ploc",
@@ -11457,7 +8025,7 @@
       "line":null,
       "class":null
     },
-    "value":10
+    "value":15
   },
   {
     "metric":"cyclomatic_complexity",
@@ -11466,7 +8034,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/CRC.cpp",
-      "line":5,
+      "line":4,
       "class":null
     },
     "value":1
@@ -11478,7 +8046,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/CRC.cpp",
-      "line":5,
+      "line":4,
       "class":null
     },
     "value":0
@@ -11490,7 +8058,43 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/CRC.cpp",
-      "line":5,
+      "line":4,
+      "class":null
+    },
+    "value":4
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"CRC::~CRC",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/CRC.cpp",
+      "line":11,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"CRC::~CRC",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/CRC.cpp",
+      "line":11,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"CRC::~CRC",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/CRC.cpp",
+      "line":11,
       "class":null
     },
     "value":1
@@ -11502,10 +8106,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/CRC.cpp",
-      "line":7,
+      "line":13,
       "class":null
     },
-    "value":1
+    "value":2
   },
   {
     "metric":"function_parameters",
@@ -11514,7 +8118,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/CRC.cpp",
-      "line":7,
+      "line":13,
       "class":null
     },
     "value":2
@@ -11526,58 +8130,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/CRC.cpp",
-      "line":7,
+      "line":13,
       "class":null
     },
-    "value":6
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/SocketFactory.cpp",
-      "line":null,
-      "class":null
-    },
-    "value":23
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"SocketFactory::createTCPClient",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/SocketFactory.cpp",
-      "line":6,
-      "class":null
-    },
-    "value":3
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"SocketFactory::createTCPClient",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/SocketFactory.cpp",
-      "line":6,
-      "class":null
-    },
-    "value":3
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"SocketFactory::createTCPClient",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/SocketFactory.cpp",
-      "line":6,
-      "class":null
-    },
-    "value":19
+    "value":8
   },
   {
     "metric":"ploc",
@@ -11590,18 +8146,6 @@
       "class":null
     },
     "value":8
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/include/DefaultSettings.in.h",
-      "line":null,
-      "class":null
-    },
-    "value":1
   },
   {
     "metric":"ploc",
@@ -11625,31 +8169,7 @@
       "line":null,
       "class":null
     },
-    "value":12
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/include/SocketFactory.h",
-      "line":null,
-      "class":null
-    },
-    "value":7
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/include/TCPClient.h",
-      "line":null,
-      "class":null
-    },
-    "value":15
+    "value":11
   },
   {
     "metric":"ploc",
@@ -11661,16 +8181,136 @@
       "line":null,
       "class":null
     },
-    "value":45
+    "value":36
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":null,
+      "class":null
+    },
+    "value":123
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
-      "function":"HostUart::isConnected",
+      "function":"CircularBuff_init",
       "package":"hive_mind",
       "column":null,
-      "file":"src/bsp/src/stm32/include/HostUart.h",
-      "line":23,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":6,
+      "class":null
+    },
+    "value":3
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"CircularBuff_init",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":6,
+      "class":null
+    },
+    "value":3
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"CircularBuff_init",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":6,
+      "class":null
+    },
+    "value":11
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"CircularBuff_getFreeSize",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":19,
+      "class":null
+    },
+    "value":4
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"CircularBuff_getFreeSize",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":19,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"CircularBuff_getFreeSize",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":19,
+      "class":null
+    },
+    "value":9
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"CircularBuff_getLength",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":31,
+      "class":null
+    },
+    "value":5
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"CircularBuff_getLength",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":31,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"CircularBuff_getLength",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":31,
+      "class":null
+    },
+    "value":11
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"CircularBuff_isFull",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":45,
       "class":null
     },
     "value":1
@@ -11678,11 +8318,323 @@
   {
     "metric":"function_parameters",
     "location":{
-      "function":"HostUart::isConnected",
+      "function":"CircularBuff_isFull",
       "package":"hive_mind",
       "column":null,
-      "file":"src/bsp/src/stm32/include/HostUart.h",
-      "line":23,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":45,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"CircularBuff_isFull",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":45,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"CircularBuff_putc",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":47,
+      "class":null
+    },
+    "value":6
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"CircularBuff_putc",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":47,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"CircularBuff_putc",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":47,
+      "class":null
+    },
+    "value":14
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"CircularBuff_put",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":66,
+      "class":null
+    },
+    "value":5
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"CircularBuff_put",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":66,
+      "class":null
+    },
+    "value":3
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"CircularBuff_put",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":66,
+      "class":null
+    },
+    "value":12
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"CircularBuff_getc",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":81,
+      "class":null
+    },
+    "value":5
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"CircularBuff_getc",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":81,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"CircularBuff_getc",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":81,
+      "class":null
+    },
+    "value":13
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"CircularBuff_get",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":99,
+      "class":null
+    },
+    "value":5
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"CircularBuff_get",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":99,
+      "class":null
+    },
+    "value":3
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"CircularBuff_get",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":99,
+      "class":null
+    },
+    "value":11
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"CircularBuff_getZeroCopy",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":114,
+      "class":null
+    },
+    "value":6
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"CircularBuff_getZeroCopy",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":114,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"CircularBuff_getZeroCopy",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":114,
+      "class":null
+    },
+    "value":17
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"CircularBuff_advance",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":137,
+      "class":null
+    },
+    "value":6
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"CircularBuff_advance",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":137,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"CircularBuff_advance",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":137,
+      "class":null
+    },
+    "value":12
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"CircularBuff_clear",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":155,
+      "class":null
+    },
+    "value":3
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"CircularBuff_clear",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":155,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"CircularBuff_clear",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/src/circular_buff.c",
+      "line":155,
+      "class":null
+    },
+    "value":9
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/include/common/circular_buff.h",
+      "line":null,
+      "class":null
+    },
+    "value":33
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":null,
+      "class":null
+    },
+    "value":276
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"CircularBuffFixture::SetUp",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":11,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"CircularBuffFixture::SetUp",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":11,
       "class":null
     },
     "value":0
@@ -11690,14 +8642,1346 @@
   {
     "metric":"ploc",
     "location":{
-      "function":"HostUart::isConnected",
+      "function":"CircularBuffFixture::SetUp",
       "package":"hive_mind",
       "column":null,
-      "file":"src/bsp/src/stm32/include/HostUart.h",
-      "line":23,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":11,
+      "class":null
+    },
+    "value":4
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"CircularBuffFixture::TearDown",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":15,
       "class":null
     },
     "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"CircularBuffFixture::TearDown",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":15,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"CircularBuffFixture::TearDown",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":15,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":18,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":18,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":18,
+      "class":null
+    },
+    "value":4
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":27,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":27,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":27,
+      "class":null
+    },
+    "value":4
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":36,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":36,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":36,
+      "class":null
+    },
+    "value":4
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":45,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":45,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":45,
+      "class":null
+    },
+    "value":4
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":54,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":54,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":54,
+      "class":null
+    },
+    "value":5
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":65,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":65,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":65,
+      "class":null
+    },
+    "value":6
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":77,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":77,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":77,
+      "class":null
+    },
+    "value":6
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":89,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":89,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":89,
+      "class":null
+    },
+    "value":4
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":98,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":98,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":98,
+      "class":null
+    },
+    "value":5
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":109,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":109,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":109,
+      "class":null
+    },
+    "value":6
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":121,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":121,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":121,
+      "class":null
+    },
+    "value":6
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":133,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":133,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":133,
+      "class":null
+    },
+    "value":4
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":142,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":142,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":142,
+      "class":null
+    },
+    "value":5
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":153,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":153,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":153,
+      "class":null
+    },
+    "value":6
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":165,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":165,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":165,
+      "class":null
+    },
+    "value":6
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":177,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":177,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":177,
+      "class":null
+    },
+    "value":6
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":188,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":188,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":188,
+      "class":null
+    },
+    "value":5
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":198,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":198,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":198,
+      "class":null
+    },
+    "value":8
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":212,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":212,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":212,
+      "class":null
+    },
+    "value":9
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":227,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":227,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":227,
+      "class":null
+    },
+    "value":8
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":241,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":241,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":241,
+      "class":null
+    },
+    "value":8
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":255,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":255,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":255,
+      "class":null
+    },
+    "value":10
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":271,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":271,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":271,
+      "class":null
+    },
+    "value":7
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":283,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":283,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":283,
+      "class":null
+    },
+    "value":9
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":297,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":297,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":297,
+      "class":null
+    },
+    "value":10
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":313,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":313,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":313,
+      "class":null
+    },
+    "value":6
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":325,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":325,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":325,
+      "class":null
+    },
+    "value":10
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":341,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":341,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":341,
+      "class":null
+    },
+    "value":10
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":357,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":357,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":357,
+      "class":null
+    },
+    "value":7
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":370,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":370,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":370,
+      "class":null
+    },
+    "value":12
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":388,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":388,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":388,
+      "class":null
+    },
+    "value":12
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":406,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":406,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":406,
+      "class":null
+    },
+    "value":12
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":424,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":424,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":424,
+      "class":null
+    },
+    "value":10
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":440,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":440,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":440,
+      "class":null
+    },
+    "value":10
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":456,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":456,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":456,
+      "class":null
+    },
+    "value":10
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":472,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":472,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/common/tests/CircularBuffTests.cpp",
+      "line":472,
+      "class":null
+    },
+    "value":8
   },
   {
     "metric":"ploc",
@@ -11745,7 +10029,7 @@
       "line":null,
       "class":null
     },
-    "value":12
+    "value":16
   },
   {
     "metric":"cyclomatic_complexity",
@@ -11853,7 +10137,7 @@
       "line":16,
       "class":null
     },
-    "value":1
+    "value":3
   },
   {
     "metric":"cyclomatic_complexity",
@@ -11862,7 +10146,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/include/bsp/TCPClientWrapper.h",
-      "line":18,
+      "line":20,
       "class":null
     },
     "value":1
@@ -11874,7 +10158,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/include/bsp/TCPClientWrapper.h",
-      "line":18,
+      "line":20,
       "class":null
     },
     "value":2
@@ -11886,10 +10170,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/include/bsp/TCPClientWrapper.h",
-      "line":18,
+      "line":20,
       "class":null
     },
-    "value":1
+    "value":3
   },
   {
     "metric":"cyclomatic_complexity",
@@ -11898,7 +10182,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/include/bsp/TCPClientWrapper.h",
-      "line":20,
+      "line":24,
       "class":null
     },
     "value":1
@@ -11910,7 +10194,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/include/bsp/TCPClientWrapper.h",
-      "line":20,
+      "line":24,
       "class":null
     },
     "value":0
@@ -11922,22 +10206,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/include/bsp/TCPClientWrapper.h",
-      "line":20,
+      "line":24,
       "class":null
     },
     "value":1
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/include/bsp/SettingsContainer.h",
-      "line":null,
-      "class":null
-    },
-    "value":9
   },
   {
     "metric":"ploc",
@@ -11973,7 +10245,7 @@
       "line":null,
       "class":null
     },
-    "value":10
+    "value":8
   },
   {
     "metric":"ploc",
@@ -11985,7 +10257,7 @@
       "line":null,
       "class":null
     },
-    "value":9
+    "value":8
   },
   {
     "metric":"ploc",
@@ -11993,7 +10265,7 @@
       "function":null,
       "package":"hive_mind",
       "column":null,
-      "file":"src/os/freertos/freertos_hooks.c",
+      "file":"src/freertos/freertos_hooks.c",
       "line":null,
       "class":null
     },
@@ -12005,7 +10277,7 @@
       "function":"vApplicationTickHook",
       "package":"hive_mind",
       "column":null,
-      "file":"src/os/freertos/freertos_hooks.c",
+      "file":"src/freertos/freertos_hooks.c",
       "line":11,
       "class":null
     },
@@ -12017,7 +10289,7 @@
       "function":"vApplicationTickHook",
       "package":"hive_mind",
       "column":null,
-      "file":"src/os/freertos/freertos_hooks.c",
+      "file":"src/freertos/freertos_hooks.c",
       "line":11,
       "class":null
     },
@@ -12029,7 +10301,7 @@
       "function":"vApplicationTickHook",
       "package":"hive_mind",
       "column":null,
-      "file":"src/os/freertos/freertos_hooks.c",
+      "file":"src/freertos/freertos_hooks.c",
       "line":11,
       "class":null
     },
@@ -12041,7 +10313,7 @@
       "function":"vApplicationMallocFailedHook",
       "package":"hive_mind",
       "column":null,
-      "file":"src/os/freertos/freertos_hooks.c",
+      "file":"src/freertos/freertos_hooks.c",
       "line":13,
       "class":null
     },
@@ -12053,7 +10325,7 @@
       "function":"vApplicationMallocFailedHook",
       "package":"hive_mind",
       "column":null,
-      "file":"src/os/freertos/freertos_hooks.c",
+      "file":"src/freertos/freertos_hooks.c",
       "line":13,
       "class":null
     },
@@ -12065,7 +10337,7 @@
       "function":"vApplicationMallocFailedHook",
       "package":"hive_mind",
       "column":null,
-      "file":"src/os/freertos/freertos_hooks.c",
+      "file":"src/freertos/freertos_hooks.c",
       "line":13,
       "class":null
     },
@@ -12077,7 +10349,7 @@
       "function":"vApplicationStackOverflowHook",
       "package":"hive_mind",
       "column":null,
-      "file":"src/os/freertos/freertos_hooks.c",
+      "file":"src/freertos/freertos_hooks.c",
       "line":20,
       "class":null
     },
@@ -12089,7 +10361,7 @@
       "function":"vApplicationStackOverflowHook",
       "package":"hive_mind",
       "column":null,
-      "file":"src/os/freertos/freertos_hooks.c",
+      "file":"src/freertos/freertos_hooks.c",
       "line":20,
       "class":null
     },
@@ -12101,7 +10373,7 @@
       "function":"vApplicationStackOverflowHook",
       "package":"hive_mind",
       "column":null,
-      "file":"src/os/freertos/freertos_hooks.c",
+      "file":"src/freertos/freertos_hooks.c",
       "line":20,
       "class":null
     },
@@ -12113,7 +10385,7 @@
       "function":null,
       "package":"hive_mind",
       "column":null,
-      "file":"src/os/freertos/include/freertos/FreeRTOSConfig.h",
+      "file":"src/freertos/include/freertos/FreeRTOSConfig.h",
       "line":null,
       "class":null
     },
@@ -12125,7 +10397,139 @@
       "function":null,
       "package":"hive_mind",
       "column":null,
-      "file":"src/os/freertos/platforms/stm32f4/include/freertos_platform_config.h",
+      "file":"src/freertos/platforms/posix/platform_freertos_hooks.c",
+      "line":null,
+      "class":null
+    },
+    "value":27
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"vApplicationIdleHook",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/freertos/platforms/posix/platform_freertos_hooks.c",
+      "line":6,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"vApplicationIdleHook",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/freertos/platforms/posix/platform_freertos_hooks.c",
+      "line":6,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"vApplicationIdleHook",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/freertos/platforms/posix/platform_freertos_hooks.c",
+      "line":6,
+      "class":null
+    },
+    "value":5
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"vApplicationGetIdleTaskMemory",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/freertos/platforms/posix/platform_freertos_hooks.c",
+      "line":21,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"vApplicationGetIdleTaskMemory",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/freertos/platforms/posix/platform_freertos_hooks.c",
+      "line":21,
+      "class":null
+    },
+    "value":3
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"vApplicationGetIdleTaskMemory",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/freertos/platforms/posix/platform_freertos_hooks.c",
+      "line":21,
+      "class":null
+    },
+    "value":9
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"vApplicationGetTimerTaskMemory",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/freertos/platforms/posix/platform_freertos_hooks.c",
+      "line":48,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"vApplicationGetTimerTaskMemory",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/freertos/platforms/posix/platform_freertos_hooks.c",
+      "line":48,
+      "class":null
+    },
+    "value":3
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"vApplicationGetTimerTaskMemory",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/freertos/platforms/posix/platform_freertos_hooks.c",
+      "line":48,
+      "class":null
+    },
+    "value":9
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/freertos/platforms/posix/include/freertos_platform_config.h",
+      "line":null,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/freertos/platforms/stm32f4/include/freertos_platform_config.h",
       "line":null,
       "class":null
     },
@@ -12141,7 +10545,7 @@
       "line":null,
       "class":null
     },
-    "value":8
+    "value":6
   },
   {
     "metric":"cyclomatic_complexity",
@@ -12150,7 +10554,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/logger/src/LoggerContainer.cpp",
-      "line":5,
+      "line":4,
       "class":null
     },
     "value":1
@@ -12162,7 +10566,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/logger/src/LoggerContainer.cpp",
-      "line":5,
+      "line":4,
       "class":null
     },
     "value":0
@@ -12174,10 +10578,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/logger/src/LoggerContainer.cpp",
-      "line":5,
+      "line":4,
       "class":null
     },
-    "value":5
+    "value":4
   },
   {
     "metric":"ploc",
@@ -12189,7 +10593,7 @@
       "line":null,
       "class":null
     },
-    "value":21
+    "value":31
   },
   {
     "metric":"cyclomatic_complexity",
@@ -12198,10 +10602,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/logger/src/Logger.cpp",
-      "line":6,
+      "line":5,
       "class":null
     },
-    "value":1
+    "value":2
   },
   {
     "metric":"function_parameters",
@@ -12210,7 +10614,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/logger/src/Logger.cpp",
-      "line":6,
+      "line":5,
       "class":null
     },
     "value":2
@@ -12222,10 +10626,46 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/logger/src/Logger.cpp",
-      "line":6,
+      "line":5,
       "class":null
     },
-    "value":3
+    "value":8
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"Logger::~Logger",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/logger/src/Logger.cpp",
+      "line":16,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"Logger::~Logger",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/logger/src/Logger.cpp",
+      "line":16,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"Logger::~Logger",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/logger/src/Logger.cpp",
+      "line":16,
+      "class":null
+    },
+    "value":1
   },
   {
     "metric":"cyclomatic_complexity",
@@ -12234,10 +10674,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/logger/src/Logger.cpp",
-      "line":10,
+      "line":18,
       "class":null
     },
-    "value":3
+    "value":4
   },
   {
     "metric":"function_parameters",
@@ -12246,7 +10686,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/logger/src/Logger.cpp",
-      "line":10,
+      "line":18,
       "class":null
     },
     "value":3
@@ -12258,10 +10698,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/logger/src/Logger.cpp",
-      "line":10,
+      "line":18,
       "class":null
     },
-    "value":14
+    "value":19
   },
   {
     "metric":"ploc",
@@ -12297,7 +10737,7 @@
       "line":null,
       "class":null
     },
-    "value":13
+    "value":14
   },
   {
     "metric":"ploc",
