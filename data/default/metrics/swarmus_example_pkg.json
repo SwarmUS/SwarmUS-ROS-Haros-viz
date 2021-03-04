@@ -89,18 +89,6 @@
       "function":null,
       "package":"swarmus_example_pkg",
       "column":null,
-      "file":"include/swarmus_example_pkg/DummyUtils.h",
-      "line":null,
-      "class":null
-    },
-    "value":3
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"swarmus_example_pkg",
-      "column":null,
       "file":"src/DummyUtils.cpp",
       "line":null,
       "class":null
@@ -262,5 +250,17 @@
       "class":null
     },
     "value":6
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "package":"swarmus_example_pkg",
+      "column":null,
+      "file":"include/swarmus_example_pkg/DummyUtils.h",
+      "line":null,
+      "class":null
+    },
+    "value":3
   }
 ]

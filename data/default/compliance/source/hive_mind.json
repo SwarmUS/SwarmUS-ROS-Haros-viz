@@ -1,122 +1,5 @@
 [
   {
-    "comment":"Function length of 48",
-    "resources":[],
-    "location":{
-      "function":"low_level_init",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/LWIP/Target/ethernetif.c",
-      "line":210,
-      "class":null
-    },
-    "rule":"max_function_length_40"
-  },
-  {
-    "comment":"Function length of 47",
-    "resources":[],
-    "location":{
-      "function":"low_level_output",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/LWIP/Target/ethernetif.c",
-      "line":331,
-      "class":null
-    },
-    "rule":"max_function_length_40"
-  },
-  {
-    "comment":"Function length of 50",
-    "resources":[],
-    "location":{
-      "function":"low_level_input",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/LWIP/Target/ethernetif.c",
-      "line":413,
-      "class":null
-    },
-    "rule":"max_function_length_40"
-  },
-  {
-    "comment":"function with cyclomatic complexity 12",
-    "resources":[],
-    "location":{
-      "function":"SystemInit_ExtMemCtl",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/system_stm32f4xx.c",
-      "line":259,
-      "class":null
-    },
-    "rule":"max_cyclomatic_complexity_10"
-  },
-  {
-    "comment":"Function length of 80",
-    "resources":[],
-    "location":{
-      "function":"SystemInit_ExtMemCtl",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/system_stm32f4xx.c",
-      "line":259,
-      "class":null
-    },
-    "rule":"max_function_length_40"
-  },
-  {
-    "comment":"function with cyclomatic complexity 24",
-    "resources":[],
-    "location":{
-      "function":"SystemInit_ExtMemCtl",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/system_stm32f4xx.c",
-      "line":419,
-      "class":null
-    },
-    "rule":"max_cyclomatic_complexity_10"
-  },
-  {
-    "comment":"function with cyclomatic complexity 24",
-    "resources":[],
-    "location":{
-      "function":"SystemInit_ExtMemCtl",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/system_stm32f4xx.c",
-      "line":419,
-      "class":null
-    },
-    "rule":"max_cyclomatic_complexity_15"
-  },
-  {
-    "comment":"Function length of 130",
-    "resources":[],
-    "location":{
-      "function":"SystemInit_ExtMemCtl",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/system_stm32f4xx.c",
-      "line":419,
-      "class":null
-    },
-    "rule":"max_function_length_40"
-  },
-  {
-    "comment":"Function length of 54",
-    "resources":[],
-    "location":{
-      "function":"HAL_UART_MspInit",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
-      "line":64,
-      "class":null
-    },
-    "rule":"max_function_length_40"
-  },
-  {
     "comment":"function with cyclomatic complexity 15",
     "resources":[],
     "location":{
@@ -765,5 +648,122 @@
       "class":null
     },
     "rule":"haros_plugin_pylint:convention"
+  },
+  {
+    "comment":"Function length of 48",
+    "resources":[],
+    "location":{
+      "function":"low_level_init",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/LWIP/Target/ethernetif.c",
+      "line":210,
+      "class":null
+    },
+    "rule":"max_function_length_40"
+  },
+  {
+    "comment":"Function length of 47",
+    "resources":[],
+    "location":{
+      "function":"low_level_output",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/LWIP/Target/ethernetif.c",
+      "line":331,
+      "class":null
+    },
+    "rule":"max_function_length_40"
+  },
+  {
+    "comment":"Function length of 50",
+    "resources":[],
+    "location":{
+      "function":"low_level_input",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/LWIP/Target/ethernetif.c",
+      "line":413,
+      "class":null
+    },
+    "rule":"max_function_length_40"
+  },
+  {
+    "comment":"Function length of 54",
+    "resources":[],
+    "location":{
+      "function":"HAL_UART_MspInit",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
+      "line":64,
+      "class":null
+    },
+    "rule":"max_function_length_40"
+  },
+  {
+    "comment":"function with cyclomatic complexity 12",
+    "resources":[],
+    "location":{
+      "function":"SystemInit_ExtMemCtl",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/system_stm32f4xx.c",
+      "line":259,
+      "class":null
+    },
+    "rule":"max_cyclomatic_complexity_10"
+  },
+  {
+    "comment":"Function length of 80",
+    "resources":[],
+    "location":{
+      "function":"SystemInit_ExtMemCtl",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/system_stm32f4xx.c",
+      "line":259,
+      "class":null
+    },
+    "rule":"max_function_length_40"
+  },
+  {
+    "comment":"function with cyclomatic complexity 24",
+    "resources":[],
+    "location":{
+      "function":"SystemInit_ExtMemCtl",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/system_stm32f4xx.c",
+      "line":419,
+      "class":null
+    },
+    "rule":"max_cyclomatic_complexity_10"
+  },
+  {
+    "comment":"function with cyclomatic complexity 24",
+    "resources":[],
+    "location":{
+      "function":"SystemInit_ExtMemCtl",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/system_stm32f4xx.c",
+      "line":419,
+      "class":null
+    },
+    "rule":"max_cyclomatic_complexity_15"
+  },
+  {
+    "comment":"Function length of 130",
+    "resources":[],
+    "location":{
+      "function":"SystemInit_ExtMemCtl",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/system_stm32f4xx.c",
+      "line":419,
+      "class":null
+    },
+    "rule":"max_function_length_40"
   }
 ]

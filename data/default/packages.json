@@ -14,6 +14,7 @@
       "robot_state_publisher",
       "message_runtime",
       "std_msgs",
+      "rtabmap_ros",
       "tf",
       "swarmus_ros_description",
       "geometry_msgs",
@@ -25,8 +26,8 @@
     "authors":[],
     "bugTracker":null,
     "id":"swarmus_ros_simulation",
-    "size":"38.34",
-    "lines":1094,
+    "size":"38.92",
+    "lines":1117,
     "analysis":{
       "metrics":{},
       "violations":{
@@ -34,7 +35,7 @@
       }
     },
     "version":"0.0.0",
-    "sloc":823
+    "sloc":838
   },
   {
     "wiki":null,
@@ -53,8 +54,8 @@
     "authors":[],
     "bugTracker":null,
     "id":"hive_mind",
-    "size":"337.75",
-    "lines":10045,
+    "size":"372.65",
+    "lines":11096,
     "analysis":{
       "metrics":{},
       "violations":{
@@ -67,7 +68,7 @@
       }
     },
     "version":"0.0.0",
-    "sloc":8268
+    "sloc":9106
   },
   {
     "wiki":null,
