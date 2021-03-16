@@ -26,8 +26,8 @@
     "authors":[],
     "bugTracker":null,
     "id":"swarmus_ros_simulation",
-    "size":"38.91",
-    "lines":1117,
+    "size":"39.02",
+    "lines":1120,
     "analysis":{
       "metrics":{},
       "violations":{
@@ -35,7 +35,7 @@
       }
     },
     "version":"0.0.0",
-    "sloc":838
+    "sloc":839
   },
   {
     "wiki":null,
@@ -80,21 +80,22 @@
     ],
     "dependencies":[
       "robot_state_publisher",
-      "gazebo_ros",
+      "joint_state_controller",
+      "realsense2_description",
       "controller_manager",
-      "joint_state_controller"
+      "gazebo_ros"
     ],
     "authors":[],
     "bugTracker":null,
     "id":"swarmus_ros_description",
-    "size":"1269.61",
-    "lines":1710,
+    "size":"1267.86",
+    "lines":1647,
     "analysis":{
       "metrics":{},
       "violations":{}
     },
     "version":"0.0.0",
-    "sloc":1636
+    "sloc":1580
   },
   {
     "wiki":null,
