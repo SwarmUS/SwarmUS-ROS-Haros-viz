@@ -5,18 +5,6 @@
       "function":null,
       "package":"swarmus_example_pkg",
       "column":null,
-      "file":"include/swarmus_example_pkg/DummyUtils.h",
-      "line":null,
-      "class":null
-    },
-    "value":3
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"swarmus_example_pkg",
-      "column":null,
       "file":"test/DummyUtilsTests.cpp",
       "line":null,
       "class":null
@@ -94,6 +82,54 @@
       "class":null
     },
     "value":4
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "package":"swarmus_example_pkg",
+      "column":null,
+      "file":"src/DummyUtils.cpp",
+      "line":null,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"DummyUtils::addTwoNumbers",
+      "package":"swarmus_example_pkg",
+      "column":null,
+      "file":"src/DummyUtils.cpp",
+      "line":3,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"DummyUtils::addTwoNumbers",
+      "package":"swarmus_example_pkg",
+      "column":null,
+      "file":"src/DummyUtils.cpp",
+      "line":3,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"DummyUtils::addTwoNumbers",
+      "package":"swarmus_example_pkg",
+      "column":null,
+      "file":"src/DummyUtils.cpp",
+      "line":3,
+      "class":null
+    },
+    "value":1
   },
   {
     "metric":"ploc",
@@ -221,46 +257,10 @@
       "function":null,
       "package":"swarmus_example_pkg",
       "column":null,
-      "file":"src/DummyUtils.cpp",
+      "file":"include/swarmus_example_pkg/DummyUtils.h",
       "line":null,
       "class":null
     },
-    "value":2
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"DummyUtils::addTwoNumbers",
-      "package":"swarmus_example_pkg",
-      "column":null,
-      "file":"src/DummyUtils.cpp",
-      "line":3,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"DummyUtils::addTwoNumbers",
-      "package":"swarmus_example_pkg",
-      "column":null,
-      "file":"src/DummyUtils.cpp",
-      "line":3,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"DummyUtils::addTwoNumbers",
-      "package":"swarmus_example_pkg",
-      "column":null,
-      "file":"src/DummyUtils.cpp",
-      "line":3,
-      "class":null
-    },
-    "value":1
+    "value":3
   }
 ]
