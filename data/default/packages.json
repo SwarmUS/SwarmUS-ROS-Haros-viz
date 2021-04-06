@@ -26,8 +26,8 @@
     "authors":[],
     "bugTracker":null,
     "id":"swarmus_ros_simulation",
-    "size":"39.02",
-    "lines":1120,
+    "size":"38.92",
+    "lines":1117,
     "analysis":{
       "metrics":{},
       "violations":{
@@ -35,7 +35,7 @@
       }
     },
     "version":"0.0.0",
-    "sloc":839
+    "sloc":837
   },
   {
     "wiki":null,
@@ -54,8 +54,8 @@
     "authors":[],
     "bugTracker":null,
     "id":"hive_mind",
-    "size":"3241.86",
-    "lines":93329,
+    "size":"3257.51",
+    "lines":93809,
     "analysis":{
       "metrics":{},
       "violations":{
@@ -63,14 +63,14 @@
         "max_cyclomatic_complexity_15":6,
         "haros_plugin_pylint:refactor":4,
         "max_function_length_40":19,
-        "max_cyclomatic_complexity_10":11,
+        "max_cyclomatic_complexity_10":12,
         "max_file_length_400":3,
         "haros_plugin_pylint:warning":5,
         "max_function_parameters_6":3
       }
     },
     "version":"0.0.0",
-    "sloc":88717
+    "sloc":89107
   },
   {
     "wiki":null,
