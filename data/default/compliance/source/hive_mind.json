@@ -1,6 +1,6 @@
 [
   {
-    "comment":"function with 8 parameters",
+    "comment":"function with 9 parameters",
     "resources":[],
     "location":{
       "function":"MessageDispatcher::MessageDispatcher",
@@ -13,7 +13,7 @@
     "rule":"max_function_parameters_6"
   },
   {
-    "comment":"File length (PLOC) of 545",
+    "comment":"File length (PLOC) of 483",
     "resources":[],
     "location":{
       "function":null,
@@ -91,7 +91,7 @@
     "rule":"max_function_parameters_6"
   },
   {
-    "comment":"File length (PLOC) of 730",
+    "comment":"File length (PLOC) of 731",
     "resources":[],
     "location":{
       "function":null,
@@ -195,7 +195,7 @@
     "rule":"max_function_length_40"
   },
   {
-    "comment":"Function length of 101",
+    "comment":"Function length of 107",
     "resources":[],
     "location":{
       "function":"MX_GPIO_Init",
@@ -208,14 +208,40 @@
     "rule":"max_function_length_40"
   },
   {
-    "comment":"Function length of 54",
+    "comment":"function with cyclomatic complexity 19",
     "resources":[],
     "location":{
-      "function":"HAL_UART_MspInit",
+      "function":"HAL_SPI_MspInit",
       "package":"hive_mind",
       "column":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
-      "line":64,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/spi.c",
+      "line":93,
+      "class":null
+    },
+    "rule":"max_cyclomatic_complexity_10"
+  },
+  {
+    "comment":"function with cyclomatic complexity 19",
+    "resources":[],
+    "location":{
+      "function":"HAL_SPI_MspInit",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/spi.c",
+      "line":93,
+      "class":null
+    },
+    "rule":"max_cyclomatic_complexity_15"
+  },
+  {
+    "comment":"Function length of 190",
+    "resources":[],
+    "location":{
+      "function":"HAL_SPI_MspInit",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/spi.c",
+      "line":93,
       "class":null
     },
     "rule":"max_function_length_40"
@@ -224,40 +250,27 @@
     "comment":"function with cyclomatic complexity 15",
     "resources":[],
     "location":{
-      "function":"HAL_SPI_MspInit",
+      "function":"HAL_SPI_MspDeInit",
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/spi.c",
-      "line":93,
+      "line":498,
       "class":null
     },
     "rule":"max_cyclomatic_complexity_10"
   },
   {
-    "comment":"Function length of 154",
-    "resources":[],
-    "location":{
-      "function":"HAL_SPI_MspInit",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/spi.c",
-      "line":93,
-      "class":null
-    },
-    "rule":"max_function_length_40"
-  },
-  {
-    "comment":"function with cyclomatic complexity 11",
+    "comment":"Function length of 51",
     "resources":[],
     "location":{
       "function":"HAL_SPI_MspDeInit",
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/spi.c",
-      "line":406,
+      "line":498,
       "class":null
     },
-    "rule":"max_cyclomatic_complexity_10"
+    "rule":"max_function_length_40"
   },
   {
     "comment":"function with cyclomatic complexity 12",

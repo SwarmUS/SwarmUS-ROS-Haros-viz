@@ -9,7 +9,7 @@
       "line":null,
       "class":null
     },
-    "value":195
+    "value":216
   },
   {
     "metric":"cyclomatic_complexity",
@@ -18,7 +18,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":28,
+      "line":30,
       "class":null
     },
     "value":1
@@ -30,7 +30,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":28,
+      "line":30,
       "class":null
     },
     "value":2
@@ -42,7 +42,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":28,
+      "line":30,
       "class":null
     },
     "value":14
@@ -54,7 +54,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":51,
+      "line":53,
       "class":null
     },
     "value":3
@@ -66,7 +66,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":51,
+      "line":53,
       "class":null
     },
     "value":0
@@ -78,7 +78,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":51,
+      "line":53,
       "class":null
     },
     "value":9
@@ -90,7 +90,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":65,
+      "line":67,
       "class":null
     },
     "value":1
@@ -102,7 +102,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":65,
+      "line":67,
       "class":null
     },
     "value":4
@@ -114,7 +114,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":65,
+      "line":67,
       "class":null
     },
     "value":9
@@ -126,7 +126,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":77,
+      "line":79,
       "class":null
     },
     "value":1
@@ -138,7 +138,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":77,
+      "line":79,
       "class":null
     },
     "value":1
@@ -150,7 +150,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":77,
+      "line":79,
       "class":null
     },
     "value":1
@@ -162,7 +162,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":85,
+      "line":87,
       "class":null
     },
     "value":4
@@ -174,7 +174,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":85,
+      "line":87,
       "class":null
     },
     "value":0
@@ -186,7 +186,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":85,
+      "line":87,
       "class":null
     },
     "value":16
@@ -198,7 +198,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":108,
+      "line":110,
       "class":null
     },
     "value":1
@@ -210,7 +210,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":108,
+      "line":110,
       "class":null
     },
     "value":4
@@ -222,7 +222,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":108,
+      "line":110,
       "class":null
     },
     "value":9
@@ -234,7 +234,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":120,
+      "line":122,
       "class":null
     },
     "value":1
@@ -246,7 +246,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":120,
+      "line":122,
       "class":null
     },
     "value":1
@@ -258,7 +258,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":120,
+      "line":122,
       "class":null
     },
     "value":1
@@ -270,7 +270,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":128,
+      "line":130,
       "class":null
     },
     "value":4
@@ -282,7 +282,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":128,
+      "line":130,
       "class":null
     },
     "value":0
@@ -294,7 +294,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":128,
+      "line":130,
       "class":null
     },
     "value":12
@@ -306,7 +306,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":144,
+      "line":146,
       "class":null
     },
     "value":1
@@ -318,7 +318,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":144,
+      "line":146,
       "class":null
     },
     "value":5
@@ -330,7 +330,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":144,
+      "line":146,
       "class":null
     },
     "value":10
@@ -342,7 +342,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":161,
+      "line":163,
       "class":null
     },
     "value":7
@@ -354,7 +354,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":161,
+      "line":163,
       "class":null
     },
     "value":0
@@ -366,7 +366,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":161,
+      "line":163,
       "class":null
     },
     "value":23
@@ -374,11 +374,11 @@
   {
     "metric":"cyclomatic_complexity",
     "location":{
-      "function":"InterlocTask::InterlocTask",
+      "function":"HardwareInterlocTask::HardwareInterlocTask",
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":195,
+      "line":197,
       "class":null
     },
     "value":1
@@ -386,11 +386,11 @@
   {
     "metric":"function_parameters",
     "location":{
-      "function":"InterlocTask::InterlocTask",
+      "function":"HardwareInterlocTask::HardwareInterlocTask",
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":195,
+      "line":197,
       "class":null
     },
     "value":2
@@ -398,23 +398,23 @@
   {
     "metric":"ploc",
     "location":{
-      "function":"InterlocTask::InterlocTask",
+      "function":"HardwareInterlocTask::HardwareInterlocTask",
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":195,
+      "line":197,
       "class":null
     },
-    "value":1
+    "value":2
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
-      "function":"InterlocTask::task",
+      "function":"HardwareInterlocTask::task",
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":200,
+      "line":203,
       "class":null
     },
     "value":1
@@ -422,11 +422,11 @@
   {
     "metric":"function_parameters",
     "location":{
-      "function":"InterlocTask::task",
+      "function":"HardwareInterlocTask::task",
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":200,
+      "line":203,
       "class":null
     },
     "value":0
@@ -434,14 +434,86 @@
   {
     "metric":"ploc",
     "location":{
-      "function":"InterlocTask::task",
+      "function":"HardwareInterlocTask::task",
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":200,
+      "line":203,
       "class":null
     },
     "value":1
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"SoftwareInterlocTask::SoftwareInterlocTask",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/Main.cpp",
+      "line":208,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"SoftwareInterlocTask::SoftwareInterlocTask",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/Main.cpp",
+      "line":208,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"SoftwareInterlocTask::SoftwareInterlocTask",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/Main.cpp",
+      "line":208,
+      "class":null
+    },
+    "value":4
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"SoftwareInterlocTask::task",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/Main.cpp",
+      "line":221,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"SoftwareInterlocTask::task",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/Main.cpp",
+      "line":221,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"SoftwareInterlocTask::task",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/Main.cpp",
+      "line":221,
+      "class":null
+    },
+    "value":5
   },
   {
     "metric":"cyclomatic_complexity",
@@ -450,7 +522,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":203,
+      "line":228,
       "class":null
     },
     "value":1
@@ -462,7 +534,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":203,
+      "line":228,
       "class":null
     },
     "value":2
@@ -474,10 +546,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":203,
+      "line":228,
       "class":null
     },
-    "value":28
+    "value":30
   },
   {
     "metric":"ploc",
@@ -1373,19 +1445,19 @@
       "function":null,
       "package":"hive_mind",
       "column":null,
-      "file":"src/message-handler/src/HiveMindApiRequestHandler.cpp",
+      "file":"src/message-handler/src/HiveMindHostApiRequestHandler.cpp",
       "line":null,
       "class":null
     },
-    "value":11
+    "value":23
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
-      "function":"HiveMindApiRequestHandler::HiveMindApiRequestHandler",
+      "function":"HiveMindHostApiRequestHandler::HiveMindHostApiRequestHandler",
       "package":"hive_mind",
       "column":null,
-      "file":"src/message-handler/src/HiveMindApiRequestHandler.cpp",
+      "file":"src/message-handler/src/HiveMindHostApiRequestHandler.cpp",
       "line":3,
       "class":null
     },
@@ -1394,47 +1466,47 @@
   {
     "metric":"function_parameters",
     "location":{
-      "function":"HiveMindApiRequestHandler::HiveMindApiRequestHandler",
+      "function":"HiveMindHostApiRequestHandler::HiveMindHostApiRequestHandler",
       "package":"hive_mind",
       "column":null,
-      "file":"src/message-handler/src/HiveMindApiRequestHandler.cpp",
+      "file":"src/message-handler/src/HiveMindHostApiRequestHandler.cpp",
       "line":3,
       "class":null
     },
-    "value":2
+    "value":3
   },
   {
     "metric":"ploc",
     "location":{
-      "function":"HiveMindApiRequestHandler::HiveMindApiRequestHandler",
+      "function":"HiveMindHostApiRequestHandler::HiveMindHostApiRequestHandler",
       "package":"hive_mind",
       "column":null,
-      "file":"src/message-handler/src/HiveMindApiRequestHandler.cpp",
+      "file":"src/message-handler/src/HiveMindHostApiRequestHandler.cpp",
       "line":3,
       "class":null
     },
-    "value":2
+    "value":4
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
-      "function":"HiveMindApiRequestHandler::handleRequest",
+      "function":"HiveMindHostApiRequestHandler::handleRequest",
       "package":"hive_mind",
       "column":null,
-      "file":"src/message-handler/src/HiveMindApiRequestHandler.cpp",
-      "line":6,
+      "file":"src/message-handler/src/HiveMindHostApiRequestHandler.cpp",
+      "line":8,
       "class":null
     },
-    "value":2
+    "value":3
   },
   {
     "metric":"function_parameters",
     "location":{
-      "function":"HiveMindApiRequestHandler::handleRequest",
+      "function":"HiveMindHostApiRequestHandler::handleRequest",
       "package":"hive_mind",
       "column":null,
-      "file":"src/message-handler/src/HiveMindApiRequestHandler.cpp",
-      "line":6,
+      "file":"src/message-handler/src/HiveMindHostApiRequestHandler.cpp",
+      "line":8,
       "class":null
     },
     "value":1
@@ -1442,11 +1514,47 @@
   {
     "metric":"ploc",
     "location":{
-      "function":"HiveMindApiRequestHandler::handleRequest",
+      "function":"HiveMindHostApiRequestHandler::handleRequest",
       "package":"hive_mind",
       "column":null,
-      "file":"src/message-handler/src/HiveMindApiRequestHandler.cpp",
-      "line":6,
+      "file":"src/message-handler/src/HiveMindHostApiRequestHandler.cpp",
+      "line":8,
+      "class":null
+    },
+    "value":10
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"HiveMindHostApiRequestHandler::handleHiveMindHostApiRequest",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/src/HiveMindHostApiRequestHandler.cpp",
+      "line":22,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"HiveMindHostApiRequestHandler::handleHiveMindHostApiRequest",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/src/HiveMindHostApiRequestHandler.cpp",
+      "line":22,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"HiveMindHostApiRequestHandler::handleHiveMindHostApiRequest",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/src/HiveMindHostApiRequestHandler.cpp",
+      "line":22,
       "class":null
     },
     "value":8
@@ -1545,7 +1653,7 @@
       "line":null,
       "class":null
     },
-    "value":107
+    "value":99
   },
   {
     "metric":"cyclomatic_complexity",
@@ -1569,7 +1677,7 @@
       "line":5,
       "class":null
     },
-    "value":8
+    "value":9
   },
   {
     "metric":"ploc",
@@ -1581,7 +1689,7 @@
       "line":5,
       "class":null
     },
-    "value":16
+    "value":18
   },
   {
     "metric":"cyclomatic_complexity",
@@ -1590,7 +1698,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":22,
+      "line":24,
       "class":null
     },
     "value":4
@@ -1602,7 +1710,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":22,
+      "line":24,
       "class":null
     },
     "value":0
@@ -1614,7 +1722,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":22,
+      "line":24,
       "class":null
     },
     "value":16
@@ -1626,7 +1734,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":46,
+      "line":49,
       "class":null
     },
     "value":4
@@ -1638,7 +1746,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":46,
+      "line":49,
       "class":null
     },
     "value":2
@@ -1650,7 +1758,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":46,
+      "line":49,
       "class":null
     },
     "value":14
@@ -1662,7 +1770,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":64,
+      "line":67,
       "class":null
     },
     "value":1
@@ -1674,7 +1782,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":64,
+      "line":67,
       "class":null
     },
     "value":2
@@ -1686,7 +1794,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":64,
+      "line":67,
       "class":null
     },
     "value":5
@@ -1698,7 +1806,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":70,
+      "line":73,
       "class":null
     },
     "value":1
@@ -1710,7 +1818,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":70,
+      "line":73,
       "class":null
     },
     "value":2
@@ -1722,7 +1830,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":70,
+      "line":73,
       "class":null
     },
     "value":5
@@ -1734,43 +1842,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":76,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"MessageDispatcher::dispatchRequest",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":76,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"MessageDispatcher::dispatchRequest",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":76,
-      "class":null
-    },
-    "value":22
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"MessageDispatcher::dispatchResponse",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":104,
+      "line":79,
       "class":null
     },
     "value":3
@@ -1778,11 +1850,47 @@
   {
     "metric":"function_parameters",
     "location":{
+      "function":"MessageDispatcher::dispatchRequest",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/src/MessageDispatcher.cpp",
+      "line":79,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"MessageDispatcher::dispatchRequest",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/src/MessageDispatcher.cpp",
+      "line":79,
+      "class":null
+    },
+    "value":12
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
       "function":"MessageDispatcher::dispatchResponse",
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":104,
+      "line":96,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"MessageDispatcher::dispatchResponse",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/src/MessageDispatcher.cpp",
+      "line":96,
       "class":null
     },
     "value":2
@@ -1794,10 +1902,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":104,
+      "line":96,
       "class":null
     },
-    "value":11
+    "value":8
   },
   {
     "metric":"cyclomatic_complexity",
@@ -1806,10 +1914,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":119,
+      "line":108,
       "class":null
     },
-    "value":4
+    "value":5
   },
   {
     "metric":"function_parameters",
@@ -1818,7 +1926,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":119,
+      "line":108,
       "class":null
     },
     "value":1
@@ -1830,10 +1938,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageDispatcher.cpp",
-      "line":119,
+      "line":108,
       "class":null
     },
-    "value":15
+    "value":18
   },
   {
     "metric":"ploc",
@@ -1929,12 +2037,12 @@
       "line":null,
       "class":null
     },
-    "value":36
+    "value":43
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
-      "function":"MessageHandlerContainer::createHiveMindApiRequestHandler",
+      "function":"MessageHandlerContainer::createHiveMindHostApiRequestHandler",
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageHandlerContainer.cpp",
@@ -1946,7 +2054,7 @@
   {
     "metric":"function_parameters",
     "location":{
-      "function":"MessageHandlerContainer::createHiveMindApiRequestHandler",
+      "function":"MessageHandlerContainer::createHiveMindHostApiRequestHandler",
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageHandlerContainer.cpp",
@@ -1958,14 +2066,14 @@
   {
     "metric":"ploc",
     "location":{
-      "function":"MessageHandlerContainer::createHiveMindApiRequestHandler",
+      "function":"MessageHandlerContainer::createHiveMindHostApiRequestHandler",
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageHandlerContainer.cpp",
       "line":10,
       "class":null
     },
-    "value":3
+    "value":4
   },
   {
     "metric":"cyclomatic_complexity",
@@ -1974,7 +2082,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageHandlerContainer.cpp",
-      "line":14,
+      "line":15,
       "class":null
     },
     "value":1
@@ -1986,7 +2094,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageHandlerContainer.cpp",
-      "line":14,
+      "line":15,
       "class":null
     },
     "value":3
@@ -1998,7 +2106,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageHandlerContainer.cpp",
-      "line":14,
+      "line":15,
       "class":null
     },
     "value":8
@@ -2010,7 +2118,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageHandlerContainer.cpp",
-      "line":23,
+      "line":24,
       "class":null
     },
     "value":1
@@ -2022,7 +2130,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageHandlerContainer.cpp",
-      "line":23,
+      "line":24,
       "class":null
     },
     "value":0
@@ -2034,7 +2142,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageHandlerContainer.cpp",
-      "line":23,
+      "line":24,
       "class":null
     },
     "value":6
@@ -2046,7 +2154,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageHandlerContainer.cpp",
-      "line":31,
+      "line":32,
       "class":null
     },
     "value":1
@@ -2058,7 +2166,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageHandlerContainer.cpp",
-      "line":31,
+      "line":32,
       "class":null
     },
     "value":0
@@ -2070,7 +2178,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageHandlerContainer.cpp",
-      "line":31,
+      "line":32,
       "class":null
     },
     "value":6
@@ -2082,7 +2190,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageHandlerContainer.cpp",
-      "line":39,
+      "line":40,
       "class":null
     },
     "value":1
@@ -2094,7 +2202,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageHandlerContainer.cpp",
-      "line":39,
+      "line":40,
       "class":null
     },
     "value":0
@@ -2106,7 +2214,43 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/src/MessageHandlerContainer.cpp",
-      "line":39,
+      "line":40,
+      "class":null
+    },
+    "value":6
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"MessageHandlerContainer::getInterlocMsgQueue",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/src/MessageHandlerContainer.cpp",
+      "line":48,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"MessageHandlerContainer::getInterlocMsgQueue",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/src/MessageHandlerContainer.cpp",
+      "line":48,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"MessageHandlerContainer::getInterlocMsgQueue",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/src/MessageHandlerContainer.cpp",
+      "line":48,
       "class":null
     },
     "value":6
@@ -2157,7 +2301,7 @@
       "line":null,
       "class":null
     },
-    "value":16
+    "value":17
   },
   {
     "metric":"ploc",
@@ -2177,11 +2321,11 @@
       "function":null,
       "package":"hive_mind",
       "column":null,
-      "file":"src/message-handler/include/message-handler/IHiveMindApiRequestHandler.h",
+      "file":"src/message-handler/include/message-handler/IHiveMindHostApiRequestHandler.h",
       "line":null,
       "class":null
     },
-    "value":7
+    "value":8
   },
   {
     "metric":"ploc",
@@ -2205,19 +2349,7 @@
       "line":null,
       "class":null
     },
-    "value":37
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/include/message-handler/HiveMindApiRequestHandler.h",
-      "line":null,
-      "class":null
-    },
-    "value":13
+    "value":39
   },
   {
     "metric":"ploc",
@@ -2230,6 +2362,18 @@
       "class":null
     },
     "value":5
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/include/message-handler/HiveMindHostApiRequestHandler.h",
+      "line":null,
+      "class":null
+    },
+    "value":18
   },
   {
     "metric":"ploc",
@@ -2477,6 +2621,162 @@
       "function":null,
       "package":"hive_mind",
       "column":null,
+      "file":"src/message-handler/tests/HiveMindHostApiRequestHandlerUnitTests.cpp",
+      "line":null,
+      "class":null
+    },
+    "value":47
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"HiveMindHostApiRequestHandlerFixture::SetUp",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/tests/HiveMindHostApiRequestHandlerUnitTests.cpp",
+      "line":21,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"HiveMindHostApiRequestHandlerFixture::SetUp",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/tests/HiveMindHostApiRequestHandlerUnitTests.cpp",
+      "line":21,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"HiveMindHostApiRequestHandlerFixture::SetUp",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/tests/HiveMindHostApiRequestHandlerUnitTests.cpp",
+      "line":21,
+      "class":null
+    },
+    "value":8
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"HiveMindHostApiRequestHandlerFixture::TearDown",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/tests/HiveMindHostApiRequestHandlerUnitTests.cpp",
+      "line":30,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"HiveMindHostApiRequestHandlerFixture::TearDown",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/tests/HiveMindHostApiRequestHandlerUnitTests.cpp",
+      "line":30,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"HiveMindHostApiRequestHandlerFixture::TearDown",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/tests/HiveMindHostApiRequestHandlerUnitTests.cpp",
+      "line":30,
+      "class":null
+    },
+    "value":7
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/tests/HiveMindHostApiRequestHandlerUnitTests.cpp",
+      "line":39,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/tests/HiveMindHostApiRequestHandlerUnitTests.cpp",
+      "line":39,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/tests/HiveMindHostApiRequestHandlerUnitTests.cpp",
+      "line":39,
+      "class":null
+    },
+    "value":8
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/tests/HiveMindHostApiRequestHandlerUnitTests.cpp",
+      "line":53,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/tests/HiveMindHostApiRequestHandlerUnitTests.cpp",
+      "line":53,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/tests/HiveMindHostApiRequestHandlerUnitTests.cpp",
+      "line":53,
+      "class":null
+    },
+    "value":7
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "package":"hive_mind",
+      "column":null,
       "file":"src/message-handler/tests/GreetSenderUnitTests.cpp",
       "line":null,
       "class":null
@@ -2626,162 +2926,6 @@
       "class":null
     },
     "value":5
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/HiveMindApiRequestHandlerUnitTests.cpp",
-      "line":null,
-      "class":null
-    },
-    "value":38
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"HiveMindApiRequestHandlerFixture::SetUp",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/HiveMindApiRequestHandlerUnitTests.cpp",
-      "line":16,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"HiveMindApiRequestHandlerFixture::SetUp",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/HiveMindApiRequestHandlerUnitTests.cpp",
-      "line":16,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"HiveMindApiRequestHandlerFixture::SetUp",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/HiveMindApiRequestHandlerUnitTests.cpp",
-      "line":16,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"HiveMindApiRequestHandlerFixture::TearDown",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/HiveMindApiRequestHandlerUnitTests.cpp",
-      "line":21,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"HiveMindApiRequestHandlerFixture::TearDown",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/HiveMindApiRequestHandlerUnitTests.cpp",
-      "line":21,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"HiveMindApiRequestHandlerFixture::TearDown",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/HiveMindApiRequestHandlerUnitTests.cpp",
-      "line":21,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/HiveMindApiRequestHandlerUnitTests.cpp",
-      "line":28,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/HiveMindApiRequestHandlerUnitTests.cpp",
-      "line":28,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/HiveMindApiRequestHandlerUnitTests.cpp",
-      "line":28,
-      "class":null
-    },
-    "value":7
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/HiveMindApiRequestHandlerUnitTests.cpp",
-      "line":41,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/HiveMindApiRequestHandlerUnitTests.cpp",
-      "line":41,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/HiveMindApiRequestHandlerUnitTests.cpp",
-      "line":41,
-      "class":null
-    },
-    "value":8
   },
   {
     "metric":"ploc",
@@ -2985,7 +3129,7 @@
       "line":null,
       "class":null
     },
-    "value":545
+    "value":483
   },
   {
     "metric":"cyclomatic_complexity",
@@ -2994,7 +3138,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":34,
+      "line":35,
       "class":null
     },
     "value":1
@@ -3006,7 +3150,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":34,
+      "line":35,
       "class":null
     },
     "value":0
@@ -3018,7 +3162,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":34,
+      "line":35,
       "class":null
     },
     "value":14
@@ -3030,7 +3174,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":50,
+      "line":51,
       "class":null
     },
     "value":1
@@ -3042,7 +3186,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":50,
+      "line":51,
       "class":null
     },
     "value":0
@@ -3054,7 +3198,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":50,
+      "line":51,
       "class":null
     },
     "value":10
@@ -3066,7 +3210,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":63,
+      "line":64,
       "class":null
     },
     "value":1
@@ -3078,7 +3222,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":63,
+      "line":64,
       "class":null
     },
     "value":2
@@ -3090,7 +3234,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":63,
+      "line":64,
       "class":null
     },
     "value":13
@@ -3102,7 +3246,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":82,
+      "line":83,
       "class":null
     },
     "value":1
@@ -3114,7 +3258,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":82,
+      "line":83,
       "class":null
     },
     "value":2
@@ -3126,7 +3270,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":82,
+      "line":83,
       "class":null
     },
     "value":13
@@ -3138,7 +3282,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":101,
+      "line":102,
       "class":null
     },
     "value":1
@@ -3150,7 +3294,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":101,
+      "line":102,
       "class":null
     },
     "value":2
@@ -3162,7 +3306,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":101,
+      "line":102,
       "class":null
     },
     "value":15
@@ -3174,7 +3318,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":123,
+      "line":124,
       "class":null
     },
     "value":1
@@ -3186,7 +3330,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":123,
+      "line":124,
       "class":null
     },
     "value":2
@@ -3198,7 +3342,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":123,
+      "line":124,
       "class":null
     },
     "value":15
@@ -3210,7 +3354,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":145,
+      "line":146,
       "class":null
     },
     "value":1
@@ -3222,7 +3366,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":145,
+      "line":146,
       "class":null
     },
     "value":2
@@ -3234,7 +3378,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":145,
+      "line":146,
       "class":null
     },
     "value":15
@@ -3246,7 +3390,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":167,
+      "line":168,
       "class":null
     },
     "value":1
@@ -3258,7 +3402,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":167,
+      "line":168,
       "class":null
     },
     "value":2
@@ -3270,7 +3414,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":167,
+      "line":168,
       "class":null
     },
     "value":15
@@ -3282,7 +3426,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":189,
+      "line":190,
       "class":null
     },
     "value":1
@@ -3294,7 +3438,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":189,
+      "line":190,
       "class":null
     },
     "value":2
@@ -3306,7 +3450,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":189,
+      "line":190,
       "class":null
     },
     "value":13
@@ -3318,7 +3462,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":208,
+      "line":209,
       "class":null
     },
     "value":1
@@ -3330,7 +3474,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":208,
+      "line":209,
       "class":null
     },
     "value":2
@@ -3342,7 +3486,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":208,
+      "line":209,
       "class":null
     },
     "value":13
@@ -3354,7 +3498,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":227,
+      "line":228,
       "class":null
     },
     "value":1
@@ -3366,7 +3510,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":227,
+      "line":228,
       "class":null
     },
     "value":2
@@ -3378,7 +3522,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":227,
+      "line":228,
       "class":null
     },
     "value":13
@@ -3390,7 +3534,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":246,
+      "line":247,
       "class":null
     },
     "value":1
@@ -3402,7 +3546,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":246,
+      "line":247,
       "class":null
     },
     "value":2
@@ -3414,7 +3558,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":246,
+      "line":247,
       "class":null
     },
     "value":13
@@ -3426,7 +3570,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":265,
+      "line":266,
       "class":null
     },
     "value":1
@@ -3438,7 +3582,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":265,
+      "line":266,
       "class":null
     },
     "value":2
@@ -3450,7 +3594,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":265,
+      "line":266,
       "class":null
     },
     "value":13
@@ -3462,7 +3606,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":284,
+      "line":285,
       "class":null
     },
     "value":1
@@ -3474,7 +3618,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":284,
+      "line":285,
       "class":null
     },
     "value":2
@@ -3486,7 +3630,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":284,
+      "line":285,
       "class":null
     },
     "value":15
@@ -3498,7 +3642,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":306,
+      "line":307,
       "class":null
     },
     "value":1
@@ -3510,7 +3654,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":306,
+      "line":307,
       "class":null
     },
     "value":2
@@ -3522,7 +3666,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":306,
+      "line":307,
       "class":null
     },
     "value":15
@@ -3534,7 +3678,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":328,
+      "line":329,
       "class":null
     },
     "value":1
@@ -3546,7 +3690,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":328,
+      "line":329,
       "class":null
     },
     "value":2
@@ -3558,7 +3702,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":328,
+      "line":329,
       "class":null
     },
     "value":15
@@ -3570,7 +3714,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":350,
+      "line":351,
       "class":null
     },
     "value":1
@@ -3582,7 +3726,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":350,
+      "line":351,
       "class":null
     },
     "value":2
@@ -3594,7 +3738,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":350,
+      "line":351,
       "class":null
     },
     "value":15
@@ -3606,7 +3750,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":372,
+      "line":373,
       "class":null
     },
     "value":1
@@ -3618,7 +3762,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":372,
+      "line":373,
       "class":null
     },
     "value":2
@@ -3630,7 +3774,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":372,
+      "line":373,
       "class":null
     },
     "value":17
@@ -3642,7 +3786,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":396,
+      "line":397,
       "class":null
     },
     "value":1
@@ -3654,7 +3798,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":396,
+      "line":397,
       "class":null
     },
     "value":2
@@ -3666,7 +3810,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":396,
+      "line":397,
       "class":null
     },
     "value":13
@@ -3678,7 +3822,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":415,
+      "line":416,
       "class":null
     },
     "value":1
@@ -3690,7 +3834,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":415,
+      "line":416,
       "class":null
     },
     "value":2
@@ -3702,7 +3846,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":415,
+      "line":416,
       "class":null
     },
     "value":13
@@ -3714,7 +3858,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":434,
+      "line":435,
       "class":null
     },
     "value":1
@@ -3726,7 +3870,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":434,
+      "line":435,
       "class":null
     },
     "value":2
@@ -3738,7 +3882,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":434,
+      "line":435,
       "class":null
     },
     "value":13
@@ -3750,7 +3894,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":453,
+      "line":454,
       "class":null
     },
     "value":1
@@ -3762,7 +3906,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":453,
+      "line":454,
       "class":null
     },
     "value":2
@@ -3774,7 +3918,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":453,
+      "line":454,
       "class":null
     },
     "value":14
@@ -3786,7 +3930,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":473,
+      "line":474,
       "class":null
     },
     "value":1
@@ -3798,7 +3942,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":473,
+      "line":474,
       "class":null
     },
     "value":2
@@ -3810,7 +3954,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":473,
+      "line":474,
       "class":null
     },
     "value":14
@@ -3822,7 +3966,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":493,
+      "line":494,
       "class":null
     },
     "value":1
@@ -3834,7 +3978,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":493,
+      "line":494,
       "class":null
     },
     "value":2
@@ -3846,7 +3990,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":493,
+      "line":494,
       "class":null
     },
     "value":14
@@ -3858,7 +4002,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":513,
+      "line":514,
       "class":null
     },
     "value":1
@@ -3870,7 +4014,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":513,
+      "line":514,
       "class":null
     },
     "value":2
@@ -3882,10 +4026,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":513,
+      "line":514,
       "class":null
     },
-    "value":17
+    "value":16
   },
   {
     "metric":"cyclomatic_complexity",
@@ -3921,7 +4065,7 @@
       "line":536,
       "class":null
     },
-    "value":17
+    "value":16
   },
   {
     "metric":"cyclomatic_complexity",
@@ -3930,7 +4074,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":559,
+      "line":558,
       "class":null
     },
     "value":1
@@ -3942,7 +4086,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":559,
+      "line":558,
       "class":null
     },
     "value":2
@@ -3954,10 +4098,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":559,
+      "line":558,
       "class":null
     },
-    "value":17
+    "value":12
   },
   {
     "metric":"cyclomatic_complexity",
@@ -3966,7 +4110,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":582,
+      "line":576,
       "class":null
     },
     "value":1
@@ -3978,7 +4122,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":582,
+      "line":576,
       "class":null
     },
     "value":2
@@ -3990,10 +4134,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":582,
+      "line":576,
       "class":null
     },
-    "value":17
+    "value":12
   },
   {
     "metric":"cyclomatic_complexity",
@@ -4002,7 +4146,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":605,
+      "line":594,
       "class":null
     },
     "value":1
@@ -4014,7 +4158,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":605,
+      "line":594,
       "class":null
     },
     "value":2
@@ -4026,7 +4170,115 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":605,
+      "line":594,
+      "class":null
+    },
+    "value":12
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
+      "line":612,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
+      "line":612,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
+      "line":612,
+      "class":null
+    },
+    "value":12
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
+      "line":630,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
+      "line":630,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
+      "line":630,
+      "class":null
+    },
+    "value":12
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
+      "line":648,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
+      "line":648,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
+      "line":648,
       "class":null
     },
     "value":14
@@ -4038,7 +4290,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":625,
+      "line":668,
       "class":null
     },
     "value":1
@@ -4050,7 +4302,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":625,
+      "line":668,
       "class":null
     },
     "value":2
@@ -4062,262 +4314,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":625,
+      "line":668,
       "class":null
     },
-    "value":14
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":645,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":645,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":645,
-      "class":null
-    },
-    "value":14
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":665,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":665,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":665,
-      "class":null
-    },
-    "value":14
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":685,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":685,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":685,
-      "class":null
-    },
-    "value":12
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":703,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":703,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":703,
-      "class":null
-    },
-    "value":12
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":721,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":721,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":721,
-      "class":null
-    },
-    "value":12
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":739,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":739,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":739,
-      "class":null
-    },
-    "value":12
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":757,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":757,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST_F",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/message-handler/tests/MessageDispatcherUnitTests.cpp",
-      "line":757,
-      "class":null
-    },
-    "value":12
+    "value":15
   },
   {
     "metric":"ploc",
@@ -4385,11 +4385,11 @@
       "function":null,
       "package":"hive_mind",
       "column":null,
-      "file":"src/message-handler/tests/mocks/HiveMindApiRequestHandlerInterfaceMock.h",
+      "file":"src/message-handler/tests/mocks/HiveMindHostDeserializerInterfaceMock.h",
       "line":null,
       "class":null
     },
-    "value":10
+    "value":7
   },
   {
     "metric":"ploc",
@@ -4397,7 +4397,7 @@
       "function":null,
       "package":"hive_mind",
       "column":null,
-      "file":"src/message-handler/tests/mocks/HiveMindHostDeserializerInterfaceMock.h",
+      "file":"src/message-handler/tests/mocks/HiveMindHostApiRequestHandlerInterfaceMock.h",
       "line":null,
       "class":null
     },
@@ -4642,6 +4642,270 @@
       "class":null
     },
     "value":7
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocMessageHandler.cpp",
+      "line":null,
+      "class":null
+    },
+    "value":79
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"InterlocMessageHandler::InterlocMessageHandler",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocMessageHandler.cpp",
+      "line":5,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"InterlocMessageHandler::InterlocMessageHandler",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocMessageHandler.cpp",
+      "line":5,
+      "class":null
+    },
+    "value":6
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"InterlocMessageHandler::InterlocMessageHandler",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocMessageHandler.cpp",
+      "line":5,
+      "class":null
+    },
+    "value":12
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"InterlocMessageHandler::processMessage",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocMessageHandler.cpp",
+      "line":18,
+      "class":null
+    },
+    "value":3
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"InterlocMessageHandler::processMessage",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocMessageHandler.cpp",
+      "line":18,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"InterlocMessageHandler::processMessage",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocMessageHandler.cpp",
+      "line":18,
+      "class":null
+    },
+    "value":13
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"InterlocMessageHandler::handleMessage",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocMessageHandler.cpp",
+      "line":36,
+      "class":null
+    },
+    "value":3
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"InterlocMessageHandler::handleMessage",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocMessageHandler.cpp",
+      "line":36,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"InterlocMessageHandler::handleMessage",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocMessageHandler.cpp",
+      "line":36,
+      "class":null
+    },
+    "value":10
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"InterlocMessageHandler::handleCalibrationMessage",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocMessageHandler.cpp",
+      "line":49,
+      "class":null
+    },
+    "value":6
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"InterlocMessageHandler::handleCalibrationMessage",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocMessageHandler.cpp",
+      "line":49,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"InterlocMessageHandler::handleCalibrationMessage",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocMessageHandler.cpp",
+      "line":49,
+      "class":null
+    },
+    "value":25
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"InterlocMessageHandler::notifyCalibrationEnded",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocMessageHandler.cpp",
+      "line":81,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"InterlocMessageHandler::notifyCalibrationEnded",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocMessageHandler.cpp",
+      "line":81,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"InterlocMessageHandler::notifyCalibrationEnded",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocMessageHandler.cpp",
+      "line":81,
+      "class":null
+    },
+    "value":7
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"InterlocMessageHandler::getQueueForDestination",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocMessageHandler.cpp",
+      "line":90,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"InterlocMessageHandler::getQueueForDestination",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocMessageHandler.cpp",
+      "line":90,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"InterlocMessageHandler::getQueueForDestination",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocMessageHandler.cpp",
+      "line":90,
+      "class":null
+    },
+    "value":7
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"InterlocMessageHandler::notifyCalibrationEndedStatic",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocMessageHandler.cpp",
+      "line":99,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"InterlocMessageHandler::notifyCalibrationEndedStatic",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocMessageHandler.cpp",
+      "line":99,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"InterlocMessageHandler::notifyCalibrationEndedStatic",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocMessageHandler.cpp",
+      "line":99,
+      "class":null
+    },
+    "value":3
   },
   {
     "metric":"ploc",
@@ -4949,6 +5213,102 @@
       "function":null,
       "package":"hive_mind",
       "column":null,
+      "file":"src/interloc/src/InterlocContainer.cpp",
+      "line":null,
+      "class":null
+    },
+    "value":18
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"InterlocContainer::getInterloc",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocContainer.cpp",
+      "line":8,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"InterlocContainer::getInterloc",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocContainer.cpp",
+      "line":8,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"InterlocContainer::getInterloc",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocContainer.cpp",
+      "line":8,
+      "class":null
+    },
+    "value":5
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"InterlocContainer::getInterlocMessageHandler",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocContainer.cpp",
+      "line":14,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"InterlocContainer::getInterlocMessageHandler",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocContainer.cpp",
+      "line":14,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"InterlocContainer::getInterlocMessageHandler",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocContainer.cpp",
+      "line":14,
+      "class":null
+    },
+    "value":7
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/include/interloc/InterlocMessageHandler.h",
+      "line":null,
+      "class":null
+    },
+    "value":30
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "package":"hive_mind",
+      "column":null,
       "file":"src/interloc/include/interloc/RelativePosition.h",
       "line":null,
       "class":null
@@ -4985,6 +5345,30 @@
       "function":null,
       "package":"hive_mind",
       "column":null,
+      "file":"src/interloc/include/interloc/IInterlocMessageHandler.h",
+      "line":null,
+      "class":null
+    },
+    "value":4
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/include/interloc/InterlocContainer.h",
+      "line":null,
+      "class":null
+    },
+    "value":6
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "package":"hive_mind",
+      "column":null,
       "file":"src/interloc/include/interloc/InterlocSettings.in.h",
       "line":null,
       "class":null
@@ -4997,11 +5381,491 @@
       "function":null,
       "package":"hive_mind",
       "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":null,
+      "class":null
+    },
+    "value":182
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"InterlocMessageHandlerFixture::SetUp",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":20,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"InterlocMessageHandlerFixture::SetUp",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":20,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"InterlocMessageHandlerFixture::SetUp",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":20,
+      "class":null
+    },
+    "value":5
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"InterlocMessageHandlerFixture::TearDown",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":26,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"InterlocMessageHandlerFixture::TearDown",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":26,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"InterlocMessageHandlerFixture::TearDown",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":26,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":29,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":29,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":29,
+      "class":null
+    },
+    "value":6
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":38,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":38,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":38,
+      "class":null
+    },
+    "value":8
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":48,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":48,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":48,
+      "class":null
+    },
+    "value":8
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":59,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":59,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":59,
+      "class":null
+    },
+    "value":8
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":70,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":70,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":70,
+      "class":null
+    },
+    "value":22
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":97,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":97,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":97,
+      "class":null
+    },
+    "value":12
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":113,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":113,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":113,
+      "class":null
+    },
+    "value":10
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":126,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":126,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":126,
+      "class":null
+    },
+    "value":15
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":144,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":144,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":144,
+      "class":null
+    },
+    "value":10
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":157,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":157,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":157,
+      "class":null
+    },
+    "value":30
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":199,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":199,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/InterlocMessageHandlerUnitTests.cpp",
+      "line":199,
+      "class":null
+    },
+    "value":30
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "package":"hive_mind",
+      "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
       "line":null,
       "class":null
     },
-    "value":155
+    "value":167
   },
   {
     "metric":"cyclomatic_complexity",
@@ -5145,7 +6009,7 @@
       "line":37,
       "class":null
     },
-    "value":11
+    "value":12
   },
   {
     "metric":"cyclomatic_complexity",
@@ -5154,7 +6018,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":55,
+      "line":56,
       "class":null
     },
     "value":1
@@ -5166,7 +6030,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":55,
+      "line":56,
       "class":null
     },
     "value":2
@@ -5178,10 +6042,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":55,
+      "line":56,
       "class":null
     },
-    "value":16
+    "value":17
   },
   {
     "metric":"cyclomatic_complexity",
@@ -5190,7 +6054,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":78,
+      "line":80,
       "class":null
     },
     "value":1
@@ -5202,7 +6066,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":78,
+      "line":80,
       "class":null
     },
     "value":2
@@ -5214,10 +6078,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":78,
+      "line":80,
       "class":null
     },
-    "value":19
+    "value":21
   },
   {
     "metric":"cyclomatic_complexity",
@@ -5226,7 +6090,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":105,
+      "line":109,
       "class":null
     },
     "value":1
@@ -5238,7 +6102,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":105,
+      "line":109,
       "class":null
     },
     "value":2
@@ -5250,10 +6114,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":105,
+      "line":109,
       "class":null
     },
-    "value":19
+    "value":21
   },
   {
     "metric":"cyclomatic_complexity",
@@ -5262,7 +6126,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":132,
+      "line":138,
       "class":null
     },
     "value":1
@@ -5274,7 +6138,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":132,
+      "line":138,
       "class":null
     },
     "value":2
@@ -5286,10 +6150,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":132,
+      "line":138,
       "class":null
     },
-    "value":19
+    "value":21
   },
   {
     "metric":"cyclomatic_complexity",
@@ -5298,7 +6162,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":159,
+      "line":167,
       "class":null
     },
     "value":1
@@ -5310,7 +6174,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":159,
+      "line":167,
       "class":null
     },
     "value":2
@@ -5322,7 +6186,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":159,
+      "line":167,
       "class":null
     },
     "value":5
@@ -5334,7 +6198,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":169,
+      "line":177,
       "class":null
     },
     "value":1
@@ -5346,7 +6210,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":169,
+      "line":177,
       "class":null
     },
     "value":2
@@ -5358,10 +6222,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":169,
+      "line":177,
       "class":null
     },
-    "value":9
+    "value":10
   },
   {
     "metric":"cyclomatic_complexity",
@@ -5370,7 +6234,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":184,
+      "line":193,
       "class":null
     },
     "value":1
@@ -5382,7 +6246,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":184,
+      "line":193,
       "class":null
     },
     "value":2
@@ -5394,10 +6258,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":184,
+      "line":193,
       "class":null
     },
-    "value":9
+    "value":10
   },
   {
     "metric":"cyclomatic_complexity",
@@ -5406,7 +6270,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":199,
+      "line":209,
       "class":null
     },
     "value":1
@@ -5418,7 +6282,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":199,
+      "line":209,
       "class":null
     },
     "value":2
@@ -5430,7 +6294,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":199,
+      "line":209,
       "class":null
     },
     "value":4
@@ -5442,7 +6306,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":207,
+      "line":217,
       "class":null
     },
     "value":1
@@ -5454,7 +6318,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":207,
+      "line":217,
       "class":null
     },
     "value":2
@@ -5466,10 +6330,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":207,
+      "line":217,
       "class":null
     },
-    "value":9
+    "value":10
   },
   {
     "metric":"cyclomatic_complexity",
@@ -5478,7 +6342,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":221,
+      "line":232,
       "class":null
     },
     "value":2
@@ -5490,7 +6354,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":221,
+      "line":232,
       "class":null
     },
     "value":2
@@ -5502,10 +6366,178 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/tests/InterlocUnitTests.cpp",
-      "line":221,
+      "line":232,
+      "class":null
+    },
+    "value":11
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/mocks/CircularQueueInterfaceMock.h",
+      "line":null,
+      "class":null
+    },
+    "value":18
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/mocks/BSPInterfaceMock.h",
+      "line":null,
       "class":null
     },
     "value":10
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"BSPInterfaceMock::BSPInterfaceMock",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/mocks/BSPInterfaceMock.h",
+      "line":11,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"BSPInterfaceMock::BSPInterfaceMock",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/mocks/BSPInterfaceMock.h",
+      "line":11,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"BSPInterfaceMock::BSPInterfaceMock",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/mocks/BSPInterfaceMock.h",
+      "line":11,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"BSPInterfaceMock::initChip",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/mocks/BSPInterfaceMock.h",
+      "line":13,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"BSPInterfaceMock::initChip",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/mocks/BSPInterfaceMock.h",
+      "line":13,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"BSPInterfaceMock::initChip",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/mocks/BSPInterfaceMock.h",
+      "line":13,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"BSPInterfaceMock::getUUId",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/mocks/BSPInterfaceMock.h",
+      "line":15,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"BSPInterfaceMock::getUUId",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/mocks/BSPInterfaceMock.h",
+      "line":15,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"BSPInterfaceMock::getUUId",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/mocks/BSPInterfaceMock.h",
+      "line":15,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"BSPInterfaceMock::generateRandomNumber",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/mocks/BSPInterfaceMock.h",
+      "line":17,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"BSPInterfaceMock::generateRandomNumber",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/mocks/BSPInterfaceMock.h",
+      "line":17,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"BSPInterfaceMock::generateRandomNumber",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/tests/mocks/BSPInterfaceMock.h",
+      "line":17,
+      "class":null
+    },
+    "value":1
   },
   {
     "metric":"ploc",
@@ -5590,150 +6622,6 @@
       "class":null
     },
     "value":5
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"InterlocManagerInterfaceMock::startCalibSingleInitiator",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/interloc/tests/mocks/InterlocManagerInterfaceMock.h",
-      "line":20,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"InterlocManagerInterfaceMock::startCalibSingleInitiator",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/interloc/tests/mocks/InterlocManagerInterfaceMock.h",
-      "line":20,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"InterlocManagerInterfaceMock::startCalibSingleInitiator",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/interloc/tests/mocks/InterlocManagerInterfaceMock.h",
-      "line":20,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"InterlocManagerInterfaceMock::startCalibSingleResponder",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/interloc/tests/mocks/InterlocManagerInterfaceMock.h",
-      "line":21,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"InterlocManagerInterfaceMock::startCalibSingleResponder",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/interloc/tests/mocks/InterlocManagerInterfaceMock.h",
-      "line":21,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"InterlocManagerInterfaceMock::startCalibSingleResponder",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/interloc/tests/mocks/InterlocManagerInterfaceMock.h",
-      "line":21,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"InterlocManagerInterfaceMock::setCalibDistance",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/interloc/tests/mocks/InterlocManagerInterfaceMock.h",
-      "line":22,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"InterlocManagerInterfaceMock::setCalibDistance",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/interloc/tests/mocks/InterlocManagerInterfaceMock.h",
-      "line":22,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"InterlocManagerInterfaceMock::setCalibDistance",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/interloc/tests/mocks/InterlocManagerInterfaceMock.h",
-      "line":22,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"InterlocManagerInterfaceMock::setCalibFinishedCallback",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/interloc/tests/mocks/InterlocManagerInterfaceMock.h",
-      "line":23,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"InterlocManagerInterfaceMock::setCalibFinishedCallback",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/interloc/tests/mocks/InterlocManagerInterfaceMock.h",
-      "line":23,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"InterlocManagerInterfaceMock::setCalibFinishedCallback",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/interloc/tests/mocks/InterlocManagerInterfaceMock.h",
-      "line":23,
-      "class":null
-    },
-    "value":4
   },
   {
     "metric":"ploc",
@@ -8733,7 +9621,7 @@
       "line":null,
       "class":null
     },
-    "value":730
+    "value":731
   },
   {
     "metric":"cyclomatic_complexity",
@@ -9561,7 +10449,7 @@
       "line":653,
       "class":null
     },
-    "value":15
+    "value":16
   },
   {
     "metric":"cyclomatic_complexity",
@@ -9570,7 +10458,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":676,
+      "line":677,
       "class":null
     },
     "value":1
@@ -9582,7 +10470,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":676,
+      "line":677,
       "class":null
     },
     "value":2
@@ -9594,7 +10482,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":676,
+      "line":677,
       "class":null
     },
     "value":15
@@ -9606,7 +10494,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":699,
+      "line":700,
       "class":null
     },
     "value":1
@@ -9618,7 +10506,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":699,
+      "line":700,
       "class":null
     },
     "value":2
@@ -9630,7 +10518,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":699,
+      "line":700,
       "class":null
     },
     "value":14
@@ -9642,7 +10530,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":721,
+      "line":722,
       "class":null
     },
     "value":1
@@ -9654,7 +10542,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":721,
+      "line":722,
       "class":null
     },
     "value":2
@@ -9666,7 +10554,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":721,
+      "line":722,
       "class":null
     },
     "value":15
@@ -9678,7 +10566,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":747,
+      "line":748,
       "class":null
     },
     "value":1
@@ -9690,7 +10578,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":747,
+      "line":748,
       "class":null
     },
     "value":2
@@ -9702,7 +10590,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":747,
+      "line":748,
       "class":null
     },
     "value":13
@@ -9714,7 +10602,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":768,
+      "line":769,
       "class":null
     },
     "value":1
@@ -9726,7 +10614,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":768,
+      "line":769,
       "class":null
     },
     "value":2
@@ -9738,7 +10626,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":768,
+      "line":769,
       "class":null
     },
     "value":13
@@ -9750,7 +10638,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":790,
+      "line":791,
       "class":null
     },
     "value":1
@@ -9762,7 +10650,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":790,
+      "line":791,
       "class":null
     },
     "value":2
@@ -9774,7 +10662,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":790,
+      "line":791,
       "class":null
     },
     "value":36
@@ -9786,7 +10674,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":838,
+      "line":839,
       "class":null
     },
     "value":1
@@ -9798,7 +10686,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":838,
+      "line":839,
       "class":null
     },
     "value":2
@@ -9810,7 +10698,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":838,
+      "line":839,
       "class":null
     },
     "value":36
@@ -9822,7 +10710,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":886,
+      "line":887,
       "class":null
     },
     "value":1
@@ -9834,7 +10722,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":886,
+      "line":887,
       "class":null
     },
     "value":2
@@ -9846,7 +10734,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":886,
+      "line":887,
       "class":null
     },
     "value":26
@@ -9858,7 +10746,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":923,
+      "line":924,
       "class":null
     },
     "value":1
@@ -9870,7 +10758,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":923,
+      "line":924,
       "class":null
     },
     "value":2
@@ -9882,7 +10770,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":923,
+      "line":924,
       "class":null
     },
     "value":26
@@ -9894,7 +10782,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":961,
+      "line":962,
       "class":null
     },
     "value":1
@@ -9906,7 +10794,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":961,
+      "line":962,
       "class":null
     },
     "value":2
@@ -9918,7 +10806,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":961,
+      "line":962,
       "class":null
     },
     "value":25
@@ -9930,7 +10818,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":996,
+      "line":997,
       "class":null
     },
     "value":1
@@ -9942,7 +10830,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":996,
+      "line":997,
       "class":null
     },
     "value":2
@@ -9954,7 +10842,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":996,
+      "line":997,
       "class":null
     },
     "value":25
@@ -9966,7 +10854,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":1031,
+      "line":1032,
       "class":null
     },
     "value":1
@@ -9978,7 +10866,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":1031,
+      "line":1032,
       "class":null
     },
     "value":2
@@ -9990,7 +10878,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bittybuzz/tests/BittyBuzzMessageHandlerUnitTests.cpp",
-      "line":1031,
+      "line":1032,
       "class":null
     },
     "value":15
@@ -14709,7 +15597,7 @@
       "line":null,
       "class":null
     },
-    "value":18
+    "value":21
   },
   {
     "metric":"cyclomatic_complexity",
@@ -14841,7 +15729,7 @@
       "line":18,
       "class":null
     },
-    "value":0
+    "value":3
   },
   {
     "metric":"ploc",
@@ -14853,6 +15741,42 @@
       "line":18,
       "class":null
     },
+    "value":7
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"InterlocManager::stopCalibration",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/include/InterlocManager.h",
+      "line":27,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"InterlocManager::stopCalibration",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/include/InterlocManager.h",
+      "line":27,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"InterlocManager::stopCalibration",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/include/InterlocManager.h",
+      "line":27,
+      "class":null
+    },
     "value":1
   },
   {
@@ -14862,7 +15786,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/include/InterlocManager.h",
-      "line":19,
+      "line":28,
       "class":null
     },
     "value":1
@@ -14874,7 +15798,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/include/InterlocManager.h",
-      "line":19,
+      "line":28,
       "class":null
     },
     "value":1
@@ -14886,46 +15810,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/include/InterlocManager.h",
-      "line":19,
+      "line":28,
       "class":null
     },
     "value":1
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"InterlocManager::setCalibFinishedCallback",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/include/InterlocManager.h",
-      "line":20,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"InterlocManager::setCalibFinishedCallback",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/include/InterlocManager.h",
-      "line":20,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"InterlocManager::setCalibFinishedCallback",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/posix/include/InterlocManager.h",
-      "line":20,
-      "class":null
-    },
-    "value":4
   },
   {
     "metric":"ploc",
@@ -15077,11 +15965,95 @@
       "function":null,
       "package":"hive_mind",
       "column":null,
+      "file":"src/bsp/src/stm32/src/UWBRxFrame.cpp",
+      "line":null,
+      "class":null
+    },
+    "value":10
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"UWBRxFrame::getSFDAngle",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/UWBRxFrame.cpp",
+      "line":4,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"UWBRxFrame::getSFDAngle",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/UWBRxFrame.cpp",
+      "line":4,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"UWBRxFrame::getSFDAngle",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/UWBRxFrame.cpp",
+      "line":4,
+      "class":null
+    },
+    "value":3
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"UWBRxFrame::getAccumulatorAngle",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/UWBRxFrame.cpp",
+      "line":9,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"UWBRxFrame::getAccumulatorAngle",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/UWBRxFrame.cpp",
+      "line":9,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"UWBRxFrame::getAccumulatorAngle",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/UWBRxFrame.cpp",
+      "line":9,
+      "class":null
+    },
+    "value":5
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":null,
+      "package":"hive_mind",
+      "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
       "line":null,
       "class":null
     },
-    "value":184
+    "value":220
   },
   {
     "metric":"cyclomatic_complexity",
@@ -15122,7 +16094,7 @@
   {
     "metric":"cyclomatic_complexity",
     "location":{
-      "function":"InterlocManager::setCalibFinishedCallback",
+      "function":"InterlocManager::InterlocManager",
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
@@ -15134,47 +16106,11 @@
   {
     "metric":"function_parameters",
     "location":{
-      "function":"InterlocManager::setCalibFinishedCallback",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":20,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"InterlocManager::setCalibFinishedCallback",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":20,
-      "class":null
-    },
-    "value":4
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
       "function":"InterlocManager::InterlocManager",
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":24,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"InterlocManager::InterlocManager",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":24,
+      "line":20,
       "class":null
     },
     "value":1
@@ -15186,7 +16122,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":24,
+      "line":20,
       "class":null
     },
     "value":2
@@ -15198,7 +16134,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":27,
+      "line":23,
       "class":null
     },
     "value":1
@@ -15210,7 +16146,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":27,
+      "line":23,
       "class":null
     },
     "value":2
@@ -15222,7 +16158,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":27,
+      "line":23,
       "class":null
     },
     "value":5
@@ -15234,7 +16170,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":33,
+      "line":29,
       "class":null
     },
     "value":9
@@ -15246,7 +16182,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":33,
+      "line":29,
       "class":null
     },
     "value":0
@@ -15258,10 +16194,46 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":33,
+      "line":29,
       "class":null
     },
-    "value":21
+    "value":27
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"InterlocManager::syncClocks",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
+      "line":62,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"InterlocManager::syncClocks",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
+      "line":62,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"InterlocManager::syncClocks",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
+      "line":62,
+      "class":null
+    },
+    "value":9
   },
   {
     "metric":"cyclomatic_complexity",
@@ -15270,7 +16242,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":57,
+      "line":76,
       "class":null
     },
     "value":2
@@ -15282,7 +16254,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":57,
+      "line":76,
       "class":null
     },
     "value":5
@@ -15294,7 +16266,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":57,
+      "line":76,
       "class":null
     },
     "value":25
@@ -15306,7 +16278,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":85,
+      "line":104,
       "class":null
     },
     "value":1
@@ -15318,7 +16290,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":85,
+      "line":104,
       "class":null
     },
     "value":1
@@ -15330,7 +16302,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":85,
+      "line":104,
       "class":null
     },
     "value":3
@@ -15342,7 +16314,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":89,
+      "line":108,
       "class":null
     },
     "value":1
@@ -15354,7 +16326,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":89,
+      "line":108,
       "class":null
     },
     "value":0
@@ -15366,7 +16338,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":89,
+      "line":108,
       "class":null
     },
     "value":3
@@ -15378,7 +16350,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":94,
+      "line":113,
       "class":null
     },
     "value":3
@@ -15390,7 +16362,43 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":94,
+      "line":113,
+      "class":null
+    },
+    "value":3
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"InterlocManager::startCalibSingleResponder",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
+      "line":113,
+      "class":null
+    },
+    "value":14
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"InterlocManager::stopCalibration",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
+      "line":131,
+      "class":null
+    },
+    "value":3
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"InterlocManager::stopCalibration",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
+      "line":131,
       "class":null
     },
     "value":0
@@ -15398,14 +16406,14 @@
   {
     "metric":"ploc",
     "location":{
-      "function":"InterlocManager::startCalibSingleResponder",
+      "function":"InterlocManager::stopCalibration",
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":94,
+      "line":131,
       "class":null
     },
-    "value":7
+    "value":8
   },
   {
     "metric":"cyclomatic_complexity",
@@ -15414,7 +16422,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":103,
+      "line":141,
       "class":null
     },
     "value":2
@@ -15426,7 +16434,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":103,
+      "line":141,
       "class":null
     },
     "value":2
@@ -15438,7 +16446,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":103,
+      "line":141,
       "class":null
     },
     "value":9
@@ -15450,7 +16458,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":114,
+      "line":152,
       "class":null
     },
     "value":4
@@ -15462,7 +16470,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":114,
+      "line":152,
       "class":null
     },
     "value":2
@@ -15474,10 +16482,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":114,
+      "line":152,
       "class":null
     },
-    "value":26
+    "value":27
   },
   {
     "metric":"cyclomatic_complexity",
@@ -15486,7 +16494,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":150,
+      "line":189,
       "class":null
     },
     "value":5
@@ -15498,7 +16506,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":150,
+      "line":189,
       "class":null
     },
     "value":2
@@ -15510,10 +16518,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":150,
+      "line":189,
       "class":null
     },
-    "value":36
+    "value":40
   },
   {
     "metric":"cyclomatic_complexity",
@@ -15522,7 +16530,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":204,
+      "line":248,
       "class":null
     },
     "value":3
@@ -15534,7 +16542,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":204,
+      "line":248,
       "class":null
     },
     "value":2
@@ -15546,10 +16554,46 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":204,
+      "line":248,
       "class":null
     },
-    "value":29
+    "value":30
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"InterlocManager::powerCorrection",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
+      "line":293,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"InterlocManager::powerCorrection",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
+      "line":293,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"InterlocManager::powerCorrection",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
+      "line":293,
+      "class":null
+    },
+    "value":4
   },
   {
     "metric":"ploc",
@@ -17445,7 +18489,7 @@
       "line":null,
       "class":null
     },
-    "value":254
+    "value":276
   },
   {
     "metric":"cyclomatic_complexity",
@@ -18273,6 +19317,42 @@
       "line":265,
       "class":null
     },
+    "value":22
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"Decawave::setSyncMode",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/Decawave.cpp",
+      "line":300,
+      "class":null
+    },
+    "value":3
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"Decawave::setSyncMode",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/Decawave.cpp",
+      "line":300,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"Decawave::setSyncMode",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/Decawave.cpp",
+      "line":300,
+      "class":null
+    },
     "value":19
   },
   {
@@ -18282,7 +19362,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":293,
+      "line":323,
       "class":null
     },
     "value":1
@@ -18294,7 +19374,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":293,
+      "line":323,
       "class":null
     },
     "value":1
@@ -18306,7 +19386,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":293,
+      "line":323,
       "class":null
     },
     "value":4
@@ -18318,7 +19398,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":298,
+      "line":328,
       "class":null
     },
     "value":1
@@ -18330,7 +19410,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":298,
+      "line":328,
       "class":null
     },
     "value":1
@@ -18342,7 +19422,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":298,
+      "line":328,
       "class":null
     },
     "value":4
@@ -18354,7 +19434,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":303,
+      "line":333,
       "class":null
     },
     "value":1
@@ -18366,7 +19446,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":303,
+      "line":333,
       "class":null
     },
     "value":1
@@ -18378,7 +19458,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":303,
+      "line":333,
       "class":null
     },
     "value":4
@@ -18390,7 +19470,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":308,
+      "line":338,
       "class":null
     },
     "value":1
@@ -18402,7 +19482,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":308,
+      "line":338,
       "class":null
     },
     "value":1
@@ -18414,7 +19494,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":308,
+      "line":338,
       "class":null
     },
     "value":4
@@ -18426,7 +19506,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":313,
+      "line":343,
       "class":null
     },
     "value":1
@@ -18438,7 +19518,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":313,
+      "line":343,
       "class":null
     },
     "value":1
@@ -18450,7 +19530,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":313,
+      "line":343,
       "class":null
     },
     "value":4
@@ -18462,7 +19542,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":318,
+      "line":348,
       "class":null
     },
     "value":1
@@ -18474,7 +19554,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":318,
+      "line":348,
       "class":null
     },
     "value":0
@@ -18486,7 +19566,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":318,
+      "line":348,
       "class":null
     },
     "value":1
@@ -18498,7 +19578,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":320,
+      "line":350,
       "class":null
     },
     "value":1
@@ -18510,7 +19590,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":320,
+      "line":350,
       "class":null
     },
     "value":1
@@ -18522,7 +19602,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":320,
+      "line":350,
       "class":null
     },
     "value":1
@@ -18534,7 +19614,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":322,
+      "line":352,
       "class":null
     },
     "value":1
@@ -18546,7 +19626,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":322,
+      "line":352,
       "class":null
     },
     "value":0
@@ -18558,7 +19638,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":322,
+      "line":352,
       "class":null
     },
     "value":4
@@ -18570,7 +19650,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":327,
+      "line":357,
       "class":null
     },
     "value":1
@@ -18582,7 +19662,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":327,
+      "line":357,
       "class":null
     },
     "value":0
@@ -18594,7 +19674,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":327,
+      "line":357,
       "class":null
     },
     "value":4
@@ -18609,7 +19689,7 @@
       "line":null,
       "class":null
     },
-    "value":77
+    "value":79
   },
   {
     "metric":"ploc",
@@ -18741,7 +19821,7 @@
       "line":null,
       "class":null
     },
-    "value":12
+    "value":14
   },
   {
     "metric":"ploc",
@@ -18765,7 +19845,7 @@
       "line":null,
       "class":null
     },
-    "value":36
+    "value":41
   },
   {
     "metric":"ploc",
@@ -18809,56 +19889,20 @@
       "function":null,
       "package":"hive_mind",
       "column":null,
-      "file":"src/bsp/src/stm32/hal/src/uart_host.c",
+      "file":"src/bsp/src/stm32/hal/src/uart.c",
       "line":null,
       "class":null
     },
-    "value":43
+    "value":6
   },
   {
     "metric":"cyclomatic_complexity",
     "location":{
-      "function":"UartHost_transmitBuffer",
+      "function":"HAL_UART_TxCpltCallback",
       "package":"hive_mind",
       "column":null,
-      "file":"src/bsp/src/stm32/hal/src/uart_host.c",
-      "line":8,
-      "class":null
-    },
-    "value":3
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"UartHost_transmitBuffer",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/src/uart_host.c",
-      "line":8,
-      "class":null
-    },
-    "value":4
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"UartHost_transmitBuffer",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/src/uart_host.c",
-      "line":8,
-      "class":null
-    },
-    "value":15
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"UartHost_receiveDMA",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/src/uart_host.c",
-      "line":25,
+      "file":"src/bsp/src/stm32/hal/src/uart.c",
+      "line":4,
       "class":null
     },
     "value":2
@@ -18866,131 +19910,11 @@
   {
     "metric":"function_parameters",
     "location":{
-      "function":"UartHost_receiveDMA",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/src/uart_host.c",
-      "line":25,
-      "class":null
-    },
-    "value":4
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"UartHost_receiveDMA",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/src/uart_host.c",
-      "line":25,
-      "class":null
-    },
-    "value":13
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"UartHost_rxCallback",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/src/uart_host.c",
-      "line":40,
-      "class":null
-    },
-    "value":3
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"UartHost_rxCallback",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/src/uart_host.c",
-      "line":40,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"UartHost_rxCallback",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/src/uart_host.c",
-      "line":40,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"UartHost_txCallback",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/src/uart_host.c",
-      "line":46,
-      "class":null
-    },
-    "value":3
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"UartHost_txCallback",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/src/uart_host.c",
-      "line":46,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"UartHost_txCallback",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/src/uart_host.c",
-      "line":46,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/src/uart.c",
-      "line":null,
-      "class":null
-    },
-    "value":14
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
       "function":"HAL_UART_TxCpltCallback",
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/src/uart.c",
-      "line":5,
-      "class":null
-    },
-    "value":3
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"HAL_UART_TxCpltCallback",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/src/uart.c",
-      "line":5,
+      "line":4,
       "class":null
     },
     "value":1
@@ -19002,43 +19926,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/src/uart.c",
-      "line":5,
-      "class":null
-    },
-    "value":7
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"HAL_UART_RxCpltCallback",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/src/uart.c",
-      "line":14,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"HAL_UART_RxCpltCallback",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/src/uart.c",
-      "line":14,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"HAL_UART_RxCpltCallback",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/src/uart.c",
-      "line":14,
+      "line":4,
       "class":null
     },
     "value":5
@@ -19137,7 +20025,7 @@
       "line":null,
       "class":null
     },
-    "value":35
+    "value":34
   },
   {
     "metric":"cyclomatic_complexity",
@@ -19173,7 +20061,7 @@
       "line":13,
       "class":null
     },
-    "value":19
+    "value":18
   },
   {
     "metric":"cyclomatic_complexity",
@@ -19182,7 +20070,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/src/hal.c",
-      "line":46,
+      "line":45,
       "class":null
     },
     "value":1
@@ -19194,7 +20082,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/src/hal.c",
-      "line":46,
+      "line":45,
       "class":null
     },
     "value":2
@@ -19206,7 +20094,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/src/hal.c",
-      "line":46,
+      "line":45,
       "class":null
     },
     "value":3
@@ -19218,7 +20106,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/src/hal.c",
-      "line":52,
+      "line":51,
       "class":null
     },
     "value":1
@@ -19230,7 +20118,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/src/hal.c",
-      "line":52,
+      "line":51,
       "class":null
     },
     "value":0
@@ -19242,7 +20130,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/src/hal.c",
-      "line":52,
+      "line":51,
       "class":null
     },
     "value":5
@@ -20753,18 +21641,6 @@
       "function":null,
       "package":"hive_mind",
       "column":null,
-      "file":"src/bsp/src/stm32/hal/include/hal/uart_host.h",
-      "line":null,
-      "class":null
-    },
-    "value":14
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":null,
-      "package":"hive_mind",
-      "column":null,
       "file":"src/bsp/src/stm32/hal/include/hal/hal_gpio.h",
       "line":null,
       "class":null
@@ -21537,7 +22413,7 @@
       "line":null,
       "class":null
     },
-    "value":23
+    "value":20
   },
   {
     "metric":"ploc",
@@ -21633,7 +22509,7 @@
       "line":null,
       "class":null
     },
-    "value":8
+    "value":6
   },
   {
     "metric":"ploc",
@@ -21657,7 +22533,7 @@
       "line":null,
       "class":null
     },
-    "value":17
+    "value":13
   },
   {
     "metric":"cyclomatic_complexity",
@@ -21693,7 +22569,7 @@
       "line":38,
       "class":null
     },
-    "value":16
+    "value":12
   },
   {
     "metric":"ploc",
@@ -22113,7 +22989,7 @@
       "line":null,
       "class":null
     },
-    "value":102
+    "value":108
   },
   {
     "metric":"cyclomatic_complexity",
@@ -22149,7 +23025,7 @@
       "line":41,
       "class":null
     },
-    "value":101
+    "value":107
   },
   {
     "metric":"ploc",
@@ -22161,43 +23037,7 @@
       "line":null,
       "class":null
     },
-    "value":98
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"MX_USART2_UART_Init",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
-      "line":33,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"MX_USART2_UART_Init",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
-      "line":33,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"MX_USART2_UART_Init",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
-      "line":33,
-      "class":null
-    },
-    "value":13
+    "value":37
   },
   {
     "metric":"cyclomatic_complexity",
@@ -22206,7 +23046,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
-      "line":49,
+      "line":30,
       "class":null
     },
     "value":2
@@ -22218,7 +23058,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
-      "line":49,
+      "line":30,
       "class":null
     },
     "value":1
@@ -22230,7 +23070,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
-      "line":49,
+      "line":30,
       "class":null
     },
     "value":13
@@ -22242,10 +23082,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
-      "line":64,
+      "line":45,
       "class":null
     },
-    "value":5
+    "value":2
   },
   {
     "metric":"function_parameters",
@@ -22254,7 +23094,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
-      "line":64,
+      "line":45,
       "class":null
     },
     "value":1
@@ -22266,10 +23106,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
-      "line":64,
+      "line":45,
       "class":null
     },
-    "value":54
+    "value":15
   },
   {
     "metric":"cyclomatic_complexity",
@@ -22278,10 +23118,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
-      "line":154,
+      "line":75,
       "class":null
     },
-    "value":3
+    "value":2
   },
   {
     "metric":"function_parameters",
@@ -22290,7 +23130,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
-      "line":154,
+      "line":75,
       "class":null
     },
     "value":1
@@ -22302,10 +23142,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/usart.c",
-      "line":154,
+      "line":75,
       "class":null
     },
-    "value":13
+    "value":7
   },
   {
     "metric":"ploc",
@@ -22317,7 +23157,7 @@
       "line":null,
       "class":null
     },
-    "value":252
+    "value":300
   },
   {
     "metric":"cyclomatic_complexity",
@@ -22435,6 +23275,42 @@
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/spi.c",
       "line":93,
+      "class":null
+    },
+    "value":19
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"HAL_SPI_MspInit",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/spi.c",
+      "line":93,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"HAL_SPI_MspInit",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/spi.c",
+      "line":93,
+      "class":null
+    },
+    "value":190
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"HAL_SPI_MspDeInit",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/spi.c",
+      "line":498,
       "class":null
     },
     "value":15
@@ -22442,47 +23318,11 @@
   {
     "metric":"function_parameters",
     "location":{
-      "function":"HAL_SPI_MspInit",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/spi.c",
-      "line":93,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"HAL_SPI_MspInit",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/spi.c",
-      "line":93,
-      "class":null
-    },
-    "value":154
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
       "function":"HAL_SPI_MspDeInit",
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/spi.c",
-      "line":406,
-      "class":null
-    },
-    "value":11
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"HAL_SPI_MspDeInit",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/spi.c",
-      "line":406,
+      "line":498,
       "class":null
     },
     "value":1
@@ -22494,10 +23334,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/spi.c",
-      "line":406,
+      "line":498,
       "class":null
     },
-    "value":39
+    "value":51
   },
   {
     "metric":"ploc",
@@ -22629,7 +23469,7 @@
       "line":null,
       "class":null
     },
-    "value":84
+    "value":72
   },
   {
     "metric":"cyclomatic_complexity",
@@ -22638,7 +23478,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":84,
+      "line":81,
       "class":null
     },
     "value":2
@@ -22650,7 +23490,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":84,
+      "line":81,
       "class":null
     },
     "value":1
@@ -22662,7 +23502,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":84,
+      "line":81,
       "class":null
     },
     "value":4
@@ -22674,7 +23514,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":97,
+      "line":94,
       "class":null
     },
     "value":2
@@ -22686,7 +23526,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":97,
+      "line":94,
       "class":null
     },
     "value":1
@@ -22698,7 +23538,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":97,
+      "line":94,
       "class":null
     },
     "value":4
@@ -22710,7 +23550,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":110,
+      "line":107,
       "class":null
     },
     "value":2
@@ -22722,7 +23562,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":110,
+      "line":107,
       "class":null
     },
     "value":1
@@ -22734,7 +23574,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":110,
+      "line":107,
       "class":null
     },
     "value":4
@@ -22746,7 +23586,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":123,
+      "line":120,
       "class":null
     },
     "value":2
@@ -22758,7 +23598,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":123,
+      "line":120,
       "class":null
     },
     "value":1
@@ -22770,7 +23610,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":123,
+      "line":120,
       "class":null
     },
     "value":4
@@ -22782,7 +23622,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":136,
+      "line":133,
       "class":null
     },
     "value":2
@@ -22794,7 +23634,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":136,
+      "line":133,
       "class":null
     },
     "value":1
@@ -22806,7 +23646,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":136,
+      "line":133,
       "class":null
     },
     "value":4
@@ -22818,7 +23658,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":149,
+      "line":146,
       "class":null
     },
     "value":1
@@ -22830,7 +23670,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":149,
+      "line":146,
       "class":null
     },
     "value":1
@@ -22842,7 +23682,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":149,
+      "line":146,
       "class":null
     },
     "value":2
@@ -22854,7 +23694,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":168,
+      "line":165,
       "class":null
     },
     "value":1
@@ -22866,7 +23706,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":168,
+      "line":165,
       "class":null
     },
     "value":1
@@ -22878,7 +23718,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":168,
+      "line":165,
       "class":null
     },
     "value":3
@@ -22890,7 +23730,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":181,
+      "line":178,
       "class":null
     },
     "value":1
@@ -22902,7 +23742,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":181,
+      "line":178,
       "class":null
     },
     "value":1
@@ -22914,79 +23754,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":181,
-      "class":null
-    },
-    "value":3
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"DMA1_Stream5_IRQHandler",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":194,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"DMA1_Stream5_IRQHandler",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":194,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"DMA1_Stream5_IRQHandler",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":194,
-      "class":null
-    },
-    "value":3
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"DMA1_Stream6_IRQHandler",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":207,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"DMA1_Stream6_IRQHandler",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":207,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"DMA1_Stream6_IRQHandler",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":207,
+      "line":178,
       "class":null
     },
     "value":3
@@ -22998,7 +23766,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":220,
+      "line":191,
       "class":null
     },
     "value":1
@@ -23010,7 +23778,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":220,
+      "line":191,
       "class":null
     },
     "value":1
@@ -23022,7 +23790,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":220,
+      "line":191,
       "class":null
     },
     "value":3
@@ -23034,7 +23802,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":233,
+      "line":204,
       "class":null
     },
     "value":1
@@ -23046,7 +23814,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":233,
+      "line":204,
       "class":null
     },
     "value":1
@@ -23058,43 +23826,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":233,
-      "class":null
-    },
-    "value":3
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"USART2_IRQHandler",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":246,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"USART2_IRQHandler",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":246,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"USART2_IRQHandler",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":246,
+      "line":204,
       "class":null
     },
     "value":3
@@ -23106,7 +23838,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":259,
+      "line":217,
       "class":null
     },
     "value":1
@@ -23118,7 +23850,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":259,
+      "line":217,
       "class":null
     },
     "value":1
@@ -23130,7 +23862,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":259,
+      "line":217,
       "class":null
     },
     "value":3
@@ -23142,7 +23874,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":272,
+      "line":230,
       "class":null
     },
     "value":1
@@ -23154,7 +23886,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":272,
+      "line":230,
       "class":null
     },
     "value":1
@@ -23166,7 +23898,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":272,
+      "line":230,
       "class":null
     },
     "value":4
@@ -23178,7 +23910,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":286,
+      "line":244,
       "class":null
     },
     "value":1
@@ -23190,7 +23922,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":286,
+      "line":244,
       "class":null
     },
     "value":1
@@ -23202,7 +23934,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":286,
+      "line":244,
       "class":null
     },
     "value":3
@@ -23214,7 +23946,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":299,
+      "line":257,
       "class":null
     },
     "value":1
@@ -23226,7 +23958,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":299,
+      "line":257,
       "class":null
     },
     "value":1
@@ -23238,7 +23970,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":299,
+      "line":257,
       "class":null
     },
     "value":3
@@ -23250,7 +23982,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":312,
+      "line":270,
       "class":null
     },
     "value":1
@@ -23262,7 +23994,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":312,
+      "line":270,
       "class":null
     },
     "value":1
@@ -23274,7 +24006,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":312,
+      "line":270,
       "class":null
     },
     "value":3
@@ -23286,7 +24018,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":325,
+      "line":283,
       "class":null
     },
     "value":1
@@ -23298,7 +24030,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":325,
+      "line":283,
       "class":null
     },
     "value":1
@@ -23310,7 +24042,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":325,
+      "line":283,
       "class":null
     },
     "value":3
@@ -23322,7 +24054,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":338,
+      "line":296,
       "class":null
     },
     "value":1
@@ -23334,7 +24066,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":338,
+      "line":296,
       "class":null
     },
     "value":1
@@ -23346,7 +24078,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":338,
+      "line":296,
       "class":null
     },
     "value":3
@@ -23358,7 +24090,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":351,
+      "line":309,
       "class":null
     },
     "value":1
@@ -23370,7 +24102,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":351,
+      "line":309,
       "class":null
     },
     "value":1
@@ -23382,7 +24114,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/stm32f4xx_it.c",
-      "line":351,
+      "line":309,
       "class":null
     },
     "value":3
@@ -29553,7 +30285,7 @@
       "line":null,
       "class":null
     },
-    "value":90
+    "value":111
   },
   {
     "metric":"cyclomatic_complexity",
@@ -29562,7 +30294,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":12,
+      "line":14,
       "class":null
     },
     "value":3
@@ -29574,7 +30306,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":12,
+      "line":14,
       "class":null
     },
     "value":1
@@ -29586,7 +30318,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":12,
+      "line":14,
       "class":null
     },
     "value":30
@@ -29598,7 +30330,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":58,
+      "line":60,
       "class":null
     },
     "value":1
@@ -29610,7 +30342,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":58,
+      "line":60,
       "class":null
     },
     "value":0
@@ -29622,7 +30354,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":58,
+      "line":60,
       "class":null
     },
     "value":6
@@ -29634,7 +30366,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":65,
+      "line":67,
       "class":null
     },
     "value":1
@@ -29646,7 +30378,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":65,
+      "line":67,
       "class":null
     },
     "value":0
@@ -29658,7 +30390,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":65,
+      "line":67,
       "class":null
     },
     "value":4
@@ -29670,7 +30402,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":70,
+      "line":72,
       "class":null
     },
     "value":1
@@ -29682,7 +30414,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":70,
+      "line":72,
       "class":null
     },
     "value":0
@@ -29694,7 +30426,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":70,
+      "line":72,
       "class":null
     },
     "value":4
@@ -29706,7 +30438,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":75,
+      "line":77,
       "class":null
     },
     "value":1
@@ -29718,7 +30450,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":75,
+      "line":77,
       "class":null
     },
     "value":0
@@ -29730,7 +30462,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":75,
+      "line":77,
       "class":null
     },
     "value":5
@@ -29742,7 +30474,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":81,
+      "line":83,
       "class":null
     },
     "value":2
@@ -29754,7 +30486,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":81,
+      "line":83,
       "class":null
     },
     "value":1
@@ -29766,7 +30498,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":81,
+      "line":83,
       "class":null
     },
     "value":6
@@ -29778,7 +30510,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":88,
+      "line":90,
       "class":null
     },
     "value":1
@@ -29790,7 +30522,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":88,
+      "line":90,
       "class":null
     },
     "value":0
@@ -29802,7 +30534,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":88,
+      "line":90,
       "class":null
     },
     "value":3
@@ -29814,7 +30546,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":92,
+      "line":94,
       "class":null
     },
     "value":2
@@ -29826,7 +30558,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":92,
+      "line":94,
       "class":null
     },
     "value":1
@@ -29838,7 +30570,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":92,
+      "line":94,
       "class":null
     },
     "value":6
@@ -29850,7 +30582,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":100,
+      "line":102,
       "class":null
     },
     "value":2
@@ -29862,7 +30594,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":100,
+      "line":102,
       "class":null
     },
     "value":3
@@ -29874,7 +30606,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":100,
+      "line":102,
       "class":null
     },
     "value":7
@@ -29886,7 +30618,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":109,
+      "line":111,
       "class":null
     },
     "value":4
@@ -29898,7 +30630,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":109,
+      "line":111,
       "class":null
     },
     "value":1
@@ -29910,10 +30642,154 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
-      "line":109,
+      "line":111,
       "class":null
     },
     "value":11
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"deca_pulseSyncSignal",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
+      "line":124,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"deca_pulseSyncSignal",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
+      "line":124,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"deca_pulseSyncSignal",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
+      "line":124,
+      "class":null
+    },
+    "value":9
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"deca_setSync",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
+      "line":140,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"deca_setSync",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
+      "line":140,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"deca_setSync",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
+      "line":140,
+      "class":null
+    },
+    "value":3
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"deca_setSyncEnable",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
+      "line":144,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"deca_setSyncEnable",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
+      "line":144,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"deca_setSyncEnable",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
+      "line":144,
+      "class":null
+    },
+    "value":3
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"deca_setSyncClear",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
+      "line":148,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"deca_setSyncClear",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
+      "line":148,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"deca_setSyncClear",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/decawave/platform/stm32f429zi/src/deca_port.c",
+      "line":148,
+      "class":null
+    },
+    "value":4
   },
   {
     "metric":"ploc",
@@ -29925,7 +30801,7 @@
       "line":null,
       "class":null
     },
-    "value":26
+    "value":30
   },
   {
     "metric":"ploc",
@@ -30213,7 +31089,7 @@
       "line":null,
       "class":null
     },
-    "value":14
+    "value":17
   },
   {
     "metric":"ploc",
