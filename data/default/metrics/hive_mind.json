@@ -5217,7 +5217,7 @@
       "line":null,
       "class":null
     },
-    "value":18
+    "value":27
   },
   {
     "metric":"cyclomatic_complexity",
@@ -5226,7 +5226,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/src/InterlocContainer.cpp",
-      "line":8,
+      "line":12,
       "class":null
     },
     "value":1
@@ -5238,7 +5238,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/src/InterlocContainer.cpp",
-      "line":8,
+      "line":12,
       "class":null
     },
     "value":0
@@ -5250,7 +5250,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/src/InterlocContainer.cpp",
-      "line":8,
+      "line":12,
       "class":null
     },
     "value":5
@@ -5262,7 +5262,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/src/InterlocContainer.cpp",
-      "line":14,
+      "line":18,
       "class":null
     },
     "value":1
@@ -5274,7 +5274,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/src/InterlocContainer.cpp",
-      "line":14,
+      "line":18,
       "class":null
     },
     "value":0
@@ -5286,10 +5286,46 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/interloc/src/InterlocContainer.cpp",
-      "line":14,
+      "line":18,
       "class":null
     },
     "value":7
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"InterlocContainer::getInterlocPosUpdateQueue",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocContainer.cpp",
+      "line":28,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"InterlocContainer::getInterlocPosUpdateQueue",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocContainer.cpp",
+      "line":28,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"InterlocContainer::getInterlocPosUpdateQueue",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/interloc/src/InterlocContainer.cpp",
+      "line":28,
+      "class":null
+    },
+    "value":6
   },
   {
     "metric":"ploc",
@@ -5361,7 +5397,7 @@
       "line":null,
       "class":null
     },
-    "value":6
+    "value":8
   },
   {
     "metric":"ploc",
@@ -16053,7 +16089,7 @@
       "line":null,
       "class":null
     },
-    "value":220
+    "value":223
   },
   {
     "metric":"cyclomatic_complexity",
@@ -16125,7 +16161,7 @@
       "line":20,
       "class":null
     },
-    "value":2
+    "value":4
   },
   {
     "metric":"cyclomatic_complexity",
@@ -16134,7 +16170,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":23,
+      "line":25,
       "class":null
     },
     "value":1
@@ -16146,7 +16182,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":23,
+      "line":25,
       "class":null
     },
     "value":2
@@ -16158,7 +16194,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":23,
+      "line":25,
       "class":null
     },
     "value":5
@@ -16170,7 +16206,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":29,
+      "line":31,
       "class":null
     },
     "value":9
@@ -16182,7 +16218,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":29,
+      "line":31,
       "class":null
     },
     "value":0
@@ -16194,7 +16230,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":29,
+      "line":31,
       "class":null
     },
     "value":27
@@ -16206,7 +16242,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":62,
+      "line":64,
       "class":null
     },
     "value":1
@@ -16218,7 +16254,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":62,
+      "line":64,
       "class":null
     },
     "value":0
@@ -16230,7 +16266,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":62,
+      "line":64,
       "class":null
     },
     "value":9
@@ -16242,7 +16278,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":76,
+      "line":78,
       "class":null
     },
     "value":2
@@ -16254,7 +16290,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":76,
+      "line":78,
       "class":null
     },
     "value":5
@@ -16266,7 +16302,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":76,
+      "line":78,
       "class":null
     },
     "value":25
@@ -16278,7 +16314,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":104,
+      "line":106,
       "class":null
     },
     "value":1
@@ -16290,7 +16326,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":104,
+      "line":106,
       "class":null
     },
     "value":1
@@ -16302,7 +16338,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":104,
+      "line":106,
       "class":null
     },
     "value":3
@@ -16314,7 +16350,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":108,
+      "line":110,
       "class":null
     },
     "value":1
@@ -16326,7 +16362,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":108,
+      "line":110,
       "class":null
     },
     "value":0
@@ -16338,7 +16374,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":108,
+      "line":110,
       "class":null
     },
     "value":3
@@ -16350,7 +16386,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":113,
+      "line":115,
       "class":null
     },
     "value":3
@@ -16362,7 +16398,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":113,
+      "line":115,
       "class":null
     },
     "value":3
@@ -16374,7 +16410,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":113,
+      "line":115,
       "class":null
     },
     "value":14
@@ -16386,7 +16422,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":131,
+      "line":133,
       "class":null
     },
     "value":3
@@ -16398,7 +16434,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":131,
+      "line":133,
       "class":null
     },
     "value":0
@@ -16410,7 +16446,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":131,
+      "line":133,
       "class":null
     },
     "value":8
@@ -16422,7 +16458,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":141,
+      "line":143,
       "class":null
     },
     "value":2
@@ -16434,7 +16470,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":141,
+      "line":143,
       "class":null
     },
     "value":2
@@ -16446,10 +16482,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":141,
+      "line":143,
       "class":null
     },
-    "value":9
+    "value":8
   },
   {
     "metric":"cyclomatic_complexity",
@@ -16458,10 +16494,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":152,
+      "line":153,
       "class":null
     },
-    "value":4
+    "value":5
   },
   {
     "metric":"function_parameters",
@@ -16470,7 +16506,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":152,
+      "line":153,
       "class":null
     },
     "value":2
@@ -16482,10 +16518,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":152,
+      "line":153,
       "class":null
     },
-    "value":27
+    "value":31
   },
   {
     "metric":"cyclomatic_complexity",
@@ -16494,7 +16530,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":189,
+      "line":194,
       "class":null
     },
     "value":5
@@ -16506,7 +16542,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":189,
+      "line":194,
       "class":null
     },
     "value":2
@@ -16518,10 +16554,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":189,
+      "line":194,
       "class":null
     },
-    "value":40
+    "value":39
   },
   {
     "metric":"cyclomatic_complexity",
@@ -16530,7 +16566,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":248,
+      "line":251,
       "class":null
     },
     "value":3
@@ -16542,7 +16578,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":248,
+      "line":251,
       "class":null
     },
     "value":2
@@ -16554,10 +16590,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":248,
+      "line":251,
       "class":null
     },
-    "value":30
+    "value":29
   },
   {
     "metric":"cyclomatic_complexity",
@@ -16566,7 +16602,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":293,
+      "line":295,
       "class":null
     },
     "value":1
@@ -16578,7 +16614,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":293,
+      "line":295,
       "class":null
     },
     "value":1
@@ -16590,7 +16626,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/InterlocManager.cpp",
-      "line":293,
+      "line":295,
       "class":null
     },
     "value":4
@@ -17805,7 +17841,7 @@
       "line":null,
       "class":null
     },
-    "value":56
+    "value":62
   },
   {
     "metric":"cyclomatic_complexity",
@@ -17853,7 +17889,7 @@
       "line":12,
       "class":null
     },
-    "value":5
+    "value":6
   },
   {
     "metric":"function_parameters",
@@ -17877,7 +17913,7 @@
       "line":12,
       "class":null
     },
-    "value":20
+    "value":22
   },
   {
     "metric":"cyclomatic_complexity",
@@ -17886,10 +17922,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/USB.cpp",
-      "line":37,
+      "line":39,
       "class":null
     },
-    "value":4
+    "value":5
   },
   {
     "metric":"function_parameters",
@@ -17898,7 +17934,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/USB.cpp",
-      "line":37,
+      "line":39,
       "class":null
     },
     "value":2
@@ -17910,10 +17946,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/USB.cpp",
-      "line":37,
+      "line":39,
       "class":null
     },
-    "value":13
+    "value":17
   },
   {
     "metric":"cyclomatic_complexity",
@@ -17922,7 +17958,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/USB.cpp",
-      "line":55,
+      "line":62,
       "class":null
     },
     "value":1
@@ -17934,7 +17970,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/USB.cpp",
-      "line":55,
+      "line":62,
       "class":null
     },
     "value":0
@@ -17946,7 +17982,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/USB.cpp",
-      "line":55,
+      "line":62,
       "class":null
     },
     "value":1
@@ -17958,7 +17994,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/USB.cpp",
-      "line":57,
+      "line":64,
       "class":null
     },
     "value":3
@@ -17970,7 +18006,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/USB.cpp",
-      "line":57,
+      "line":64,
       "class":null
     },
     "value":2
@@ -17982,7 +18018,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/USB.cpp",
-      "line":57,
+      "line":64,
       "class":null
     },
     "value":13
@@ -17994,7 +18030,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/USB.cpp",
-      "line":75,
+      "line":82,
       "class":null
     },
     "value":1
@@ -18006,7 +18042,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/USB.cpp",
-      "line":75,
+      "line":82,
       "class":null
     },
     "value":1
@@ -18018,7 +18054,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/USB.cpp",
-      "line":75,
+      "line":82,
       "class":null
     },
     "value":1
@@ -18489,7 +18525,7 @@
       "line":null,
       "class":null
     },
-    "value":276
+    "value":286
   },
   {
     "metric":"cyclomatic_complexity",
@@ -18534,7 +18570,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":21,
+      "line":20,
       "class":null
     },
     "value":1
@@ -18546,7 +18582,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":21,
+      "line":20,
       "class":null
     },
     "value":1
@@ -18558,7 +18594,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":21,
+      "line":20,
       "class":null
     },
     "value":4
@@ -18570,7 +18606,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":26,
+      "line":25,
       "class":null
     },
     "value":2
@@ -18582,7 +18618,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":26,
+      "line":25,
       "class":null
     },
     "value":1
@@ -18594,7 +18630,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":26,
+      "line":25,
       "class":null
     },
     "value":7
@@ -18606,7 +18642,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":34,
+      "line":33,
       "class":null
     },
     "value":1
@@ -18618,7 +18654,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":34,
+      "line":33,
       "class":null
     },
     "value":1
@@ -18630,7 +18666,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":34,
+      "line":33,
       "class":null
     },
     "value":5
@@ -18642,7 +18678,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":40,
+      "line":39,
       "class":null
     },
     "value":1
@@ -18654,7 +18690,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":40,
+      "line":39,
       "class":null
     },
     "value":3
@@ -18666,7 +18702,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":40,
+      "line":39,
       "class":null
     },
     "value":5
@@ -18678,7 +18714,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":46,
+      "line":45,
       "class":null
     },
     "value":4
@@ -18690,7 +18726,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":46,
+      "line":45,
       "class":null
     },
     "value":0
@@ -18702,7 +18738,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":46,
+      "line":45,
       "class":null
     },
     "value":28
@@ -18714,7 +18750,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":86,
+      "line":85,
       "class":null
     },
     "value":1
@@ -18726,7 +18762,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":86,
+      "line":85,
       "class":null
     },
     "value":1
@@ -18738,7 +18774,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":86,
+      "line":85,
       "class":null
     },
     "value":5
@@ -18750,7 +18786,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":92,
+      "line":91,
       "class":null
     },
     "value":1
@@ -18762,7 +18798,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":92,
+      "line":91,
       "class":null
     },
     "value":1
@@ -18774,7 +18810,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":92,
+      "line":91,
       "class":null
     },
     "value":4
@@ -18786,7 +18822,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":97,
+      "line":96,
       "class":null
     },
     "value":2
@@ -18798,7 +18834,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":97,
+      "line":96,
       "class":null
     },
     "value":2
@@ -18810,7 +18846,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":97,
+      "line":96,
       "class":null
     },
     "value":9
@@ -18822,7 +18858,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":108,
+      "line":107,
       "class":null
     },
     "value":2
@@ -18834,7 +18870,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":108,
+      "line":107,
       "class":null
     },
     "value":4
@@ -18846,7 +18882,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":108,
+      "line":107,
       "class":null
     },
     "value":14
@@ -18858,7 +18894,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":127,
+      "line":126,
       "class":null
     },
     "value":2
@@ -18870,7 +18906,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":127,
+      "line":126,
       "class":null
     },
     "value":4
@@ -18882,7 +18918,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":127,
+      "line":126,
       "class":null
     },
     "value":13
@@ -18894,7 +18930,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":144,
+      "line":143,
       "class":null
     },
     "value":1
@@ -18906,7 +18942,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":144,
+      "line":143,
       "class":null
     },
     "value":2
@@ -18918,7 +18954,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":144,
+      "line":143,
       "class":null
     },
     "value":3
@@ -18930,7 +18966,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":148,
+      "line":147,
       "class":null
     },
     "value":1
@@ -18942,7 +18978,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":148,
+      "line":147,
       "class":null
     },
     "value":3
@@ -18954,7 +18990,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":148,
+      "line":147,
       "class":null
     },
     "value":5
@@ -18966,7 +19002,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":155,
+      "line":154,
       "class":null
     },
     "value":1
@@ -18978,7 +19014,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":155,
+      "line":154,
       "class":null
     },
     "value":2
@@ -18990,7 +19026,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":155,
+      "line":154,
       "class":null
     },
     "value":3
@@ -19002,7 +19038,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":159,
+      "line":158,
       "class":null
     },
     "value":1
@@ -19014,7 +19050,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":159,
+      "line":158,
       "class":null
     },
     "value":3
@@ -19026,7 +19062,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":159,
+      "line":158,
       "class":null
     },
     "value":5
@@ -19038,10 +19074,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":166,
+      "line":165,
       "class":null
     },
-    "value":2
+    "value":4
   },
   {
     "metric":"function_parameters",
@@ -19050,7 +19086,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":166,
+      "line":165,
       "class":null
     },
     "value":3
@@ -19062,10 +19098,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":166,
+      "line":165,
       "class":null
     },
-    "value":11
+    "value":15
   },
   {
     "metric":"cyclomatic_complexity",
@@ -19074,7 +19110,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":183,
+      "line":188,
       "class":null
     },
     "value":1
@@ -19086,7 +19122,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":183,
+      "line":188,
       "class":null
     },
     "value":2
@@ -19098,7 +19134,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":183,
+      "line":188,
       "class":null
     },
     "value":3
@@ -19110,7 +19146,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":187,
+      "line":192,
       "class":null
     },
     "value":1
@@ -19122,7 +19158,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":187,
+      "line":192,
       "class":null
     },
     "value":3
@@ -19134,7 +19170,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":187,
+      "line":192,
       "class":null
     },
     "value":5
@@ -19146,7 +19182,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":194,
+      "line":199,
       "class":null
     },
     "value":2
@@ -19158,7 +19194,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":194,
+      "line":199,
       "class":null
     },
     "value":5
@@ -19170,7 +19206,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":194,
+      "line":199,
       "class":null
     },
     "value":14
@@ -19182,7 +19218,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":211,
+      "line":216,
       "class":null
     },
     "value":2
@@ -19194,7 +19230,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":211,
+      "line":216,
       "class":null
     },
     "value":6
@@ -19206,7 +19242,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":211,
+      "line":216,
       "class":null
     },
     "value":16
@@ -19218,7 +19254,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":229,
+      "line":234,
       "class":null
     },
     "value":2
@@ -19230,7 +19266,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":229,
+      "line":234,
       "class":null
     },
     "value":5
@@ -19242,7 +19278,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":229,
+      "line":234,
       "class":null
     },
     "value":14
@@ -19254,7 +19290,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":245,
+      "line":250,
       "class":null
     },
     "value":1
@@ -19266,7 +19302,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":245,
+      "line":250,
       "class":null
     },
     "value":0
@@ -19278,7 +19314,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":245,
+      "line":250,
       "class":null
     },
     "value":17
@@ -19290,7 +19326,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":265,
+      "line":270,
       "class":null
     },
     "value":5
@@ -19302,7 +19338,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":265,
+      "line":270,
       "class":null
     },
     "value":1
@@ -19314,7 +19350,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":265,
+      "line":270,
       "class":null
     },
     "value":22
@@ -19326,7 +19362,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":300,
+      "line":305,
       "class":null
     },
     "value":3
@@ -19338,7 +19374,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":300,
+      "line":305,
       "class":null
     },
     "value":1
@@ -19350,7 +19386,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":300,
+      "line":305,
       "class":null
     },
     "value":19
@@ -19362,7 +19398,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":323,
+      "line":328,
       "class":null
     },
     "value":1
@@ -19374,7 +19410,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":323,
+      "line":328,
       "class":null
     },
     "value":1
@@ -19386,10 +19422,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":323,
+      "line":328,
       "class":null
     },
-    "value":4
+    "value":5
   },
   {
     "metric":"cyclomatic_complexity",
@@ -19398,7 +19434,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":328,
+      "line":335,
       "class":null
     },
     "value":1
@@ -19410,7 +19446,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":328,
+      "line":335,
       "class":null
     },
     "value":1
@@ -19422,190 +19458,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":328,
+      "line":335,
       "class":null
     },
-    "value":4
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"Decawave::getTxTimestamp",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":333,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"Decawave::getTxTimestamp",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":333,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"Decawave::getTxTimestamp",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":333,
-      "class":null
-    },
-    "value":4
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"Decawave::getRxTimestamp",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":338,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"Decawave::getRxTimestamp",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":338,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"Decawave::getRxTimestamp",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":338,
-      "class":null
-    },
-    "value":4
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"Decawave::getSysTime",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":343,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"Decawave::getSysTime",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":343,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"Decawave::getSysTime",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":343,
-      "class":null
-    },
-    "value":4
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"Decawave::getState",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":348,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"Decawave::getState",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":348,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"Decawave::getState",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":348,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"Decawave::setState",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":350,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"Decawave::setState",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":350,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"Decawave::setState",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":350,
-      "class":null
-    },
-    "value":1
+    "value":5
   },
   {
     "metric":"cyclomatic_complexity",
@@ -19614,7 +19470,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":352,
+      "line":342,
       "class":null
     },
     "value":1
@@ -19626,7 +19482,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":352,
+      "line":342,
       "class":null
     },
     "value":0
@@ -19638,10 +19494,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":352,
+      "line":342,
       "class":null
     },
-    "value":4
+    "value":1
   },
   {
     "metric":"cyclomatic_complexity",
@@ -19650,7 +19506,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":357,
+      "line":344,
       "class":null
     },
     "value":1
@@ -19662,7 +19518,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":357,
+      "line":344,
       "class":null
     },
     "value":0
@@ -19674,10 +19530,226 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/Decawave.cpp",
-      "line":357,
+      "line":344,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"Decawave::getTxTimestamp",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/Decawave.cpp",
+      "line":346,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"Decawave::getTxTimestamp",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/Decawave.cpp",
+      "line":346,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"Decawave::getTxTimestamp",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/Decawave.cpp",
+      "line":346,
       "class":null
     },
     "value":4
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"Decawave::getRxTimestamp",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/Decawave.cpp",
+      "line":351,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"Decawave::getRxTimestamp",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/Decawave.cpp",
+      "line":351,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"Decawave::getRxTimestamp",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/Decawave.cpp",
+      "line":351,
+      "class":null
+    },
+    "value":4
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"Decawave::getSysTime",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/Decawave.cpp",
+      "line":356,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"Decawave::getSysTime",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/Decawave.cpp",
+      "line":356,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"Decawave::getSysTime",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/Decawave.cpp",
+      "line":356,
+      "class":null
+    },
+    "value":11
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"Decawave::getTxTimestampFromDelayedTime",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/Decawave.cpp",
+      "line":370,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"Decawave::getTxTimestampFromDelayedTime",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/Decawave.cpp",
+      "line":370,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"Decawave::getTxTimestampFromDelayedTime",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/Decawave.cpp",
+      "line":370,
+      "class":null
+    },
+    "value":3
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"Decawave::getState",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/Decawave.cpp",
+      "line":376,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"Decawave::getState",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/Decawave.cpp",
+      "line":376,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"Decawave::getState",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/Decawave.cpp",
+      "line":376,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"Decawave::setState",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/Decawave.cpp",
+      "line":378,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"Decawave::setState",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/Decawave.cpp",
+      "line":378,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"Decawave::setState",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/Decawave.cpp",
+      "line":378,
+      "class":null
+    },
+    "value":1
   },
   {
     "metric":"ploc",
@@ -19689,7 +19761,7 @@
       "line":null,
       "class":null
     },
-    "value":79
+    "value":82
   },
   {
     "metric":"ploc",
@@ -20649,7 +20721,7 @@
       "line":null,
       "class":null
     },
-    "value":25
+    "value":31
   },
   {
     "metric":"cyclomatic_complexity",
@@ -20697,7 +20769,7 @@
       "line":15,
       "class":null
     },
-    "value":1
+    "value":2
   },
   {
     "metric":"function_parameters",
@@ -20721,7 +20793,7 @@
       "line":15,
       "class":null
     },
-    "value":5
+    "value":8
   },
   {
     "metric":"cyclomatic_complexity",
@@ -20730,10 +20802,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/src/usb.c",
-      "line":23,
+      "line":27,
       "class":null
     },
-    "value":1
+    "value":2
   },
   {
     "metric":"function_parameters",
@@ -20742,7 +20814,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/src/usb.c",
-      "line":23,
+      "line":27,
       "class":null
     },
     "value":0
@@ -20754,10 +20826,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/src/usb.c",
-      "line":23,
+      "line":27,
       "class":null
     },
-    "value":1
+    "value":4
   },
   {
     "metric":"cyclomatic_complexity",
@@ -20766,7 +20838,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/src/usb.c",
-      "line":25,
+      "line":34,
       "class":null
     },
     "value":1
@@ -20778,7 +20850,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/src/usb.c",
-      "line":25,
+      "line":34,
       "class":null
     },
     "value":0
@@ -20790,7 +20862,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/src/usb.c",
-      "line":25,
+      "line":34,
       "class":null
     },
     "value":1
@@ -20802,7 +20874,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/src/usb.c",
-      "line":27,
+      "line":36,
       "class":null
     },
     "value":1
@@ -20814,7 +20886,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/src/usb.c",
-      "line":27,
+      "line":36,
       "class":null
     },
     "value":2
@@ -20826,7 +20898,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/src/usb.c",
-      "line":27,
+      "line":36,
       "class":null
     },
     "value":3
@@ -20838,7 +20910,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/src/usb.c",
-      "line":31,
+      "line":40,
       "class":null
     },
     "value":1
@@ -20850,7 +20922,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/src/usb.c",
-      "line":31,
+      "line":40,
       "class":null
     },
     "value":2
@@ -20862,7 +20934,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/src/usb.c",
-      "line":31,
+      "line":40,
       "class":null
     },
     "value":4
@@ -25569,7 +25641,7 @@
       "line":null,
       "class":null
     },
-    "value":5
+    "value":7
   },
   {
     "metric":"ploc",
@@ -25965,7 +26037,7 @@
       "line":null,
       "class":null
     },
-    "value":2
+    "value":3
   },
   {
     "metric":"ploc",
@@ -25977,7 +26049,7 @@
       "line":null,
       "class":null
     },
-    "value":67
+    "value":70
   },
   {
     "metric":"cyclomatic_complexity",
@@ -26085,7 +26157,7 @@
       "line":173,
       "class":null
     },
-    "value":25
+    "value":27
   },
   {
     "metric":"cyclomatic_complexity",
@@ -26094,7 +26166,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/USB_DEVICE/App/usbd_cdc_if.c",
-      "line":252,
+      "line":250,
       "class":null
     },
     "value":1
@@ -26106,7 +26178,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/USB_DEVICE/App/usbd_cdc_if.c",
-      "line":252,
+      "line":250,
       "class":null
     },
     "value":2
@@ -26118,7 +26190,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/USB_DEVICE/App/usbd_cdc_if.c",
-      "line":252,
+      "line":250,
       "class":null
     },
     "value":6
@@ -26130,7 +26202,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/USB_DEVICE/App/usbd_cdc_if.c",
-      "line":272,
+      "line":270,
       "class":null
     },
     "value":2
@@ -26142,7 +26214,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/USB_DEVICE/App/usbd_cdc_if.c",
-      "line":272,
+      "line":270,
       "class":null
     },
     "value":2
@@ -26154,7 +26226,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/USB_DEVICE/App/usbd_cdc_if.c",
-      "line":272,
+      "line":270,
       "class":null
     },
     "value":10
@@ -26166,7 +26238,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/USB_DEVICE/App/usbd_cdc_if.c",
-      "line":297,
+      "line":295,
       "class":null
     },
     "value":1
@@ -26178,7 +26250,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/USB_DEVICE/App/usbd_cdc_if.c",
-      "line":297,
+      "line":295,
       "class":null
     },
     "value":3
@@ -26190,7 +26262,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/USB_DEVICE/App/usbd_cdc_if.c",
-      "line":297,
+      "line":295,
       "class":null
     },
     "value":7
