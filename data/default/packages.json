@@ -26,8 +26,8 @@
     "authors":[],
     "bugTracker":null,
     "id":"swarmus_ros_simulation",
-    "size":"44.90",
-    "lines":1270,
+    "size":"47.56",
+    "lines":1320,
     "analysis":{
       "metrics":{},
       "violations":{
@@ -35,7 +35,7 @@
       }
     },
     "version":"0.0.0",
-    "sloc":965
+    "sloc":1013
   },
   {
     "wiki":null,
