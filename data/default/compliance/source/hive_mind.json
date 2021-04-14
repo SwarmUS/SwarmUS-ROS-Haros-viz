@@ -78,7 +78,7 @@
     "rule":"max_function_length_40"
   },
   {
-    "comment":"function with 9 parameters",
+    "comment":"function with 10 parameters",
     "resources":[],
     "location":{
       "function":"BittyBuzzVm::BittyBuzzVm",
@@ -91,7 +91,7 @@
     "rule":"max_function_parameters_6"
   },
   {
-    "comment":"File length (PLOC) of 731",
+    "comment":"File length (PLOC) of 732",
     "resources":[],
     "location":{
       "function":null,
@@ -104,7 +104,7 @@
     "rule":"max_file_length_400"
   },
   {
-    "comment":"function with 8 parameters",
+    "comment":"function with 9 parameters",
     "resources":[],
     "location":{
       "function":"BittyBuzzVmTestFixture::SetUp",
@@ -115,6 +115,19 @@
       "class":null
     },
     "rule":"max_function_parameters_6"
+  },
+  {
+    "comment":"Function length of 45",
+    "resources":[],
+    "location":{
+      "function":"InterlocManager::gazeboUpdateCallback",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/posix/src/InterlocManager.cpp",
+      "line":91,
+      "class":null
+    },
+    "rule":"max_function_length_40"
   },
   {
     "comment":"function with cyclomatic complexity 25",
