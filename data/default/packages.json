@@ -26,8 +26,8 @@
     "authors":[],
     "bugTracker":null,
     "id":"swarmus_ros_simulation",
-    "size":"48.19",
-    "lines":1327,
+    "size":"47.56",
+    "lines":1320,
     "analysis":{
       "metrics":{},
       "violations":{
@@ -35,7 +35,7 @@
       }
     },
     "version":"0.0.0",
-    "sloc":1019
+    "sloc":1013
   },
   {
     "wiki":null,
@@ -46,27 +46,23 @@
       "SwarmUS"
     ],
     "dependencies":[
-      "tf2_geometry_msgs",
-      "roscpp",
-      "gazebo_msgs",
+      "message_generation",
       "message_runtime",
       "std_msgs",
-      "tf2_ros",
-      "message_generation",
-      "tf2"
+      "roscpp"
     ],
     "authors":[],
     "bugTracker":null,
     "id":"hive_mind",
-    "size":"3335.20",
-    "lines":95930,
+    "size":"3280.41",
+    "lines":94433,
     "analysis":{
       "metrics":{},
       "violations":{
         "haros_plugin_pylint:convention":36,
         "max_cyclomatic_complexity_15":7,
         "haros_plugin_pylint:refactor":4,
-        "max_function_length_40":20,
+        "max_function_length_40":19,
         "max_cyclomatic_complexity_10":12,
         "max_file_length_400":3,
         "haros_plugin_pylint:warning":5,
@@ -74,7 +70,7 @@
       }
     },
     "version":"0.0.0",
-    "sloc":90802
+    "sloc":89576
   },
   {
     "wiki":null,
