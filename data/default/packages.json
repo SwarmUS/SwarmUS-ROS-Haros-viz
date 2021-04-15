@@ -94,14 +94,14 @@
     "authors":[],
     "bugTracker":null,
     "id":"swarmus_ros_description",
-    "size":"1267.93",
-    "lines":1649,
+    "size":"1268.19",
+    "lines":1651,
     "analysis":{
       "metrics":{},
       "violations":{}
     },
     "version":"0.0.0",
-    "sloc":1581
+    "sloc":1583
   },
   {
     "wiki":null,
