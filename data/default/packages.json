@@ -8,6 +8,8 @@
       "SwarmUS"
     ],
     "dependencies":[
+      "hive_connect",
+      "hive_mind_bridge",
       "xacro",
       "roscpp",
       "controller_manager",
@@ -15,6 +17,7 @@
       "message_runtime",
       "std_msgs",
       "rtabmap_ros",
+      "hive_mind",
       "tf",
       "swarmus_ros_description",
       "geometry_msgs",
@@ -26,8 +29,8 @@
     "authors":[],
     "bugTracker":null,
     "id":"swarmus_ros_simulation",
-    "size":"47.55",
-    "lines":1309,
+    "size":"47.68",
+    "lines":1312,
     "analysis":{
       "metrics":{},
       "violations":{
@@ -35,7 +38,7 @@
       }
     },
     "version":"0.0.0",
-    "sloc":1004
+    "sloc":1007
   },
   {
     "wiki":null,
