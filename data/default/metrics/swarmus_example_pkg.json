@@ -5,83 +5,11 @@
       "function":null,
       "package":"swarmus_example_pkg",
       "column":null,
-      "file":"test/DummyUtilsTests.cpp",
+      "file":"include/swarmus_example_pkg/DummyUtils.h",
       "line":null,
       "class":null
     },
-    "value":7
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST",
-      "package":"swarmus_example_pkg",
-      "column":null,
-      "file":"test/DummyUtilsTests.cpp",
-      "line":4,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST",
-      "package":"swarmus_example_pkg",
-      "column":null,
-      "file":"test/DummyUtilsTests.cpp",
-      "line":4,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST",
-      "package":"swarmus_example_pkg",
-      "column":null,
-      "file":"test/DummyUtilsTests.cpp",
-      "line":4,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"TEST",
-      "package":"swarmus_example_pkg",
-      "column":null,
-      "file":"test/DummyUtilsTests.cpp",
-      "line":6,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"TEST",
-      "package":"swarmus_example_pkg",
-      "column":null,
-      "file":"test/DummyUtilsTests.cpp",
-      "line":6,
-      "class":null
-    },
-    "value":2
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"TEST",
-      "package":"swarmus_example_pkg",
-      "column":null,
-      "file":"test/DummyUtilsTests.cpp",
-      "line":6,
-      "class":null
-    },
-    "value":4
+    "value":3
   },
   {
     "metric":"ploc",
@@ -257,10 +185,82 @@
       "function":null,
       "package":"swarmus_example_pkg",
       "column":null,
-      "file":"include/swarmus_example_pkg/DummyUtils.h",
+      "file":"test/DummyUtilsTests.cpp",
       "line":null,
       "class":null
     },
-    "value":3
+    "value":7
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST",
+      "package":"swarmus_example_pkg",
+      "column":null,
+      "file":"test/DummyUtilsTests.cpp",
+      "line":4,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST",
+      "package":"swarmus_example_pkg",
+      "column":null,
+      "file":"test/DummyUtilsTests.cpp",
+      "line":4,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST",
+      "package":"swarmus_example_pkg",
+      "column":null,
+      "file":"test/DummyUtilsTests.cpp",
+      "line":4,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"TEST",
+      "package":"swarmus_example_pkg",
+      "column":null,
+      "file":"test/DummyUtilsTests.cpp",
+      "line":6,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"TEST",
+      "package":"swarmus_example_pkg",
+      "column":null,
+      "file":"test/DummyUtilsTests.cpp",
+      "line":6,
+      "class":null
+    },
+    "value":2
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"TEST",
+      "package":"swarmus_example_pkg",
+      "column":null,
+      "file":"test/DummyUtilsTests.cpp",
+      "line":6,
+      "class":null
+    },
+    "value":4
   }
 ]
