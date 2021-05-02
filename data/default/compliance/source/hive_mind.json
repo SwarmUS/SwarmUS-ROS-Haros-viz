@@ -1,13 +1,13 @@
 [
   {
-    "comment":"Function length of 45",
+    "comment":"Function length of 50",
     "resources":[],
     "location":{
       "function":"InterlocManager::gazeboUpdateCallback",
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/InterlocManager.cpp",
-      "line":91,
+      "line":117,
       "class":null
     },
     "rule":"max_function_length_40"
@@ -221,7 +221,7 @@
     "rule":"max_function_length_40"
   },
   {
-    "comment":"function with cyclomatic complexity 19",
+    "comment":"function with cyclomatic complexity 20",
     "resources":[],
     "location":{
       "function":"HAL_SPI_MspInit",
@@ -234,7 +234,7 @@
     "rule":"max_cyclomatic_complexity_10"
   },
   {
-    "comment":"function with cyclomatic complexity 19",
+    "comment":"function with cyclomatic complexity 20",
     "resources":[],
     "location":{
       "function":"HAL_SPI_MspInit",
@@ -247,7 +247,7 @@
     "rule":"max_cyclomatic_complexity_15"
   },
   {
-    "comment":"Function length of 190",
+    "comment":"Function length of 197",
     "resources":[],
     "location":{
       "function":"HAL_SPI_MspInit",
@@ -260,33 +260,46 @@
     "rule":"max_function_length_40"
   },
   {
-    "comment":"function with cyclomatic complexity 15",
+    "comment":"function with cyclomatic complexity 16",
     "resources":[],
     "location":{
       "function":"HAL_SPI_MspDeInit",
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/spi.c",
-      "line":498,
+      "line":517,
       "class":null
     },
     "rule":"max_cyclomatic_complexity_10"
   },
   {
-    "comment":"Function length of 51",
+    "comment":"function with cyclomatic complexity 16",
     "resources":[],
     "location":{
       "function":"HAL_SPI_MspDeInit",
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/spi.c",
-      "line":498,
+      "line":517,
+      "class":null
+    },
+    "rule":"max_cyclomatic_complexity_15"
+  },
+  {
+    "comment":"Function length of 53",
+    "resources":[],
+    "location":{
+      "function":"HAL_SPI_MspDeInit",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/hal/stm32f429zi/Core/Src/spi.c",
+      "line":517,
       "class":null
     },
     "rule":"max_function_length_40"
   },
   {
-    "comment":"Function length of 107",
+    "comment":"Function length of 114",
     "resources":[],
     "location":{
       "function":"MX_GPIO_Init",
@@ -364,56 +377,69 @@
     "rule":"max_function_length_40"
   },
   {
-    "comment":"function with cyclomatic complexity 25",
+    "comment":"function with cyclomatic complexity 34",
     "resources":[],
     "location":{
       "function":"SpiEsp::execute",
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/SpiEsp.cpp",
-      "line":70,
+      "line":82,
       "class":null
     },
     "rule":"max_cyclomatic_complexity_10"
   },
   {
-    "comment":"function with cyclomatic complexity 25",
+    "comment":"function with cyclomatic complexity 34",
     "resources":[],
     "location":{
       "function":"SpiEsp::execute",
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/SpiEsp.cpp",
-      "line":70,
+      "line":82,
       "class":null
     },
     "rule":"max_cyclomatic_complexity_15"
   },
   {
-    "comment":"Function length of 93",
+    "comment":"Function length of 131",
     "resources":[],
     "location":{
       "function":"SpiEsp::execute",
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/stm32/src/SpiEsp.cpp",
-      "line":70,
+      "line":82,
       "class":null
     },
     "rule":"max_function_length_40"
   },
   {
-    "comment":"function with 10 parameters",
+    "comment":"function with cyclomatic complexity 12",
     "resources":[],
     "location":{
-      "function":"BittyBuzzVm::BittyBuzzVm",
+      "function":"InterlocStateContainer::getState",
       "package":"hive_mind",
       "column":null,
-      "file":"src/bittybuzz/include/bittybuzz/BittyBuzzVm.tpp",
-      "line":10,
+      "file":"src/bsp/src/stm32/src/interloc/src/states/src/InterlocStateContainer.cpp",
+      "line":16,
       "class":null
     },
-    "rule":"max_function_parameters_6"
+    "rule":"max_cyclomatic_complexity_10"
+  },
+  {
+    "comment":"Function length of 50",
+    "resources":[],
+    "location":{
+      "function":"InterlocStateContainer::getState",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bsp/src/stm32/src/interloc/src/states/src/InterlocStateContainer.cpp",
+      "line":16,
+      "class":null
+    },
+    "rule":"max_function_length_40"
   },
   {
     "comment":"function with cyclomatic complexity 11",
@@ -468,7 +494,85 @@
     "rule":"max_function_length_40"
   },
   {
-    "comment":"File length (PLOC) of 732",
+    "comment":"function with cyclomatic complexity 16",
+    "resources":[],
+    "location":{
+      "function":"BittyBuzzSystem::getErrorString",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bittybuzz/src/BittyBuzzSystem.cpp",
+      "line":50,
+      "class":null
+    },
+    "rule":"max_cyclomatic_complexity_10"
+  },
+  {
+    "comment":"function with cyclomatic complexity 16",
+    "resources":[],
+    "location":{
+      "function":"BittyBuzzSystem::getErrorString",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bittybuzz/src/BittyBuzzSystem.cpp",
+      "line":50,
+      "class":null
+    },
+    "rule":"max_cyclomatic_complexity_15"
+  },
+  {
+    "comment":"function with cyclomatic complexity 48",
+    "resources":[],
+    "location":{
+      "function":"BittyBuzzSystem::getInstructionString",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bittybuzz/src/BittyBuzzSystem.cpp",
+      "line":87,
+      "class":null
+    },
+    "rule":"max_cyclomatic_complexity_10"
+  },
+  {
+    "comment":"function with cyclomatic complexity 48",
+    "resources":[],
+    "location":{
+      "function":"BittyBuzzSystem::getInstructionString",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bittybuzz/src/BittyBuzzSystem.cpp",
+      "line":87,
+      "class":null
+    },
+    "rule":"max_cyclomatic_complexity_15"
+  },
+  {
+    "comment":"Function length of 100",
+    "resources":[],
+    "location":{
+      "function":"BittyBuzzSystem::getInstructionString",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bittybuzz/src/BittyBuzzSystem.cpp",
+      "line":87,
+      "class":null
+    },
+    "rule":"max_function_length_40"
+  },
+  {
+    "comment":"function with 9 parameters",
+    "resources":[],
+    "location":{
+      "function":"BittyBuzzVm::BittyBuzzVm",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bittybuzz/src/BittyBuzzVm.cpp",
+      "line":9,
+      "class":null
+    },
+    "rule":"max_function_parameters_6"
+  },
+  {
+    "comment":"File length (PLOC) of 734",
     "resources":[],
     "location":{
       "function":null,
@@ -492,6 +596,19 @@
       "class":null
     },
     "rule":"max_function_parameters_6"
+  },
+  {
+    "comment":"Function length of 43",
+    "resources":[],
+    "location":{
+      "function":"TEST_F",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/bittybuzz/tests/vm_tests/BittyBuzzVmNeighborsDistanceTests.cpp",
+      "line":62,
+      "class":null
+    },
+    "rule":"max_function_length_40"
   },
   {
     "comment":"function with 9 parameters",
