@@ -7,7 +7,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/InterlocManager.cpp",
-      "line":117,
+      "line":80,
       "class":null
     },
     "rule":"max_function_length_40"

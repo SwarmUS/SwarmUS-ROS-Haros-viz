@@ -61,8 +61,8 @@
     "authors":[],
     "bugTracker":null,
     "id":"hive_mind",
-    "size":"3414.36",
-    "lines":98354,
+    "size":"3413.79",
+    "lines":98324,
     "analysis":{
       "metrics":{},
       "violations":{
@@ -77,7 +77,7 @@
       }
     },
     "version":"0.0.0",
-    "sloc":92763
+    "sloc":92740
   },
   {
     "wiki":null,

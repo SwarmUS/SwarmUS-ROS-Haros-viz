@@ -9,7 +9,7 @@
       "line":null,
       "class":null
     },
-    "value":261
+    "value":269
   },
   {
     "metric":"cyclomatic_complexity",
@@ -18,7 +18,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":34,
+      "line":31,
       "class":null
     },
     "value":1
@@ -30,7 +30,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":34,
+      "line":31,
       "class":null
     },
     "value":2
@@ -42,7 +42,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":34,
+      "line":31,
       "class":null
     },
     "value":14
@@ -54,7 +54,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":57,
+      "line":54,
       "class":null
     },
     "value":4
@@ -66,7 +66,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":57,
+      "line":54,
       "class":null
     },
     "value":0
@@ -78,7 +78,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":57,
+      "line":54,
       "class":null
     },
     "value":19
@@ -90,7 +90,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":82,
+      "line":79,
       "class":null
     },
     "value":1
@@ -102,7 +102,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":82,
+      "line":79,
       "class":null
     },
     "value":4
@@ -114,7 +114,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":82,
+      "line":79,
       "class":null
     },
     "value":9
@@ -126,7 +126,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":94,
+      "line":91,
       "class":null
     },
     "value":1
@@ -138,7 +138,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":94,
+      "line":91,
       "class":null
     },
     "value":1
@@ -150,7 +150,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":94,
+      "line":91,
       "class":null
     },
     "value":1
@@ -162,7 +162,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":102,
+      "line":99,
       "class":null
     },
     "value":4
@@ -174,7 +174,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":102,
+      "line":99,
       "class":null
     },
     "value":0
@@ -186,7 +186,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":102,
+      "line":99,
       "class":null
     },
     "value":16
@@ -198,7 +198,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":125,
+      "line":122,
       "class":null
     },
     "value":1
@@ -210,7 +210,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":125,
+      "line":122,
       "class":null
     },
     "value":4
@@ -222,7 +222,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":125,
+      "line":122,
       "class":null
     },
     "value":9
@@ -234,7 +234,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":137,
+      "line":134,
       "class":null
     },
     "value":1
@@ -246,7 +246,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":137,
+      "line":134,
       "class":null
     },
     "value":1
@@ -258,7 +258,43 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":137,
+      "line":134,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"MessageSenderTask::setSerializer",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/Main.cpp",
+      "line":135,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"MessageSenderTask::setSerializer",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/Main.cpp",
+      "line":135,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"MessageSenderTask::setSerializer",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/Main.cpp",
+      "line":135,
       "class":null
     },
     "value":1
@@ -270,79 +306,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":145,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"MessageSenderTask::task",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":145,
-      "class":null
-    },
-    "value":0
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"MessageSenderTask::task",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":145,
-      "class":null
-    },
-    "value":15
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"CommMonitoringTask::CommMonitoringTask",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":165,
-      "class":null
-    },
-    "value":1
-  },
-  {
-    "metric":"function_parameters",
-    "location":{
-      "function":"CommMonitoringTask::CommMonitoringTask",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":165,
-      "class":null
-    },
-    "value":5
-  },
-  {
-    "metric":"ploc",
-    "location":{
-      "function":"CommMonitoringTask::CommMonitoringTask",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":165,
-      "class":null
-    },
-    "value":10
-  },
-  {
-    "metric":"cyclomatic_complexity",
-    "location":{
-      "function":"CommMonitoringTask::task",
-      "package":"hive_mind",
-      "column":null,
-      "file":"src/Main.cpp",
-      "line":182,
+      "line":144,
       "class":null
     },
     "value":7
@@ -350,11 +314,83 @@
   {
     "metric":"function_parameters",
     "location":{
+      "function":"MessageSenderTask::task",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/Main.cpp",
+      "line":144,
+      "class":null
+    },
+    "value":0
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"MessageSenderTask::task",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/Main.cpp",
+      "line":144,
+      "class":null
+    },
+    "value":16
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
+      "function":"CommMonitoringTask::CommMonitoringTask<SerializerType>",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/Main.cpp",
+      "line":166,
+      "class":null
+    },
+    "value":1
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"CommMonitoringTask::CommMonitoringTask<SerializerType>",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/Main.cpp",
+      "line":166,
+      "class":null
+    },
+    "value":5
+  },
+  {
+    "metric":"ploc",
+    "location":{
+      "function":"CommMonitoringTask::CommMonitoringTask<SerializerType>",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/Main.cpp",
+      "line":166,
+      "class":null
+    },
+    "value":11
+  },
+  {
+    "metric":"cyclomatic_complexity",
+    "location":{
       "function":"CommMonitoringTask::task",
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":182,
+      "line":185,
+      "class":null
+    },
+    "value":9
+  },
+  {
+    "metric":"function_parameters",
+    "location":{
+      "function":"CommMonitoringTask::task",
+      "package":"hive_mind",
+      "column":null,
+      "file":"src/Main.cpp",
+      "line":185,
       "class":null
     },
     "value":0
@@ -366,10 +402,10 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":182,
+      "line":185,
       "class":null
     },
-    "value":23
+    "value":27
   },
   {
     "metric":"cyclomatic_complexity",
@@ -378,7 +414,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":216,
+      "line":224,
       "class":null
     },
     "value":1
@@ -390,7 +426,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":216,
+      "line":224,
       "class":null
     },
     "value":2
@@ -402,7 +438,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":216,
+      "line":224,
       "class":null
     },
     "value":2
@@ -414,7 +450,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":222,
+      "line":230,
       "class":null
     },
     "value":1
@@ -426,7 +462,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":222,
+      "line":230,
       "class":null
     },
     "value":0
@@ -438,7 +474,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":222,
+      "line":230,
       "class":null
     },
     "value":1
@@ -450,7 +486,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":227,
+      "line":235,
       "class":null
     },
     "value":1
@@ -462,7 +498,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":227,
+      "line":235,
       "class":null
     },
     "value":2
@@ -474,7 +510,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":227,
+      "line":235,
       "class":null
     },
     "value":5
@@ -486,7 +522,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":242,
+      "line":250,
       "class":null
     },
     "value":3
@@ -498,7 +534,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":242,
+      "line":250,
       "class":null
     },
     "value":0
@@ -510,7 +546,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":242,
+      "line":250,
       "class":null
     },
     "value":8
@@ -522,7 +558,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":255,
+      "line":263,
       "class":null
     },
     "value":1
@@ -534,7 +570,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":255,
+      "line":263,
       "class":null
     },
     "value":2
@@ -546,7 +582,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":255,
+      "line":263,
       "class":null
     },
     "value":4
@@ -558,7 +594,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":266,
+      "line":274,
       "class":null
     },
     "value":3
@@ -570,7 +606,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":266,
+      "line":274,
       "class":null
     },
     "value":0
@@ -582,7 +618,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":266,
+      "line":274,
       "class":null
     },
     "value":11
@@ -594,7 +630,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":279,
+      "line":287,
       "class":null
     },
     "value":1
@@ -606,7 +642,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":279,
+      "line":287,
       "class":null
     },
     "value":2
@@ -618,7 +654,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/Main.cpp",
-      "line":279,
+      "line":287,
       "class":null
     },
     "value":32
@@ -3249,7 +3285,7 @@
       "line":null,
       "class":null
     },
-    "value":40
+    "value":38
   },
   {
     "metric":"ploc",
@@ -4377,7 +4413,7 @@
       "line":null,
       "class":null
     },
-    "value":159
+    "value":132
   },
   {
     "metric":"cyclomatic_complexity",
@@ -4569,7 +4605,7 @@
       "line":58,
       "class":null
     },
-    "value":7
+    "value":1
   },
   {
     "metric":"function_parameters",
@@ -4581,7 +4617,7 @@
       "line":58,
       "class":null
     },
-    "value":2
+    "value":1
   },
   {
     "metric":"ploc",
@@ -4593,7 +4629,7 @@
       "line":58,
       "class":null
     },
-    "value":30
+    "value":3
   },
   {
     "metric":"cyclomatic_complexity",
@@ -4602,7 +4638,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/InterlocManager.cpp",
-      "line":99,
+      "line":62,
       "class":null
     },
     "value":2
@@ -4614,7 +4650,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/InterlocManager.cpp",
-      "line":99,
+      "line":62,
       "class":null
     },
     "value":1
@@ -4626,7 +4662,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/InterlocManager.cpp",
-      "line":99,
+      "line":62,
       "class":null
     },
     "value":14
@@ -4638,7 +4674,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/InterlocManager.cpp",
-      "line":117,
+      "line":80,
       "class":null
     },
     "value":9
@@ -4650,7 +4686,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/InterlocManager.cpp",
-      "line":117,
+      "line":80,
       "class":null
     },
     "value":1
@@ -4662,7 +4698,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/InterlocManager.cpp",
-      "line":117,
+      "line":80,
       "class":null
     },
     "value":50
@@ -4674,7 +4710,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/InterlocManager.cpp",
-      "line":186,
+      "line":149,
       "class":null
     },
     "value":1
@@ -4686,7 +4722,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/InterlocManager.cpp",
-      "line":186,
+      "line":149,
       "class":null
     },
     "value":0
@@ -4698,7 +4734,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/InterlocManager.cpp",
-      "line":186,
+      "line":149,
       "class":null
     },
     "value":8
@@ -4710,7 +4746,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/InterlocManager.cpp",
-      "line":196,
+      "line":159,
       "class":null
     },
     "value":1
@@ -4722,7 +4758,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/InterlocManager.cpp",
-      "line":196,
+      "line":159,
       "class":null
     },
     "value":2
@@ -4734,7 +4770,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/InterlocManager.cpp",
-      "line":196,
+      "line":159,
       "class":null
     },
     "value":5
@@ -4746,7 +4782,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/InterlocManager.cpp",
-      "line":203,
+      "line":166,
       "class":null
     },
     "value":1
@@ -4758,7 +4794,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/InterlocManager.cpp",
-      "line":203,
+      "line":166,
       "class":null
     },
     "value":0
@@ -4770,7 +4806,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/InterlocManager.cpp",
-      "line":203,
+      "line":166,
       "class":null
     },
     "value":1
@@ -4782,7 +4818,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/InterlocManager.cpp",
-      "line":204,
+      "line":167,
       "class":null
     },
     "value":1
@@ -4794,7 +4830,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/InterlocManager.cpp",
-      "line":204,
+      "line":167,
       "class":null
     },
     "value":3
@@ -4806,7 +4842,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/InterlocManager.cpp",
-      "line":204,
+      "line":167,
       "class":null
     },
     "value":7
@@ -4818,7 +4854,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/InterlocManager.cpp",
-      "line":211,
+      "line":174,
       "class":null
     },
     "value":1
@@ -4830,7 +4866,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/InterlocManager.cpp",
-      "line":211,
+      "line":174,
       "class":null
     },
     "value":0
@@ -4842,7 +4878,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/InterlocManager.cpp",
-      "line":211,
+      "line":174,
       "class":null
     },
     "value":1
@@ -4854,7 +4890,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/InterlocManager.cpp",
-      "line":212,
+      "line":175,
       "class":null
     },
     "value":1
@@ -4866,7 +4902,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/InterlocManager.cpp",
-      "line":212,
+      "line":175,
       "class":null
     },
     "value":1
@@ -4878,7 +4914,7 @@
       "package":"hive_mind",
       "column":null,
       "file":"src/bsp/src/posix/src/InterlocManager.cpp",
-      "line":212,
+      "line":175,
       "class":null
     },
     "value":1
